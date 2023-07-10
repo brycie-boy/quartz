@@ -1,27 +1,34 @@
 ---
-title: 🪴 Quartz 3.3
+title: The Cosmos
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# ![[781CA0A5-AC0B-4EC1-86C6-E84051BE7E85.gif|45]]The Cosmos 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+>  Per Wiki: “The **cosmos** is another name for the Universe. Using the word _cosmos_ implies viewing the universe as a complex and orderly system or entity 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+![[3449D76E-C7A0-416E-80E2-3F2D58C482FD.png]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Greetings traveler!👋 My name is [[Bryce McAlister]]. You have happened to stumble across The Cosmos. The Cosmos is, in short, my thinking, learning and writing environment. It is primarily where i engage in [[Time-Binding Semantic Circuit exercises]]. Or in other words, It is here that I dive into the depths of the chaotic universe that is my mind and attempt to emerge with coherent insights to share with the world.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Here are some places where you can take a deeper look into The Cosmos:
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+### My Work 
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+- [[ ⌨️ The Blog ]] (TBA)
 
+### My Notes
+
+- If you wish to take a step into my mind and navigate the depths of The Cosmos, you can do so through my home note [[🫀 The Core]]. 
+- For a more in depth explanation of this thinking, learning and writing process, visit  [[☯️ The Flow]]. 
+- For a reading list of my favorite sources that have fed The Cosmos, visit [[📚 The Library]].
+
+### The Cosmos Lore
+
+- The first note of The Cosmos: [[👁 The Monad]]
+
+##### Contact me:
+
+##### Buy me a coffee ![[FCE18890-F7A9-4DB1-9066-18A4CFC0EB65.gif|20]]
+
+(later)
