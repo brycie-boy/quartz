@@ -19,7 +19,7 @@ Here are some places where you can take a deeper look into The Cosmos:
 
 ### My Notes
 
-- If you wish to take a step into my mind and navigate the depths of The Cosmos, you can do so through my home note [[🫀 The Core]]. 
+- If you wish to take a step into my mind and navigate the depths of The Cosmos, you can do so through my home note [[🫀 The Core.md]]. 
 - For a more in depth explanation of this thinking, learning and writing process, visit  [[☯️ The Flow]]. 
 - For a reading list of my favorite sources that have fed The Cosmos, visit [[📚 The Library]].
 
