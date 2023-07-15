@@ -1,3 +1,3 @@
 !#/bin/bash
 
-cd ~/Documents/hugo-obsidian; rm -fr ~/Documents/quartz/content/*; rm -rf ~/Documents/quartz/public/*; ~/Documents/obsidian-export/target/debug/obsidian-export --add-titles --frontmatter=always ~/Documents/The_Cosmos ~/Documents/quartz/content; go run ~/Documents/hugo-obsidian -input=/Users/cyb3r/Documents/quartz/content -output=/Users/cyb3r/Documents/quartz/assets/indices -index -root=/Users/cyb3r/Documents/quartz; (cd ~/Documents/quartz && hugo --minify)k
+cd ~/Documents/hugo-obsidian; rm -fr ~/Documents/quartz/content/*; rm -rf ~/Documents/quartz/public/*; ~/Documents/obsidian-export/target/debug/obsidian-export --add-titles --frontmatter=always ~/Documents/The_Cosmos ~/Documents/quartz/content; go run ~/Documents/hugo-obsidian -input=/Users/cyb3r/Documents/quartz/content -output=/Users/cyb3r/Documents/quartz/assets/indices -index -root=/Users/cyb3r/Documents/quartz; (cd ~/Documents/quartz && hugo --minify)
