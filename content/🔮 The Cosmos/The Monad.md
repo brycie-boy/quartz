@@ -1,3 +1,8 @@
+---
+enableToc: false
+enableDate: false
+---
+
 ![F3E7BDB7-1926-4F6A-A18C-627B3057C9BD.webp](../F3E7BDB7-1926-4F6A-A18C-627B3057C9BD.webp)
 
 ## The Beginning
