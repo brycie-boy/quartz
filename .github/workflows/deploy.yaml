@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: brycie-boy.github.io
+          cname: thecosmos.brycemcalister.com
