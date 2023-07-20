@@ -65,7 +65,7 @@ p, ul, text, a, tr, td, li, ol, ul {
   font-family: var(--font-body);
   color: var(--gray);
   fill: var(--gray);
-  font-weight: revert;
+  font-weight: none;
   margin: revert;
   padding: revert;
 }
