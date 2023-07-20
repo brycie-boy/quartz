@@ -1,0 +1,56 @@
+## Medicine Constellation
+
+### Medicine Notes
+
+* [Modern medicine tends to target the pathology of an illness rather than preventing it](Modern%20medicine%20tends%20to%20target%20the%20pathology%20of%20an%20illness%20rather%20than%20preventing%20it.md)
+* [Metabolic syndrome is a complex multifactoral condition with multiple morbitities](Metabolic%20syndrome%20is%20a%20complex%20multifactoral%20condition%20with%20multiple%20morbitities.md)
+* [Weight gain occurs after metabolic syndrome](Weight%20gain%20occurs%20after%20metabolic%20syndrome.md)
+* [You can still have metabolic syndrome even if your thin](You%20can%20still%20have%20metabolic%20syndrome%20even%20if%20your%20thin.md)
+* [There are overweight people without who are not sick](There%20are%20overweight%20people%20without%20who%20are%20not%20sick.md)
+* [Most people at risk for diabetes cannot prevent it with diet and exercise](Most%20people%20at%20risk%20for%20diabetes%20cannot%20prevent%20it%20with%20diet%20and%20exercise.md)
+* [Relatively high LDL-C doesn't usually lead to a heart attack for most people](Relatively%20high%20LDL-C%20doesn't%20usually%20lead%20to%20a%20heart%20attack%20for%20most%20people.md)
+* [Low-fat diet and statins do not change LDL-C levels much](Low-fat%20diet%20and%20statins%20do%20not%20change%20LDL-C%20levels%20much.md)
+* [Low fat diet and statins do not prevent heart attack because they only lower levels of large boyant LDL-C](Low%20fat%20diet%20and%20statins%20do%20not%20prevent%20heart%20attack%20because%20they%20only%20lower%20levels%20of%20large%20boyant%20LDL-C.md)
+* [Refined carbohydrates and sugar increase levels of small dense LDL](Refined%20carbohydrates%20and%20sugar%20increase%20levels%20of%20small%20dense%20LDL.md)
+* [Triglyceride levels are a better biomarker for heart disease than LDL-C](Triglyceride%20levels%20are%20a%20better%20biomarker%20for%20heart%20disease%20than%20LDL-C.md)
+* [Insulin resistance inhibits sodium excretion by the kidney](Insulin%20resistance%20inhibits%20sodium%20excretion%20by%20the%20kidney.md)
+* [Reducing sugar intake is a better way to fix high blood pressure than lowering salt](Reducing%20sugar%20intake%20is%20a%20better%20way%20to%20fix%20high%20blood%20pressure%20than%20lowering%20salt.md)
+* [Diabetes](Diabetes.md)
+* [Medications for high blood glucose lead to increased mortality in type-2 diabetics](Medications%20for%20high%20blood%20glucose%20lead%20to%20increased%20mortality%20in%20type-2%20diabetics.md)
+* [High insulin levels cause diabetes rather than high blood glucose itself](High%20insulin%20levels%20cause%20diabetes%20rather%20than%20high%20blood%20glucose%20itself.md)
+* [Insulin can be both good and bad for you](Insulin%20can%20be%20both%20good%20and%20bad%20for%20you.md)
+* [US medicine in the 19th century lacked standardization](US%20medicine%20in%20the%2019th%20century%20lacked%20standardization.md)
+* [Johns Hopkins medical school adopted the German educational structure in the late 19th century in an attempt to establish itself as a beacon of evidence-based medicine and science](Johns%20Hopkins%20medical%20school%20adopted%20the%20German%20educational%20structure%20in%20the%20late%2019th%20century%20in%20an%20attempt%20to%20establish%20itself%20as%20a%20beacon%20of%20evidence-based%20medicine%20and%20science.md)
+* [Simon Flexner](Simon%20Flexner.md)
+* [Abraham Flexner](Abraham%20Flexner.md)
+* [In the late 19th century, John D. Rockefeller's buisness advisor Fredrick Gates had him to open a medical research institute](In%20the%20late%2019th%20century,%20John%20D.%20Rockefeller's%20buisness%20advisor%20Fredrick%20Gates%20had%20him%20to%20open%20a%20medical%20research%20institute.md)
+* [The successful pharmaceutical industry esblished by Auschwitz nerve gas creator IG Farben motivated John D. Rockefeller to fund the restructuring of American medical school](The%20successful%20pharmaceutical%20industry%20esblished%20by%20Auschwitz%20nerve%20gas%20creator%20IG%20Farben%20motivated%20John%20D.%20Rockefeller%20to%20fund%20the%20restructuring%20of%20American%20medical%20school.md)
+* [Abraham Flexner was assigned to direct John D. Rockefellers restructering of American medical school](Abraham%20Flexner%20was%20assigned%20to%20direct%20John%20D.%20Rockefellers%20restructering%20of%20American%20medical%20school.md)
+* [Flexner Report](Flexner%20Report.md)
+* [Government and university medical research has been cut back in favor of Big Pharmas own research](Government%20and%20university%20medical%20research%20has%20been%20cut%20back%20in%20favor%20of%20Big%20Pharmas%20own%20research.md)
+* [Big Pharma's own research is often biased toward their own drug](Big%20Pharma's%20own%20research%20is%20often%20biased%20toward%20their%20own%20drug.md)
+* [Big Pharma influnces doctors by funding medical schools](Big%20Pharma%20influnces%20doctors%20by%20funding%20medical%20schools.md)
+* [Big Pharma uses their own medical symposiums or reps to bypass institutions co-opt prescribers directly](Big%20Pharma%20uses%20their%20own%20medical%20symposiums%20or%20reps%20to%20bypass%20institutions%20co-opt%20prescribers%20directly.md)
+* [Ketones can help prevent neurodegenerative disease](Ketones%20can%20help%20prevent%20neurodegenerative%20disease.md)
+* [Eugenics began with SIr Francis Galton's assumption that desirable traits could be selected for in humans by selectively breeding the population](Eugenics%20began%20with%20SIr%20Francis%20Galton's%20assumption%20that%20desirable%20traits%20could%20be%20selected%20for%20in%20humans%20by%20selectively%20breeding%20the%20population.md)
+* [Genetic theories of medical or mental conditions can enable people or society to absolve themselves from responsibility](Genetic%20theories%20of%20medical%20or%20mental%20conditions%20can%20enable%20people%20or%20society%20to%20absolve%20themselves%20from%20responsibility.md)
+* [Stress-related disease among the poor usually has more to do with feeling poor than actually being poor](Stress-related%20disease%20among%20the%20poor%20usually%20has%20more%20to%20do%20with%20feeling%20poor%20than%20actually%20being%20poor.md)
+* [Income inequality is a strong predictor of poor health because it is about being made to feel poor](Income%20inequality%20is%20a%20strong%20predictor%20of%20poor%20health%20because%20it%20is%20about%20being%20made%20to%20feel%20poor.md)
+* [Income inequality does not predict poor health as much in more egalitarian countries](Income%20inequality%20does%20not%20predict%20poor%20health%20as%20much%20in%20more%20egalitarian%20countries.md)
+* [If you adjust for absolute income, income inequality still predicts poor health](If%20you%20adjust%20for%20absolute%20income,%20income%20inequality%20still%20predicts%20poor%20health.md)
+* [There is a steep rise in health from very poor to lower middle class, but it flattens out in the upper SES range](There%20is%20a%20steep%20rise%20in%20health%20from%20very%20poor%20to%20lower%20middle%20class,%20but%20it%20flattens%20out%20in%20the%20upper%20SES%20range.md)
+* [Societies with more income equality, both the poor and the wealthy are healthier than their counterparts in a less equal society with the same average income](Societies%20with%20more%20income%20equality,%20both%20the%20poor%20and%20the%20wealthy%20are%20healthier%20than%20their%20counterparts%20in%20a%20less%20equal%20society%20with%20the%20same%20average%20income.md)
+* [The low social capital that comes with income inequality can lead to more stress and poor health](The%20low%20social%20capital%20that%20comes%20with%20income%20inequality%20can%20lead%20to%20more%20stress%20and%20poor%20health.md)
+* [Dramatic income inequality gets rid of the possibility for there to be lots of social capital in a society, leading to more stress and poor health](Dramatic%20income%20inequality%20gets%20rid%20of%20the%20possibility%20for%20there%20to%20be%20lots%20of%20social%20capital%20in%20a%20society,%20leading%20to%20more%20stress%20and%20poor%20health.md)
+* [More social capital in a society can improve the health of the society](More%20social%20capital%20in%20a%20society%20can%20improve%20the%20health%20of%20the%20society.md)
+* [To really address the poor health of the poor, we would have to uproot the stressors involved in low rank rather than give people more money](To%20really%20address%20the%20poor%20health%20of%20the%20poor,%20we%20would%20have%20to%20uproot%20the%20stressors%20involved%20in%20low%20rank%20rather%20than%20give%20people%20more%20money.md)
+* [Unlike monkey's, humans who rank low in the hierarchy almost always have a disproportionate share of disease](Unlike%20monkey's,%20humans%20who%20rank%20low%20in%20the%20hierarchy%20almost%20always%20have%20a%20disproportionate%20share%20of%20disease.md)
+* [Modern medical science has struggled to develop a solid definition for "health" and "illness"](Modern%20medical%20science%20has%20struggled%20to%20develop%20a%20solid%20definition%20for%20"health"%20and%20"illness".md)
+* [Drug companies will alter existing drug compounds very slightly to extend patent life](Drug%20companies%20will%20alter%20existing%20drug%20compounds%20very%20slightly%20to%20extend%20patent%20life.md)
+* [Pharma raises revenue and extends patents by finding new markets for existing drugs](Pharma%20raises%20revenue%20and%20extends%20patents%20by%20finding%20new%20markets%20for%20existing%20drugs.md)
+
+---
+
+##### Metadata
+
+Status: #✨

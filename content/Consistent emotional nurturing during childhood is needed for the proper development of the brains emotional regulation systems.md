@@ -1,0 +1,19 @@
+## Consistent emotional nurturing during childhood is required for the proper development of the brains emotional regulation systems
+
+The process in which [The brain selects for the brain circuits that are most utilized throughout development](The%20brain%20selects%20for%20the%20brain%20circuits%20that%20are%20most%20utilized%20throughout%20development.md) also applies to the [Limbic system](Limbic%20system.md), as well as the regulatory centers in the [prefrontal cortex](Prefrontal%20cortex.md), such as the [orbitofrontal cortex](Orbitofrontal%20cortex.md)—the major [brain](Brain.md) areas implicated in addiction. In the case of these circuits, which process emotions and govern behavior, it is the emotional environment that is decisive. By far the dominant aspect of this environment is the role of the nurturing adults in the child’s life, especially in the early years.
+
+The three environmental conditions absolutely essential to optimal human [brain](Brain.md) development are nutrition, physical security, and consistent emotional nurturing. In the industrialized world, except in cases of severe neglect or dire poverty, the baseline nutritional and shelter needs of children are usually satisfied. The third prime necessity—emotional nurture—is the one most likely to be disrupted in Western societies. The importance of this point cannot be overstated: emotional nurturance is an absolute requirement for healthy neurobiological [brain](Brain.md) development. This is particularly so for the [brain](Brain.md) systems involved in addiction. The child needs to be in an [attachment](Attachment.md) relationship with at least one reliably available, protective, psychologically present, and reasonably nonstressed adult. Without [attachment](Attachment.md) they cannot survive; without safe, secure, and nonstressed attachment, their [brain](Brain.md) cannot develop optimally.
+
+For the infant and young child, [attachment](Attachment.md) relationships are the major environmental factors that shape the development of the [brain](Brain.md) during its period of maximal growth. [Attachment](Attachment.md) establishes an interpersonal relationship that helps the immature [brain](Brain.md) use the mature functions of the parent’s [brain](Brain.md) to organize its own processes. Infants require more than the physical presence and attention of the parent. Just as the visual circuits need light waves for their development, the [Limbic system](Limbic%20system.md) and the [orbitofrontal cortex](Orbitofrontal%20cortex.md) of the infant [brain](Brain.md) require healthy emotional input from the parenting adults. Infants read, react to, and are developmentally influenced by the psychological states of the parent ([The brains of babies mimic the emotional conditions of their caregivers](The%20brains%20of%20babies%20mimic%20the%20emotional%20conditions%20of%20their%20caregivers.md)). They are affected by body language: tension in the arms that hold them, tone of voice, joyful or despondent facial expressions, and, yes, the size of the pupils. In a very real sense, the parent’s [brain](Brain.md) programs the infant’s, and this is why stressed parents will often rear children whose stress apparatus also runs in high gear, no matter how much they love their child and no matter that they strive to do their best.
+
+---
+
+##### References
+
+* Mate, Gabor. (2010). [In the Realm of Hungry Ghosts Close Encounters with Addiction Chapter 17. Their Brains Never Had a Chance](In%20the%20Realm%20of%20Hungry%20Ghosts%20Close%20Encounters%20with%20Addiction%20Chapter%2017.%20Their%20Brains%20Never%20Had%20a%20Chance.md) (p. 234). Berkeley, CA: *North Atlantic Books*.
+
+##### Metadata
+
+Type: #🔴 
+Tags: [Biology]() / [Neuroscience](Neuroscience.md) / [Developmental Neurology](Developmental%20Neurology.md) 
+Status: #⛅️/⛅️

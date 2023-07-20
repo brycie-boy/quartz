@@ -1,9 +1,11 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+ @import url(https://db.onlinewebfonts.com/c/40ebc217b413175c58d9c6d5044f5815?family=Pixel+Operator);
+ @import url(https://db.onlinewebfonts.com/c/f779d20a1d7221b6f507caef1e471628?family=Pixel+Operator+Bold);
+ @import url(https://db.onlinewebfonts.com/c/3b7290809525cf2c604896711e04c9fe?family=Pixel+Operator+Mono+8);
 :root {
-  --font-body: "Source Sans Pro", sans-serif;
-  --font-header: "Inter", sans-serif;
-  --font-mono: "Fira Code", monospace;
+  --font-body: "Pixel Operator", sans-serif;
+  --font-header: "Pixel Operator Bold", sans-serif;
+  --font-mono: "Pixel Operator Mono 8", monospace;
 }
 
 // typography
@@ -49,6 +51,7 @@ h1, h2, h3, h4, h5, h6, thead {
   &:hover > .hanchor {
     color: var(--secondary);
   }
+
 }
 
 .hanchor {
@@ -69,6 +72,7 @@ p, ul, text, a, tr, td, li, ol, ul {
 
 tbody, li, p {
   line-height: 1.5em;
+  font-size: 1.15em;
 }
 
 .mainTOC {
@@ -182,8 +186,8 @@ blockquote {
 
 article {
   & > h1 {
-    margin-top: 2em;
-    font-size: 2em;
+    margin-top: 1em;
+    font-size: 2.3em;
   }
 
   & > .meta {
@@ -192,14 +196,14 @@ article {
   }
 
   & a {
-    font-weight: 600;
+    font-weight: none;
 
     &.internal-link {
-      text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
-      padding: 0 0.1em;
-      margin: auto -0.1em;
-      border-radius: 3px;
+      text-decoration: underline;
+      background-color: none;
+      padding: 0 0em;
+      margin: auto -0em;
+      border-radius: 0px;
 
       &.broken {
         opacity: 0.5;
@@ -263,7 +267,7 @@ sup > a {
 
 a {
   font-size: 1em;
-  font-weight: 700;
+  font-weight: none;
   text-decoration: none;
   transition: all 0.2s ease;
   color: var(--secondary);
@@ -377,7 +381,7 @@ header {
   #search-icon {
     background-color: var(--lightgray);
     border-radius: 4px;
-    height: 2em;
+    height: 0em;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -622,4 +626,21 @@ header {
 mark {
   background-color: var(--highlighted);
   color: var(--gray);
+}
+
+
+h1 {
+  font-size: 2.58em;
+}
+h2 {
+  font-size: 2.22em;
+}
+h3 {
+  font-size: 1.88em;
+}
+h4 {
+  font-size: 1.54em;
+}
+h5 {
+  font-size: 1.2em;
 }
