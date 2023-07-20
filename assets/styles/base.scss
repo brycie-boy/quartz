@@ -1,11 +1,10 @@
 // Replace this with your own font imports!
- @import url(https://db.onlinewebfonts.com/c/40ebc217b413175c58d9c6d5044f5815?family=Pixel+Operator);
- @import url(https://db.onlinewebfonts.com/c/f779d20a1d7221b6f507caef1e471628?family=Pixel+Operator+Bold);
- @import url(https://db.onlinewebfonts.com/c/3b7290809525cf2c604896711e04c9fe?family=Pixel+Operator+Mono+8);
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 :root {
-  --font-body: "Pixel Operator", sans-serif;
-  --font-header: "Pixel Operator Bold", sans-serif;
-  --font-mono: "Pixel Operator Mono 8", monospace;
+  --font-body: "Source Sans Pro", sans-serif;
+  --font-header: "Inter", sans-serif;
+  --font-mono: "Fira Code", monospace;
 }
 
 // typography
