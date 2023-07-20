@@ -44,7 +44,7 @@ body {
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
-  font-weight: revert;
+  font-weight: none;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 
@@ -84,7 +84,8 @@ tbody, li, p {
       cursor: zoom-in;
       font-family: var(--font-header);
       color: var(--dark);
-      font-weight: 700;
+      font-weight: none;
+      font-size: 1.15em;
     }
 
     &[open] summary {
@@ -115,8 +116,8 @@ tbody, li, p {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: var(--font-body);
-    font-weight: 700;
+    font-family: var(--font-header);
+    font-weight: none;
   }
 }
 
@@ -249,7 +250,7 @@ article {
 }
 
 .backlinks a {
-  font-weight: 600;
+  font-weight: none;
   font-size: 0.9rem;
 }
 
