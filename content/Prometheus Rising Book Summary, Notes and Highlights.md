@@ -2,7 +2,7 @@
 
 ## Prometheus Rising Book Summary, Notes and Highlights
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/6E52A22F-79AB-4F12-87E8-8A725621C626.jpeg) ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
+[ ![150](BFBEA0FD-4D8A-4171-9B75-E759C2CCEA59.jpeg) ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
 
 Author: [Robert Anton Wilson]()
 Publisher: Grand Junction, Colorado: *Hilaritas Press*.

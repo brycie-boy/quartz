@@ -1,4 +1,4 @@
-# ![45](../%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/781CA0A5-AC0B-4EC1-86C6-E84051BE7E85.gif)The Cosmos
+# ![45](../7B0F071C-1A60-48AC-BEA8-258D011D9DD7.gif) The Cosmos
 
  > 
  > Per Wiki: “The **cosmos** is another name for the Universe. Using the word *cosmos* implies viewing the universe as a complex and orderly system or entity 
@@ -25,6 +25,6 @@ Here are some places where you can take a deeper look into The Cosmos:
 
 ##### Contact me:
 
-##### Buy me a coffee ![20](../FCE18890-F7A9-4DB1-9066-18A4CFC0EB65.gif)
+##### Buy me a coffee ![20](../701AD438-A7F8-4381-B700-8A9AFA86FE04.gif)
 
 (later)

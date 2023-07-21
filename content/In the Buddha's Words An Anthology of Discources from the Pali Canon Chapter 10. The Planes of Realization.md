@@ -2,7 +2,7 @@
 
 ## [In the Buddha's Words An Anthology of Discources from the Pali Canon Chapter 10. The Planes of Realization](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1650578812&sr=8-1)
 
-![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg)
+
 Author: [Bhikku Bodhi]()
 Publisher: *Wisdom Publications*. Somerville, MA.
 Publish Date: 2005-6-28

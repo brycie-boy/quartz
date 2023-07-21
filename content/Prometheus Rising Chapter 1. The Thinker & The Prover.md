@@ -2,7 +2,7 @@
 
 ## Prometheus Rising Chapter 1. The Thinker & The Prover
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/6E52A22F-79AB-4F12-87E8-8A725621C626.jpeg) ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
+[  ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
 
 Author: [Robert Anton Wilson]()
 Publisher: Grand Junction, Colorado: *Hilaritas Press*. 

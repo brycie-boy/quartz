@@ -2,7 +2,7 @@
 
 ## [In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1647031549&sr=8-1)
 
-![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/EFF1D144-EEBC-4F25-9E6C-308DBCAD792F.jpeg)
+
 
 Author: [Bhikku Bodhi]()
 Publisher: *Wisdom Publications*. Somerville, MA.

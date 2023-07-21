@@ -1,6 +1,6 @@
 ![51C7FE2C-5A6A-4864-A804-BB89ED471998.jpeg](../%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/51C7FE2C-5A6A-4864-A804-BB89ED471998.jpeg)
 
-# ![45](../%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/E9F3EA41-2D52-4FDC-A2B4-2935438E852D.gif)The Core
+# ![45](../9EBFDD46-5673-451A-B844-5C6F0051144A.gif)The Core
 
 The Core is the heart of [🔮 The Cosmos](The%20Cosmos.md), where all streams flow. It is here that you will find my core interests, and where you shall choose the path that you wish to embark upon. A vast journey awaits you.
 
