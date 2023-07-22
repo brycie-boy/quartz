@@ -2,7 +2,7 @@
 
 ## Man's Search for Meaning Chapter 2. Logotherapy In A Nutshell
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/FDE863E6-6F73-4FF4-BE27-BCE987FA469E.jpeg) ](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI)
+[ ![150](3C01F478-BB18-44D4-9D5F-1EAC9C092202.jpeg) ](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI)
 
 Author: [Viktor Frankl]()
 Publisher: Boston, MA: *Beacon Books*. 

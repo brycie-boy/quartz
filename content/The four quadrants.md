@@ -2,7 +2,7 @@
 
 The [Emotional-Territorial Circuit](Emotional-Territorial%20Circuit.md) domination-submission creates a two-dimensional social space in conjunction with [Limbic system](Limbic%20system.md) advance-retreat: 
 
-![350](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/5652BDA4-4F14-4F21-9CEA-1EBB2B06501F.jpeg)
+![400](E87C208D-28CA-4D08-9DF0-52286A871C24.jpeg)
 
 The grid of Circuits I and II creates four quadrants. These four [imprint](Imprint.md)-types are known as:
 

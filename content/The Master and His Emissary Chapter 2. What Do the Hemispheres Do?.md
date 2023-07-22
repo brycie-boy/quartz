@@ -3,7 +3,7 @@
 
 ## The Master and His Emissary Chapter 2. What Do the Hemispheres Do?
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/FB417C6C-E3E0-45BC-9847-3F28B635A52B.jpeg) ](https://www.amazon.com/gp/aw/d/B07NS35S76/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)
+[ ![150](0FA95AC3-4372-45AE-AD52-EB8080ACF664.jpeg) ](https://www.amazon.com/gp/aw/d/B07NS35S76/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)
 
 Author: [Iain McgilChrist]()
 Publisher: London, UK: *Yale University Press.*

@@ -1,8 +1,8 @@
 ## People who take the heaviest imprint on the emotional-territorial circuit tend to be musculotonic
 
-![200](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/76E233C0-5F16-484A-B2DB-41F80E7C788F.png)
+![112](47EB1888-ECC7-4D77-A498-08AC6F479614.jpeg)
 
-Persons (extreme cases) who take the heaviest [imprint](Imprint.md) on the [Emotional-Territorial Circuit](Emotional-Territorial%20Circuit.md) tend to be musculotonic. That is, they hold most of their attention and energy, in the muscular attack-defense systems and grow up medium weight—heavy enough to be hard to knock down, light enough to be quick and sinewy. Often, they become body-builders, weight-lifters etc. and have an extraordinary absorption in demonstrating their strength.
+Those who, in extreme cases, take the heaviest [imprint](Imprint.md) on the [Emotional-Territorial Circuit](Emotional-Territorial%20Circuit.md) tend to be musculotonic. That is, they hold most of their attention and energy, in the muscular attack-defense systems and grow up medium weight—heavy enough to be hard to knock down, light enough to be quick and sinewy. Often, they become body-builders, weight-lifters etc. and have an extraordinary absorption in demonstrating their strength.
 
 ---
 

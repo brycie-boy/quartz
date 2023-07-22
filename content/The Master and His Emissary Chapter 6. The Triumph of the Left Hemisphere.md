@@ -2,7 +2,7 @@
 
 ## The Master and His Emissary Chapter 6. The Triumph of the Left Hemisphere
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/FB417C6C-E3E0-45BC-9847-3F28B635A52B.jpeg) ](https://www.amazon.com/gp/aw/d/B07NS35S76/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)
+[  ](https://www.amazon.com/gp/aw/d/B07NS35S76/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr=)
 
 Author: [Iain McgilChrist]()
 Publisher: London, UK: Yale University Press.

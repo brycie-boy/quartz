@@ -2,7 +2,7 @@
 
 ## [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 8. Creative Agnosticism](https://www.amazon.com/New-Inquisition-Irrational-Rationalism-Citadel/dp/1734473541/ref=mp_s_a_1_1?crid=14Q4I6Y70QE5B&keywords=the+new+inquisition&qid=1656703532&sprefix=the+new+inqui%2Caps%2C86&sr=8-1#aw-udpv3-customer-reviews_feature_div)
 
-![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/49F3107E-ECA0-4AAA-B37D-76AA1D12F571.jpeg)
+
 
 Author: [Robert Anton Wilson]()
 Publisher: Grand Junction, Colorado: *Hilaritas Press*.

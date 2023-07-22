@@ -3,7 +3,7 @@
 
 ## How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics
 
-[ ![150](DDD86D69-0397-475E-813A-2BF605660FF3.jpeg) ](https://www.amazon.com/gp/aw/d/B076GPJXWZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=1660413859&sr=8-2)
+[ ![150](4FFACC08-F750-4A51-B9B2-1D5475FC98CC.jpeg) ](https://www.amazon.com/gp/aw/d/B076GPJXWZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=1660413859&sr=8-2)
 
 Author: [Micheal Pollan]()
 Publisher: New York, NY: *Penguin Random House*. 

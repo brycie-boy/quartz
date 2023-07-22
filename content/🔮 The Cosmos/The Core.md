@@ -11,8 +11,7 @@ The Core is the heart of [🔮 The Cosmos](The%20Cosmos.md), where all streams f
 * [Psychology](../Psychology.md)
 * [Politics](../Politics.md)
 
-![210](../%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/7EED3BDF-B40F-4F42-B546-21F2E3FA13CB.png)
-
+![210](../8FAA7C7F-3868-43D2-A6DA-7E70EA1024FE.png)
 *The Cosmos graph view.*
 
 ![\|450](../%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/E7F6122B-8ACA-411F-AEC5-7AE2EA4FF272.png)

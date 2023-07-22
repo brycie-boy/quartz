@@ -2,7 +2,7 @@
 
 ## Buddha's Brain The Practical Neuroscience of Happiness, Love, and Wisdom Chapter 3. The First and Second Dart
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/FCADDA74-D495-48B1-BF57-761CB19C0BD4.jpeg) ](https://www.amazon.com/gp/aw/d/B003TU29WU/ref=tmm_kin_swatch_0?ie=UTF8&qid=1666673183&sr=8-1)
+[  ](https://www.amazon.com/gp/aw/d/B003TU29WU/ref=tmm_kin_swatch_0?ie=UTF8&qid=1666673183&sr=8-1)
 
 Author: [Rick Hanson]()
 Publisher: Oakland, CA: *New Harbinger Publications*. 

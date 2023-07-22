@@ -2,7 +2,7 @@
 
 ## Buddha's Brain The Practical Neuroscience of Happiness, Love, and Wisdom Chapter 2.The Evolution of Suffering
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/FCADDA74-D495-48B1-BF57-761CB19C0BD4.jpeg) ](https://www.amazon.com/gp/aw/d/B003TU29WU/ref=tmm_kin_swatch_0?ie=UTF8&qid=1666673183&sr=8-1)
+[  ](https://www.amazon.com/gp/aw/d/B003TU29WU/ref=tmm_kin_swatch_0?ie=UTF8&qid=1666673183&sr=8-1)
 
 Author: [Rick Hanson]()
 Publisher: New Harbinger Publications: *Oakland, CA*.
@@ -75,7 +75,7 @@ Nerve signals are sped up by myelin, a fatty substance that insulates axons.
 
 36
 
-![A94866F2-BC2F-43A9-BC6F-2699450D8515.jpeg](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/A94866F2-BC2F-43A9-BC6F-2699450D8515.jpeg)
+
 Figure 1: A (Simplified) Neuron
 
 36
@@ -84,7 +84,7 @@ The gray matter of your brain is composed largely of the cell bodies of neurons.
 
 36
 
-![3D0C1ED0-D0B6-4539-822C-2DCE462F0022.jpeg](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/3D0C1ED0-D0B6-4539-822C-2DCE462F0022.jpeg)
+
 Figure 4: A Synapse (magnified in the inset)
 
 ---

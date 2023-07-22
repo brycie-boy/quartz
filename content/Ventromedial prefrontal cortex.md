@@ -1,6 +1,6 @@
 ## Ventromedial prefrontal cortex
 
-![200](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/Pasted%20image%2020230619181615.png)
+![200](DE3304DE-ACDE-444A-94AA-C476A12166F1.png)
 
 The ventromedial [prefrontal cortex](Prefrontal%20cortex.md) is a part of the [prefrontal cortex](Prefrontal%20cortex.md) and is implicated in the processing of risk and fear, as it is critical in the regulation of [amygdala](Amygdala.md) activity. It also plays a role in the inhibition of emotional responses, and in the process of decision making and self control. It is also involved in the cognitive evaluation of morality.
 

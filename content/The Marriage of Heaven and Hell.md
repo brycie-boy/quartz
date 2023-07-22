@@ -1,6 +1,6 @@
 ## The Marriage of Heaven and Hell
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/78F80B27-11C0-4225-BEC7-E92F606518A2.jpeg) ](https://www.amazon.com/Marriage-Heaven-Hell-Facsimile-History/dp/0486281221/ref=mp_s_a_1_3?keywords=The+marriage+of+Heaven+and+hell&qid=1670719054&sr=8-3)
+[ ![150](1F58A3AF-8DA4-4C60-AB35-788A417B47BA.jpeg) ](https://www.amazon.com/Marriage-Heaven-Hell-Facsimile-History/dp/0486281221/ref=mp_s_a_1_3?keywords=The+marriage+of+Heaven+and+hell&qid=1670719054&sr=8-3)
 
 Author: [William Blake]()
 Publish Date: 1793

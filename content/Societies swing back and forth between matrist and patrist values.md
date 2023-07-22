@@ -2,7 +2,7 @@
 
 has been proposed, by sociologist G. Rattray Taylor that societies swing back and forth between “[Matrist]()” periods, in which motherly oral values predominate and “[Patrist]()” periods, in which fatherly anal values are in ascendance. Taylor’s table of the characteristics of these “Matrist” and “Patrist” periods is as follows:
 
-![802A6036-FB9C-435D-A965-FC9FD8EDDA3E.png](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/802A6036-FB9C-435D-A965-FC9FD8EDDA3E.png)
+![400](C86CEE81-E18A-4F86-B0BC-BD3072FF86C6.png)
 
 Whether or not societies wobble between these extremes as Taylor claims, individuals certainly do. These are merely the consequences of (a) having the heaviest [imprint](Imprint.md) on the oral (Matrist) [limbic system](Limbic%20system.md) or (b) having the heaviest [imprint](Imprint.md) on the anal (Patrist) [Emotional-Territorial Circuit](Emotional-Territorial%20Circuit.md).
 

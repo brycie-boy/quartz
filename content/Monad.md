@@ -1,13 +1,13 @@
 ## Monad
 
-![125](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/14179493-B565-4425-AE77-783EFE56A1F2.png)
+![125](6D18504D-57A7-423B-A256-A3E0D0C9B0A6.png)
 
  > 
  > *The circled dot was used by the Pythagoreans and later Greeks to represent the Monad.*
 
 The Monad is a base or reality which is beyond the world of common experience where none of [the great elements](The%20great%20elements.md) or even [the formless realms](The%20formless%20attainments.md) are present. It is beyond all [duality](), relativity, time and space. The Monad is completely quiescent, without arising, perishing or change. The Monad is to be distinguished from the countless named things that are considered to be its manifestations. It is a source that is acting alone has an indivisible origin. It is often referred to in Buddhist texts as "the unborn, unmade, unbecome, and unconditioned," the existence of which makes possible the deliverance from what is born, made, come to be, and conditioned. Being the source of all, it is also the greater whole from which all the individual elements of the Universe derive.
 
-The Monad is what we might call the "eternal present." All conditioned things come and go, but the present is always. Conditioned things move in and out of this present. We might say the present sits between creation and destruction. One therefor might call the Monad the "creator" in a [pantheistic](Pantheism.md) sense in that it is constantly destroying and creating a new. Creation must not be taken as some isolated event, because the point in which creation ended cannot be discerned. If things are in constant motion, then so is creation.
+The Monad is what is often called the "eternal present." All conditioned things come and go, but the present is always. Conditioned things move in and out of this present, so we might say the present sits between creation and destruction. One therefor might call the Monad the "creator" in a [pantheistic](Pantheism.md) sense in that it is constantly destroying and creating a new. Creation must not be taken as some isolated event, because the point in which creation ended cannot be discerned. If things are in constant motion, then so is creation.
 
 * But since everything is always moving, the present is at an indeterminate and infinitely small point, which is another element of its infinitude
 * align our will with god so to speak

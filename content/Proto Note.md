@@ -1,6 +1,8 @@
 ## ⛅️ Proto Note
 
-![300](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/05247EF8-7C83-4E59-BB86-FBA95A151ABE.jpeg)
+![300](AE36B437-00D7-4FF1-ABA1-3F4D7206892C.jpeg)
+
+( ![300](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/05247EF8-7C83-4E59-BB86-FBA95A151ABE.jpeg) )
 
 “And [god](Urizen.md) said let there be [light](Novel%20experience%20and%20information%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20handled%20by%20the%20left%20hemisphere%20once%20it%20becomes%20familiar.md)!”
 

@@ -6,11 +6,11 @@ Each “extreme” type on the [Leary Interpersonal Grid](Leary%20Interpersonal%
 
 Obviously, an ideally “balanced” person—that is, one not robotized and able to adjust to circumstances as they arise—would not be so off-centered. Such a person would be able to move a little bit into each quadrant when necessary, but would basically maintain a centered detachment between all of them. They could be graphed as a circle:
 
-![120](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/96104075-E6CA-4E6A-893E-F2AB062E4700.jpeg)
+![120](5BCFAEC3-5887-42A6-A705-B6D365152DDA.jpeg)
 
 Circles of this sort, called mandalas, are widely used for meditation in the Tibetan Buddhist tradition. Often they are cornered by four demons who evidently, like the Occidental lion, bull, angel and eagle, represent the extremes to be avoided (see [The four quadrants](The%20four%20quadrants.md)).
 
-![120](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/738D31DC-555D-4CF8-9B98-914FDECF4676.jpeg)
+![120](7AECE93F-6677-4F25-A5E0-CEBE171A9284.jpeg)
 
 ---
 

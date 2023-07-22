@@ -1,8 +1,8 @@
 \<- [📚 The Library](🔮%20The%20Cosmos/The%20Library.md)
 
-## Prometheus Rising Book Summary, Notes and Highlights
+## Prometheus Rising
 
-[ ![150](BFBEA0FD-4D8A-4171-9B75-E759C2CCEA59.jpeg) ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
+[ ![150](A2AA90CC-4932-4425-9E14-80BF0A3D3354.jpeg) ](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson/dp/0692710604/ref=mp_s_a_1_1?crid=MOVPIIBIMV2J&keywords=prometheus+rising&qid=1657671254&sprefix=prometh%2Caps%2C152&sr=8-1)
 
 Author: [Robert Anton Wilson]()
 Publisher: Grand Junction, Colorado: *Hilaritas Press*.

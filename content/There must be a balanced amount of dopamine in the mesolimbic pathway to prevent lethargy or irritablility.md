@@ -1,6 +1,6 @@
 ## There must be a balanced amount of dopamine in the mesolimbic pathway to prevent lethargy or irritablility   #🧠
 
-![400](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/8872D35D-28F3-45C2-824C-FD7D9CC84167.jpeg)
+![400](01098125-4CAF-41AB-BB87-FA912959026C.jpeg)
 
 If you have too little [dopamine](Dopamine.md) in the [mesolimbic pathway](Mesolimbic%20pathway.md), you're a laconic couch potato; too much of it and you become aggresive and paranoid. in other words, there is a sweet spot, an optimal level within the dynamic range of experience where the system functions at its best. This can best be illustrated by a bell-shaped curve, which one can travel along backward and forward, depending on your psychological state. If you're on the low end of the curve (on the left), you have little motivation for reward. A slight upswing to the right from a [dopamine](Dopamine.md) boost can help liven up your mood and bring feelings of exitement. But if you're already at the top of your bell-shaped curve, and you get that same [dopamine](Dopamine.md) boost, it can result in a new state that is quite unpleasant. Moreover, your current position on that bell-shaped curve can be changed by your experiences with the many forces, including stress and medicines, that your exposed to everyday. 
 

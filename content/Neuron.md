@@ -1,6 +1,6 @@
 ## Neuron  #🧠
 
-![255](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/A94866F2-BC2F-43A9-BC6F-2699450D8515.jpeg) ![110](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/3D0C1ED0-D0B6-4539-822C-2DCE462F0022.jpeg)
+![B6018CCB-D4C6-43C9-A133-207B15497938.webp](B6018CCB-D4C6-43C9-A133-207B15497938.webp)
 
 Neurons are the basic building blocks of the [nervous system](); their main function is to communicate with each other across tiny junctions called [synapse](Synapse.md)s. While there are many sorts of neurons, their basic design is pretty similar. Each neuron has a [soma]() that makes proteins so the neuron can stay alive. The [soma]() sends out spikes called [dendrite](Dendrite.md)s which receive [neurotransmitter](Neurotransmitter.md)s from other neurons and allow them to communicate with each other. Each neuron also has one long [axon](Axon.md), a special fiber that transmits this information. When a neural impulse is generated in the first [cell](), it pulses down to the end of the [axon](Axon.md), which contains little packets of [neurotransmitter](Neurotransmitter.md)s waiting to be released. The firing [axon](Axon.md) then shoots the [neurotransmitter](Neurotransmitter.md)s across the [synapse](Synapse.md) to bind to the [receptor](Receptor.md)s on the [dendrite](Dendrite.md)s of the next [cell]() either inhibiting it or exciting it to fire. 
 

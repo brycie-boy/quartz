@@ -4,7 +4,7 @@
 
 The [right hemisphere](Right%20hemisphere.md)'s tolerance of uncertainty is implied everywhere in its subtle ability to use metaphor ([The right hemisphere is responsible for the capacity to understand metaphor](The%20right%20hemisphere%20is%20responsible%20for%20the%20capacity%20to%20understand%20metaphor.md)), irony and humor, all of which depend on not prematurely resolving ambiguities. So, of course, does poetry, which relies on [right hemisphere](Right%20hemisphere.md) language capacities. During ambiguous stimulation of perceptual rivalry (the phenomenon of an ambiguous figure that can be seen in one way or another, but not both simultaneously, such as the duck–rabbit above or the Necker cube) right [frontal cortex]() is more active.
 
-![230](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/Pasted%20image%2020230618205659.png) ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/Pasted%20image%2020230618205550.png)
+![220](B11735A6-DE42-4B8F-8090-D90D538C2F9D.jpeg)![150](FC86F95D-8885-4A7C-BE0F-83580277D0E6.jpeg)
 
 ---
 

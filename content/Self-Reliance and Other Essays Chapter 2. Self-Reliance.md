@@ -2,7 +2,7 @@
 
 ## Self-Reliance and Other Essays Chapter 2. Self-Reliance
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/9A152C01-E942-447B-957C-735E02011240.jpeg) ](https://www.amazon.com/Self-Reliance-Other-Essays-Thrift-Editions/dp/0486277909/ref=mp_s_a_1_1?crid=70ZLO33HK50H&keywords=self+reliance+ralph+waldo+emerson&qid=1663289686&sprefix=self+reliance+%2Caps%2C187&sr=8-1)
+[ ![150](C12121C9-152C-47A4-B3BF-3DE2A991F795.jpeg) ](https://www.amazon.com/Self-Reliance-Other-Essays-Thrift-Editions/dp/0486277909/ref=mp_s_a_1_1?crid=70ZLO33HK50H&keywords=self+reliance+ralph+waldo+emerson&qid=1663289686&sprefix=self+reliance+%2Caps%2C187&sr=8-1)
 
 Author: [Ralph Waldo Emerson]()
 Publisher: Dover Publications

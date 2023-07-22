@@ -23,4 +23,4 @@ On the basis of ethical quality Kamma may be distinguished into two categories: 
 
 Type: #🔵/🔵 
 Tags: [Philosophy](Philosophy.md) / [Ethics](Ethics.md) 
-Status: #☀️ 
+Status: #⛅️/⛅ 
