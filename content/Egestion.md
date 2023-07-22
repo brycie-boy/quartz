@@ -18,4 +18,4 @@ Eventually my [☀️ Main-Sequence Note](Main-Sequence%20Note)s must leave [�
 
 Type: #🔵 
 Tags: [PKM](PKM.md)
-Status: #☀️ 
+Status: #⛅️/⛅ 

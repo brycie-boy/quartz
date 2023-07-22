@@ -2,9 +2,6 @@
 
 ![300](CCF73B29-21E8-4DFC-9019-3B31DE7C5967.jpeg)
 
-( ![38B08C07-F3C1-4A87-A8C3-B97F1AE24721.jpeg](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/38B08C07-F3C1-4A87-A8C3-B97F1AE24721.jpeg) 
-)
-
  > 
  > “*And ... [god](Urizen.md) ended his work which he had made; and [he rested](Novel%20experience%20and%20information%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20handled%20by%20the%20left%20hemisphere%20once%20it%20becomes%20familiar.md) ...*”
 
