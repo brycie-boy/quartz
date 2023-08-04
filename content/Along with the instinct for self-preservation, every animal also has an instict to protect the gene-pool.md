@@ -6,7 +6,7 @@ Of course, on top of the hard-wired [imprint](Imprint.md)ing of the [limbic syst
 
 ##### References
 
-* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3. The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203.%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 538). Grand Junction, CO: *Hilaritas Press*.
+* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3 The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 538). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

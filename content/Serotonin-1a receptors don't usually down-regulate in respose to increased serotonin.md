@@ -1,6 +1,6 @@
-## Serotonin-1a receptors don't usually down-regulate in respose to increased serotonin
+## Serotonin-1a receptors don't usually down-regulate in respose to increased serotonin  #🧠
 
-in contrast to [dopamine](Dopamine.md) [receptor](Receptor.md)s, the postsynaptic [serotonin-1a receptor](Serotonin-1a%20receptor.md)s don’t usually down-regulate in response to increased [serotonin](Serotonin.md). These [neuron](Neuron.md)s possess two special characteristics that keep our [serotonin](Serotonin.md) [neuron](Neuron.md)s and [receptor](Receptor.md)s resilient, even when we’re not. This is because: 
+in contrast to [dopamine](Dopamine.md) [receptor](Receptor.md)s, the [postsynaptic](Synapse.md) [serotonin-1a receptor](Serotonin-1a%20receptor.md)s don’t usually down-regulate in response to increased [serotonin](Serotonin.md). These [neuron](Neuron.md)s possess two special characteristics that keep our [serotonin](Serotonin.md) [neuron](Neuron.md)s and [receptor](Receptor.md)s resilient, even when we’re not. This is because: 
 
 * [Serotonin-1a autoreceptors on the dorsal raphe nucleus ensure that it releases a balanced amount of serotonin](Serotonin-1a%20autoreceptors%20on%20the%20dorsal%20raphe%20nucleus%20ensure%20that%20it%20releases%20a%20balanced%20amount%20of%20serotonin.md)
 * [Serotonin-1a receptors inhibit postsynaptic neurons](Serotonin-1a%20receptors%20inhibit%20postsynaptic%20neurons.md)

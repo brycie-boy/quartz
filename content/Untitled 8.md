@@ -13,7 +13,7 @@ Back in the real world, the tickets called “money” are the biosurvival bond 
 
 ##### References
 
-* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3. The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203.%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 585). Grand Junction, CO: *Hilaritas Press*.
+* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3 The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 585). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

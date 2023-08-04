@@ -8,7 +8,7 @@ An innovative person must not be hindered by the name of goodness, but must expl
 
 ##### References
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 432). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 432). *Dover Publications*.
 
 ##### Metadata
 

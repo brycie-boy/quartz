@@ -8,7 +8,7 @@ In our own time, there has been a revolutionary upsurge of these ancient neurolo
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11. The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011.%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2355). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11 The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2355). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

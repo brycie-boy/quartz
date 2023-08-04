@@ -8,7 +8,7 @@ To the idolater, things or events "really are" what they appear to be as coded i
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 30 · Location 507). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 30 · Location 507). Grand Junction, Colorado: *Hilaritas Press*
 
 ##### Metadata
 

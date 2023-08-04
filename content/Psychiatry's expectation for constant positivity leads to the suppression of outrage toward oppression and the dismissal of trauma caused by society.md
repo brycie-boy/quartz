@@ -16,7 +16,7 @@ Despite being emotionally fluid by nature, people are expected to fulfill the ci
 
 * Flower Bomb. (2020). *[Descending into Madness](Descending%20into%20Madness.md)*. The Anarchist Library: https://theanarchistlibrary.org/library/flower-bomb-descending-into-madness-an-anarchist-nihilist-diary-of-anti-psychiatry.
 
-* Frankl, Victor. (1946). [Man's Search for Meaning Chapter 2. Logotherapy In A Nutshell](Man's%20Search%20for%20Meaning%20Chapter%202.%20Logotherapy%20In%20A%20Nutshell.md) (p. 126). Boston, MA: *Beacon Books*.
+* Frankl, Victor. (1946). [Man's Search for Meaning Chapter 2 Logotherapy In A Nutshell](Man's%20Search%20for%20Meaning%20Chapter%202%20Logotherapy%20In%20A%20Nutshell.md) (p. 126). Boston, MA: *Beacon Books*.
 
 ##### Metadata
 

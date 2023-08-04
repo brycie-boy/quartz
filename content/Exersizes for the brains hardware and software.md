@@ -10,7 +10,7 @@ Exersizes for [the brains hardware and software](The%20brains%20hardware%20and%2
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2. Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202.%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 416). Grand Junction, CO: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2 Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 416). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

@@ -6,9 +6,9 @@ We receive around 10,000 sensory signals per minute and the [default mode networ
 
 ##### References
 
-* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7. the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207.%20the%20Open%20Universe.md) (Page 220 · Location 4615). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7 the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207%20the%20Open%20Universe.md) (Page 220 · Location 4615). Grand Junction, Colorado: *Hilaritas Press*.
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location ❗️). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location ❗️). New York, NY: *Penguin Random House*. 
 
 ##### Metadata
 

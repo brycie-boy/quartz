@@ -22,9 +22,9 @@ Since we all contain a [Time-Binding Semantic Circuit](Time-Binding%20Semantic%2
 
 ##### References
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206.%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1155). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 6 The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1155). Grand Junction, Colorado: *Hilaritas Press*.
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206.%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1115). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 6 The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1115). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

@@ -6,7 +6,7 @@ People today are timid and apologetic. They do not dare say "*I* think" or "*I* 
 
 ##### References
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location Location 577). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location Location 577). *Dover Publications*.
 
 ##### Metadata
 

@@ -8,7 +8,7 @@ Given that people commonly revered by society were just individuals with complet
 
 ##### References
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (p. 43). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (p. 43). *Dover Publications*.
 
 ##### Metadata
 

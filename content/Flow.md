@@ -7,7 +7,7 @@ Flow is a mental state in which a person performing some activity is fully immer
 * A loss of reflective self-consciousness (for example, self-evaluation) 
 * A sense that one can deal with whatever arises in a given situation because one’s practice has become a form of implicit embodied knowledge 
 * One’s subjective experience of time becoming altered so that the “present” is continuously unfolding 
-* An experience of the activity as intrinsically rewarding
+* An experience of the activity as [intrinsically rewarding]()
 
 Neurologically, It is thought to be correlated with decreased ativity in the [default mode network](Default%20mode%20network.md). It also involves the [sympathetic](Sympathetic%20nervous%20system.md) and [parasympathetic nervous system](Parasympathetic%20nervous%20system.md)s working harmony, producing a sense of both aliveness and centeredness, and which can occur through in and out breathing.
 

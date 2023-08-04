@@ -8,7 +8,7 @@ For instance, in the FBI under J. Edgar Hoover, the agent had to develop the cap
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16. The Snafu Principle](Prometheus%20Rising%20Chapter%2016.%20The%20Snafu%20Principle.md) (Location 2965). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16 The Snafu Principle](Prometheus%20Rising%20Chapter%2016%20The%20Snafu%20Principle.md) (Location 2965). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

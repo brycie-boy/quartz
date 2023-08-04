@@ -8,9 +8,9 @@ The Right Man tends to seek positions of power. They despise the "softness" of "
 
 ##### References
 
-* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 5. Chaos and the Abyss](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%205.%20Chaos%20and%20the%20Abyss.md) (Page 158 · Location 3233). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 5 Chaos and the Abyss](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%205%20Chaos%20and%20the%20Abyss.md) (Page 158 · Location 3233). Grand Junction, Colorado: *Hilaritas Press*.
 
-* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7. the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207.%20the%20Open%20Universe.md) (Page 219 · Location 4586). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7 the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207%20the%20Open%20Universe.md) (Page 219 · Location 4586). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

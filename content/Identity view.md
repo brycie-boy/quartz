@@ -8,9 +8,9 @@ Giving up [craving](Craving.md) is so difficult because [craving](Craving.md) is
 
 * Bodhi, Bhikkhu. (2005). [In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM](In%20the%20Buddha%E2%80%99s%20Words%20An%20Anthology%20of%20Discourses%20From%20the%20Pali%20Canon%20Chapter%20IX.%20SHINING%20THE%20LIGHT%20OF%20WISDOM.md) (Location 5304). Somerville, MA: *Wisdom Publications*.
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4987). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4987). New York, NY: *Penguin Random House*. 
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4987). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4987). New York, NY: *Penguin Random House*. 
 
 * Samyutta Nikaya 22:56; III 58–61
 

@@ -10,7 +10,7 @@ Of course, this re-contextualization of an old [habit](Habit.md) doesn’t just 
 
 ##### References
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4913). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4913). New York, NY: *Penguin Random House*. 
 
 * Brewer, Judson. (2017). [The Craving Mind Why We Get Hooked and How We Can Break Bad Habits Chapter 2. Addiction, Straight Up](The%20Craving%20Mind%20Why%20We%20Get%20Hooked%20and%20How%20We%20Can%20Break%20Bad%20Habits%20Chapter%202.%20Addiction,%20Straight%20Up.md) (Location 637). *Yale University Press*. New Haven, CT.
 

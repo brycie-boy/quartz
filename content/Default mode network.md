@@ -20,11 +20,11 @@ Practices such as [mindfulness](Mindfulness.md) and [non-forcing](Non-forcing.md
 
 * Brewer, Judson. (2017). [The Craving Mind Why We Get Hooked and How We Can Break Bad Habits Chapter 6. Addicted to Thinking](The%20Craving%20Mind%20Why%20We%20Get%20Hooked%20and%20How%20We%20Can%20Break%20Bad%20Habits%20Chapter%206.%20Addicted%20to%20Thinking.md) (Location 1585). New Haven, CT: *Yale University Press*. 
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4122). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4122). New York, NY: *Penguin Random House*. 
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4176). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4176). New York, NY: *Penguin Random House*. 
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4188). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 4188). New York, NY: *Penguin Random House*. 
 
 * Hanson, Rick. (2009). [Buddha's Brain The Practical Neuroscience of Happiness, Love, and Wisdom Chapter 2.The Evolution of Suffering](Buddha's%20Brain%20The%20Practical%20Neuroscience%20of%20Happiness,%20Love,%20and%20Wisdom%20Chapter%202.The%20Evolution%20of%20Suffering.md) (p. 44). New Harbinger Publications: *Oakland, CA*.
 

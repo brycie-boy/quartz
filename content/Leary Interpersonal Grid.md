@@ -43,7 +43,7 @@ For instance, an influential psychological test in this country, the Leary Inter
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4. The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204.%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 810). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4 The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 810). Grand Junction, Colorado: *Hilaritas Press*.
 
 * https://psychology.fandom.com/wiki/Interpersonal_circumplex
 

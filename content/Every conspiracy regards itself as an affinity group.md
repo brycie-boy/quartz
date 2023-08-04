@@ -6,7 +6,7 @@ Every conspiracy regards itself as an affinity group—men and women who share t
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16. The Snafu Principle](Prometheus%20Rising%20Chapter%2016.%20The%20Snafu%20Principle.md) (Location 3057). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16 The Snafu Principle](Prometheus%20Rising%20Chapter%2016%20The%20Snafu%20Principle.md) (Location 3057). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

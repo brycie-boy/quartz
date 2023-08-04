@@ -18,7 +18,7 @@ Democracy has been less than a total success—and the intellectual’s half-sha
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8. The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208.%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1654). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8 The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1654). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

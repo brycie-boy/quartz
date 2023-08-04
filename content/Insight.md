@@ -8,7 +8,7 @@ Insight, when developed, leads to higher wisdom into the true nature of phenomen
 
 * Bodhi, Bhikkhu. (2005). [In the Buddha's Words An Anthology of Discourses From the Pali Canon Chapter VIII. MASTERING THE MIND](In%20the%20Buddha's%20Words%20An%20Anthology%20of%20Discourses%20From%20the%20Pali%20Canon%20Chapter%20VIII.%20MASTERING%20THE%20MIND.md) (Location 3967, 4482). Somerville, MA: *Wisdom Publications*.
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 553). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 553). *Dover Publications*.
 
 * Anguttara Nikaya 2: iii, 10; I 61
 

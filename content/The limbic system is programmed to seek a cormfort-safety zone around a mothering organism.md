@@ -6,7 +6,7 @@ The [limbic system](Limbic%20system.md) is [DNA]()-programmed to seek a comfort-
 
 ##### References
 
-* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3. The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203.%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 481). Grand Junction, CO: *Hilaritas Press*.
+* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3 The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 481). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

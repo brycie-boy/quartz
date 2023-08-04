@@ -1,6 +1,6 @@
 ## Stress causes the HPA axis to quite the prefrontal cortex by flooding it with dopamine and cortisol #🧠
 
-In a stressful situation, the [amygdala](Amygdala.md)–[HPA axis](HPA%20axis.md) commands the release of [neurotransmitter](Neurotransmitter.md)s including [dopamine](Dopamine.md). These flood the [prefrontal cortex](Prefrontal%20cortex.md), quieting it, which disinhibits you. When your [prefrontal cortex](Prefrontal%20cortex.md) is under fire by [cortisol](Cortisol.md), your rational decision-making ability is toast. You can’t differentiate between immediate or delayed gratification and you are much more likely to react on impulse.
+In a stressful situation, the [amygdala](Amygdala.md) and [HPA axis](HPA%20axis.md) command the release of various [neurotransmitter](Neurotransmitter.md)s including [dopamine](Dopamine.md). These flood the [prefrontal cortex](Prefrontal%20cortex.md), quieting it, which disinhibits you. And when your [prefrontal cortex](Prefrontal%20cortex.md) is also under fire by [cortisol](Cortisol.md), your rational decision-making ability is toast. You cannot differentiate between immediate or delayed gratification and you’re much more likely to react on impulse.
 
 ---
 

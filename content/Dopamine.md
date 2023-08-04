@@ -1,8 +1,6 @@
 ## Dopamine  #🧠
 
-
-
-Dopamine is a [neurotransmitter](Neurotransmitter.md) that is primarily involved in motivation, [craving](Craving.md), and exitement and is responsible for the outward manifestations of “seeking” behaviors. The anticipation of most types of rewards increases the level of dopamine in the [brain](Brain.md). Dopamine decreases the noise or static of undirected [neuron](Neuron.md) chatter by preventing the receiving [neuron](Neuron.md) from processing irrelevant signals.
+Dopamine is a [neurotransmitter](Neurotransmitter.md) involved in motivation, [craving](Craving.md), and exitement and is responsible for the outward manifestations of “seeking” behaviors. The anticipation of most types of rewards increases the level of dopamine in the [brain](Brain.md). Dopamine decreases the noise or static of undirected [neuron](Neuron.md) chatter by preventing the receiving [neuron](Neuron.md) from processing irrelevant signals.
 
 ---
 

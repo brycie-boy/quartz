@@ -1,6 +1,6 @@
 ## Excitotoxicity #🧠
 
-In excitotoxicity, [neuron](Neuron.md)s suffer damage or death when the levels of otherwise necessary and safe [neurotransmitter](Neurotransmitter.md) become pathologically high, resulting in excessive stimulation of [receptor](Receptor.md)s.
+In excitotoxicity, [neuron](Neuron.md)s suffer damage or death when the levels of otherwise necessary and safe [neurotransmitter](Neurotransmitter.md)s become pathologically high, resulting in excessive stimulation of [receptor](Receptor.md)s.
 
 ---
 

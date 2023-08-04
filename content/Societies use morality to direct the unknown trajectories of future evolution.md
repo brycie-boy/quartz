@@ -12,7 +12,7 @@ Sexual attraction, mating, reproduction, inheritance, genetic drift and future e
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8. The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208.%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1442). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8 The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1442). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

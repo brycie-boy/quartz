@@ -10,9 +10,9 @@ The process is not a gradual putting together of bits of information, but an ‘
 
 ##### References
 
-* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2. What Do the Hemispheres Do?](The%20Master%20and%20His%20Emissary%20Chapter%202.%20What%20Do%20the%20Hemispheres%20Do%3F.md) (96). London, UK: *Yale University Press.*
+* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2 What Do the Hemispheres Do](The%20Master%20and%20His%20Emissary%20Chapter%202%20What%20Do%20the%20Hemispheres%20Do.md) (96). London, UK: *Yale University Press.*
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11. The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011.%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2184). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11 The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2184). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

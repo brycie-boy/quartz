@@ -8,7 +8,7 @@ It doesn't matter wether or not these "heretics" were right or wrong. Scientific
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16. The Snafu Principle](Prometheus%20Rising%20Chapter%2016.%20The%20Snafu%20Principle.md) (Location 3047). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16 The Snafu Principle](Prometheus%20Rising%20Chapter%2016%20The%20Snafu%20Principle.md) (Location 3047). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

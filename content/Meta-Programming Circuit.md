@@ -16,9 +16,9 @@ Ideas about ideas—mathematics about mathematics (Godel)—language about langu
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14. The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014.%20The%20Meta-Programming%20Circuit.md) (Location 2635). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14 The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014%20The%20Meta-Programming%20Circuit.md) (Location 2635). Grand Junction, Colorado: *Hilaritas Press*.
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14. The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014.%20The%20Meta-Programming%20Circuit.md) (Location 2706). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14 The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014%20The%20Meta-Programming%20Circuit.md) (Location 2706). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

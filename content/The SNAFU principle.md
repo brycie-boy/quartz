@@ -8,7 +8,7 @@ Political power, as a typical alpha male once said, grows out of the barrel of a
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16. The Snafu Principle](Prometheus%20Rising%20Chapter%2016.%20The%20Snafu%20Principle.md) (Location 2954). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16 The Snafu Principle](Prometheus%20Rising%20Chapter%2016%20The%20Snafu%20Principle.md) (Location 2954). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

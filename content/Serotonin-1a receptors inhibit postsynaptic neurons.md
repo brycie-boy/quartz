@@ -1,4 +1,4 @@
-## Serotonin-1a receptors inhibit postsynaptic neurons
+## Serotonin-1a receptors inhibit postsynaptic neurons #🧠
 
 When [serotonin](Serotonin.md) binds to the postsynaptic [serotonin-1a receptor](Serotonin-1a%20receptor.md), rather than stimulating it, it actually inhibits the next [neuron](Neuron.md). Postsynaptic-1a [agonist]()s quiet the postsynaptic [neuron](Neuron.md), giving them a rest. 
 

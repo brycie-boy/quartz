@@ -6,7 +6,7 @@ Any mammal hooks the [limbic system](Limbic%20system.md) to the first [imprint](
 
 ##### References
 
-* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3. The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203.%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 474). Grand Junction, CO: *Hilaritas Press*.
+* Robert, A., Wilson. (1983). [Prometheus Rising Chapter 3 The Oral Bio-Survival Circuit](Prometheus%20Rising%20Chapter%203%20The%20Oral%20Bio-Survival%20Circuit.md) (Location 474). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

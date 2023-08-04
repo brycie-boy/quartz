@@ -12,7 +12,7 @@ Scientists achieve, or approximate, objectivity not because the individual scien
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 1. The Thinker & The Prover](Prometheus%20Rising%20Chapter%201.%20The%20Thinker%20&%20The%20Prover.md) (Location 243). Grand Junction, Colorado: *Hilaritas Press*. 
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 1 The Thinker & The Prover](Prometheus%20Rising%20Chapter%201%20The%20Thinker%20&%20The%20Prover.md) (Location 243). Grand Junction, Colorado: *Hilaritas Press*. 
 
 ##### Metadata
 

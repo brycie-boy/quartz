@@ -13,7 +13,7 @@ This vision of the infinite in everything ([emptiness](Emptiness.md)) is common 
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 7. The Time-Binding Dialectic Acceleration & Deceleration](Prometheus%20Rising%20Chapter%207.%20The%20Time-Binding%20Dialectic%20Acceleration%20&%20Deceleration.md) (Location 1345). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 7 The Time-Binding Dialectic Acceleration & Deceleration](Prometheus%20Rising%20Chapter%207%20The%20Time-Binding%20Dialectic%20Acceleration%20&%20Deceleration.md) (Location 1345). Grand Junction, Colorado: *Hilaritas Press*.
 
 * Blake, William. [The Marriage of Heaven and Hell](The%20Marriage%20of%20Heaven%20and%20Hell.md) (p. 10). 
 

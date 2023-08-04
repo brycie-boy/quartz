@@ -6,7 +6,7 @@ Both [brain hemisphere]()s are involved in recognition according to the grouping
 
 ##### References
 
-* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2. What Do the Hemispheres Do?](The%20Master%20and%20His%20Emissary%20Chapter%202.%20What%20Do%20the%20Hemispheres%20Do%3F.md) (106). London, UK: *Yale University Press.*
+* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2 What Do the Hemispheres Do](The%20Master%20and%20His%20Emissary%20Chapter%202%20What%20Do%20the%20Hemispheres%20Do.md) (106). London, UK: *Yale University Press.*
 
 ##### Metadata
 

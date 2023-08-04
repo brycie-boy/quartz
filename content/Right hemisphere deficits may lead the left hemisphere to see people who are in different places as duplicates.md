@@ -6,7 +6,7 @@ Fascinatingly, [right hemisphere](Right%20hemisphere.md) deficit syndromes can r
 
 ##### References
 
-* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2. What Do the Hemispheres Do?](The%20Master%20and%20His%20Emissary%20Chapter%202.%20What%20Do%20the%20Hemispheres%20Do%3F.md) (110). London, UK: *Yale University Press.*
+* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2 What Do the Hemispheres Do](The%20Master%20and%20His%20Emissary%20Chapter%202%20What%20Do%20the%20Hemispheres%20Do.md) (110). London, UK: *Yale University Press.*
 
 ##### Metadata
 

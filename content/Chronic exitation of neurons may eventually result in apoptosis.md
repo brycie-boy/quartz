@@ -1,6 +1,6 @@
 ## Chronic exitation of neurons may eventually result in apoptosis  #🧠
 
-When [neurotransmitter](Neurotransmitter.md)s bludgeon the receiving [neuron](Neuron.md) en masse and without cessation, they can overstimulate and eventually kill that [neuron](Neuron.md) through [apoptosis](Apoptosis.md).  Chronic excitation of almost any [neuron](Neuron.md) can lead to [cell]() death. This is a common phenomenon in neuroscience, and it’s a necessary process. Drugs can do both: they can poison the [cell]() outright, or they can beat it into permanent submission. 
+When [neurotransmitter](Neurotransmitter.md)s bludgeon the receiving [neuron](Neuron.md) en masse and without cessation, they can overstimulate and eventually kill that [neuron](Neuron.md) through [apoptosis](Apoptosis.md).  Chronic excitation of almost any [neuron](Neuron.md) can lead to [cell]() death.
 
 ---
 

@@ -1,6 +1,6 @@
 ## Orbitofrontal cortex  #🧠
 
-![200](5082EB29-03E0-4E58-9BCD-8F22253DECB1.png)
+![200](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/5082EB29-03E0-4E58-9BCD-8F22253DECB1.png)
 
 The orbitofrontal [cortex]() (OFC) is a cortical segment found near the eye socket, or [orbit](). Through its rich connections with the [limbic system](Limbic%20system.md), the orbitofrontal [cortex]() is the apex of the [limbic system](Limbic%20system.md)—it serves as its mission control room. In normal circumstances in a mature human being, the orbitofrontal [cortex]() is among the highest arbiters of our emotional lives. It receives input from all the senses, which allows it to process environmental data such as vision, touch, taste, smell, and sound. it’s job is to evaluate the nature and potential value of stimuli—based not only on present information but also in light of previous experience. 
 

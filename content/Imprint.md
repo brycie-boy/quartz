@@ -10,7 +10,7 @@ Before the first imprint, the [consciousness](Consciousness.md) of the infant is
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2. Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202.%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 392). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2 Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 392). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

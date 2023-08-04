@@ -6,7 +6,7 @@ Pure Reason is a philosophical view originating from the Greeks which argues tha
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (p. 16). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (p. 16). Grand Junction, Colorado: *Hilaritas Press*
 
 ##### Metadata
 

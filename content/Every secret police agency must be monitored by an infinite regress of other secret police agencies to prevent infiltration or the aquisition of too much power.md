@@ -12,7 +12,7 @@ In that gap between, as [Robert Anton Wilson]() puts it, "One nation under surve
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16. The Snafu Principle](Prometheus%20Rising%20Chapter%2016.%20The%20Snafu%20Principle.md) (Location 2993). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 16 The Snafu Principle](Prometheus%20Rising%20Chapter%2016%20The%20Snafu%20Principle.md) (Location 2993). Grand Junction, Colorado: *Hilaritas Press*.
 
 * Schneier, Bruce. (2015). [Data and Goliath The Hidden Battles to Collect Your Data and Control Your World CHapter 7. Political Liberty and Justice](Data%20and%20Goliath%20The%20Hidden%20Battles%20to%20Collect%20Your%20Data%20and%20Control%20Your%20World%20CHapter%207.%20Political%20Liberty%20and%20Justice.md) (115). New York, NY: *W. W. Norton & Company*. 
 

@@ -6,9 +6,9 @@ In mathematical information theory, information denotes the amount of unpredicta
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 11 · Location 146). Grand Junction, Colorado: *Hilaritas Press*. 
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 11 · Location 146). Grand Junction, Colorado: *Hilaritas Press*. 
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 7. The Time-Binding Dialectic Acceleration & Deceleration](Prometheus%20Rising%20Chapter%207.%20The%20Time-Binding%20Dialectic%20Acceleration%20&%20Deceleration.md) (Location 1249). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 7 The Time-Binding Dialectic Acceleration & Deceleration](Prometheus%20Rising%20Chapter%207%20The%20Time-Binding%20Dialectic%20Acceleration%20&%20Deceleration.md) (Location 1249). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

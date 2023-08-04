@@ -8,7 +8,7 @@ Ordinarily, we represent the world to ourselves through the refractory prism of 
 
 * Bodhi, Bhikkhu. (2005). [In the Buddha's Words Chapter VI. Deepening One’s Perspective on the World](In%20the%20Buddha's%20Words%20Chapter%20VI.%20Deepening%20One%E2%80%99s%20Perspective%20on%20the%20World.md)   (Location 3255). Somerville, MA: *Wisdom Publications*.
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 20 · Location 279). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 20 · Location 279). Grand Junction, Colorado: *Hilaritas Press*
 
 * Brewer, Judson. (2017). [The Craving Mind Why We Get Hooked and How We Can Break Bad Habits Chapter 1. Introduction](The%20Craving%20Mind%20Why%20We%20Get%20Hooked%20and%20How%20We%20Can%20Break%20Bad%20Habits%20Chapter%201.%20Introduction.md) (Location 353). *Yale University Press*. New Haven, CT.
 

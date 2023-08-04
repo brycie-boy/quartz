@@ -6,7 +6,7 @@ The [Meta-Programming Circuit](Meta-Programming%20Circuit.md) is not a trap. Sim
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14. The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014.%20The%20Meta-Programming%20Circuit.md) (Location 2753). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 14 The Meta-Programming Circuit](Prometheus%20Rising%20Chapter%2014%20The%20Meta-Programming%20Circuit.md) (Location 2753). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

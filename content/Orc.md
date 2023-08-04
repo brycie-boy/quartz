@@ -10,7 +10,7 @@
 
 ##### References
 
-* Higgs, John. (2021). [William Blake vs The World Chapter 5. THE TYGERS OF WRATH](William%20Blake%20vs%20The%20World%20Chapter%205.%20THE%20TYGERS%20OF%20WRATH.md) (94). New York, NY: *Penguin Random House*.
+* Higgs, John. (2021). [William Blake vs The World Chapter 5 THE TYGERS OF WRATH](William%20Blake%20vs%20The%20World%20Chapter%205%20THE%20TYGERS%20OF%20WRATH.md) (94). New York, NY: *Penguin Random House*.
 
 * https://en.wikipedia.org/wiki/Orc\_%28Blake%29
 

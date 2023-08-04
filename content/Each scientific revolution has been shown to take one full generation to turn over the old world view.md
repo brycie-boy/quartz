@@ -6,7 +6,7 @@ Science itself, contrary to what some might want to believe, is not free of neop
 
 ##### References
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206.%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1128). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 6 The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1128). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

@@ -8,7 +8,7 @@ The [semantic circuit](Time-Binding%20Semantic%20Circuit.md), unchecked, is like
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8. The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208.%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1521). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 8 The Moral Socio-Sexual Circuit](Prometheus%20Rising%20Chapter%208%20The%20Moral%20Socio-Sexual%20Circuit.md) (Location 1521). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

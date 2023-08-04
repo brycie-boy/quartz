@@ -6,9 +6,9 @@ Friendly Weakness (The Dependant Neurotic) is one of the four quadrants involved
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4. The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204.%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 786). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4 The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 786). Grand Junction, Colorado: *Hilaritas Press*.
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4. The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204.%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 822). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4 The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 822). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

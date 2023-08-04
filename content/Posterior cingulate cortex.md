@@ -6,7 +6,7 @@ The posterior cingulate cortex is the central node of the [default mode network]
 
 ##### References
 
-* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5. The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205.%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 5320). New York, NY: *Penguin Random House*. 
+* Pollan, Micheal. (2018). [How to Change Your Mind Chapter 5 The Neuroscience Your Brain on Psychedelics](How%20to%20Change%20Your%20Mind%20Chapter%205%20The%20Neuroscience%20Your%20Brain%20on%20Psychedelics.md) (Location 5320). New York, NY: *Penguin Random House*. 
 
 * Brewer, Judson. (2017). [The Craving Mind Why We Get Hooked and How We Can Break Bad Habits Chapter 6. Addicted to Thinking](The%20Craving%20Mind%20Why%20We%20Get%20Hooked%20and%20How%20We%20Can%20Break%20Bad%20Habits%20Chapter%206.%20Addicted%20to%20Thinking.md) (Location 1736). New Haven, CT: *Yale University Press*. 
 

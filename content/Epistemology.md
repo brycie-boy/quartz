@@ -13,8 +13,8 @@ Epistemology is a branch of [philosophy](Philosophy.md) concerned with with know
 * [Logical positivism](Logical%20positivism.md)
 * [If a single set of views were to dominate society, the world would be static and dull](If%20a%20single%20set%20of%20views%20were%20to%20dominate%20society,%20the%20world%20would%20be%20static%20and%20dull.md)
 * [Emptiness](Emptiness.md)
-* [Things that philosophers thought they knew through pure reason were always eventually proven wrong](Things%20that%20philosophers%20thought%20they%20knew%20through%20pure%20reason%20were%20always%20eventually%20proven%20wrong.md)
-* [The scientific method can only establish probability, but not certainty](The%20scientific%20method%20can%20only%20establish%20probability,%20but%20not%20certainty.md)
+* [Things that philosophers thought they knew through pure reason always ended up being proven wrong](Things%20that%20philosophers%20thought%20they%20knew%20through%20pure%20reason%20always%20ended%20up%20being%20proven%20wrong.md)
+* [The scientific method cannot lead to certainty, but only high probability](The%20scientific%20method%20cannot%20lead%20to%20certainty,%20but%20only%20high%20probability.md)
 
 ---
 

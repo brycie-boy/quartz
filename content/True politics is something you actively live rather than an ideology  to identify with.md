@@ -6,7 +6,7 @@ True politics are not ideologies to discuss, but an attitude to your relationshi
 
 ##### References
 
-* Higgs, John. (2021). [William Blake vs The World Chapter 5. THE TYGERS OF WRATH](William%20Blake%20vs%20The%20World%20Chapter%205.%20THE%20TYGERS%20OF%20WRATH.md) (112). New York, NY: *Penguin Random House*.
+* Higgs, John. (2021). [William Blake vs The World Chapter 5 THE TYGERS OF WRATH](William%20Blake%20vs%20The%20World%20Chapter%205%20THE%20TYGERS%20OF%20WRATH.md) (112). New York, NY: *Penguin Random House*.
 
 ##### Metadata
 

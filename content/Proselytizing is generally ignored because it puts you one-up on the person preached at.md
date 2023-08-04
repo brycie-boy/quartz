@@ -6,7 +6,7 @@ Preaching and proselytizing is bad [Emotional-Territorial Circuit](Emotional-Ter
 
 ##### References
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206.%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1072). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 6 The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1072). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

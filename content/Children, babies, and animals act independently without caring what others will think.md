@@ -10,7 +10,7 @@ But the adult, having instilled these customs, refrains from following their int
 
 ##### References
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 416). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 416). *Dover Publications*.
 
 ##### Metadata
 

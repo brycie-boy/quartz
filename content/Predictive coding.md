@@ -8,4 +8,4 @@ In neuroscience, predictive coding refers to the process in which [the brain's p
 
 Type: #🔵/🔵 
 Tags: [Biology]() / [Neuroscience](Neuroscience.md) 
-Status: #☀️ 
+Status: #⛅️/⛅️ 

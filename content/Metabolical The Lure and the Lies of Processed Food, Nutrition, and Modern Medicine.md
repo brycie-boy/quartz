@@ -24,7 +24,7 @@ Rating:
 
 #### Nebulas
 
-[Inbox scrap 63]()
+[Inbox scrap 63](Inbox%20scrap%2063.md)
 
 * [Metabolical Chapter 1. “Treatment” Is Not “Cure”—It’s Not Even Treatment](Metabolical%20Chapter%201.%20%E2%80%9CTreatment%E2%80%9D%20Is%20Not%20%E2%80%9CCure%E2%80%9D%E2%80%94It%E2%80%99s%20Not%20Even%20Treatment.md)
 * [Metabolical Chapter 2. “Modern Medicine” Treats Symptoms, Not Disease](Metabolical%20Chapter%202.%20%E2%80%9CModern%20Medicine%E2%80%9D%20Treats%20Symptoms,%20Not%20Disease.md)

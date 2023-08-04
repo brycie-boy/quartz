@@ -8,7 +8,7 @@ Any chemical that gets into the brain, changes the gel-sol balance, and [conscio
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2. Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202.%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 359). Grand Junction, CO: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 2 Hardware & Software The Brain and Its Programs](Prometheus%20Rising%20Chapter%202%20Hardware%20&%20Software%20The%20Brain%20and%20Its%20Programs.md) (Location 359). Grand Junction, CO: *Hilaritas Press*.
 
 ##### Metadata
 

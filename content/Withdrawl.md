@@ -1,6 +1,6 @@
 ## Withdrawl  #🧠
 
-Once you’ve developed [tolerance](Tolerance.md), you wake up and decide it’s time to quit. But changes in those [neuron](Neuron.md)s have occurred. The acute cessation of many of these substances can lead to severe and extremely unpleasant experiences known as withdrawal. They tend to cluster as symptoms of physiological withdrawal with effects on the body, such as sweating, racing heart, palpitations, muscle tension, chest tightness, difficulty breathing, tremor, and GI complaints such as nausea, vomiting, and diarrhea. Or symptoms can also cluster as manifestations of emotional withdrawal, with effects such as anxiety, restlessness, irritability, insomnia, headaches, poor concentration, depression, and social isolation. 
+Withdrawal refers to the unpleasant experiences that occur after the acute cessation of a substance or activity which the user has built a [tolerance](Tolerance.md) to. They tend to cluster as symptoms of physiological withdrawal with effects on the body, such as sweating, racing heart, palpitations, muscle tension, chest tightness, difficulty breathing, tremor, and GI complaints such as nausea, vomiting, and diarrhea. Or symptoms can also cluster as manifestations of emotional withdrawal, with effects such as anxiety, restlessness, irritability, insomnia, headaches, poor concentration, [depression](Depression.md), and social isolation. 
 
 ---
 

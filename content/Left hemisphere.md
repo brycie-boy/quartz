@@ -8,7 +8,7 @@ The left brain [brain hemisphere]() is responsible for [spotlight consciousness]
 
 * Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 1. Asymmetry and the Brain](The%20Master%20and%20His%20Emissary%20Chapter%201.%20Asymmetry%20and%20the%20Brain.md) (p. 60). London, UK: *Yale University Press.*
 
-* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2. What Do the Hemispheres Do?](The%20Master%20and%20His%20Emissary%20Chapter%202.%20What%20Do%20the%20Hemispheres%20Do%3F.md) (p. 72). London, UK: *Yale University Press.*
+* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 2 What Do the Hemispheres Do](The%20Master%20and%20His%20Emissary%20Chapter%202%20What%20Do%20the%20Hemispheres%20Do.md) (p. 72). London, UK: *Yale University Press.*
 
 ##### Metadata
 

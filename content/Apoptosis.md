@@ -1,6 +1,6 @@
 ## Apoptosis  #🧠
 
-Apooptosis is a form of programmed [cell]() death that occurs in multicellular organisms. Apoptosis is inherent to all cells in the body; it’s the self-destruct program that keeps good cells from turning bad (e.g., cancer). Apoptosis is a normal and very important process throughout the body that clears away overworked, mutated, or just plain old and decrepit cells.
+Apoptosis is a form of programmed [cell]() death that occurs in multicellular organisms. Apoptosis is inherent to all cells in the body; it’s the self-destruct program that keeps good cells from turning bad (e.g., cancer). Apoptosis is a normal and very important process throughout the body that clears away overworked, mutated, or just plain old and decrepit cells.
 
 ---
 

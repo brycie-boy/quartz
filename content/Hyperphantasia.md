@@ -8,7 +8,7 @@
 
 ##### References
 
-* HIggs, John. (2021). [William Blake vs The World Chapter 7. ONCE, ONLY IMAGIN’D](William%20Blake%20vs%20The%20World%20Chapter%207.%20ONCE,%20ONLY%20IMAGIN%E2%80%99D.md) (p. 153). New York, NY: *Penguin Random House*.
+* HIggs, John. (2021). [William Blake vs The World Chapter 7 ONCE, ONLY IMAGIN’D](William%20Blake%20vs%20The%20World%20Chapter%207%20ONCE,%20ONLY%20IMAGIN%E2%80%99D.md) (p. 153). New York, NY: *Penguin Random House*.
 
 ##### Metadata
 

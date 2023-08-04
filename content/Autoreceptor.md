@@ -1,4 +1,4 @@
-## Autoreceptor
+## Autoreceptor  #🧠
 
 An autoreceptor is a type of [receptor](Receptor.md) located in the [membranes]() of [neuron](Neuron.md)s that monitor the level of a [neurotransmitter](Neurotransmitter.md) in the synapse. These [receptor](Receptor.md)s normally serve as a feedback loop that regulates how frequently that [neuron](Neuron.md) fires If [neurotransmitter](Neurotransmitter.md) levels are too high, autoreceptors scream “turn on the [neurotransmitter](Neurotransmitter.md) machine.” If they're too high, they scream “turn it off.” It’s like the servo-mechanism of the thermostat in your house. When the temperature drops, the thermostat kicks the heat on, and when it gets too hot, the furnace turns off. Autoreceptors serve as the [neuron](Neuron.md)’s thermostat, causing it to fire relatively slowly and rhythmically and silencing it before it gets into trouble. By preventing these [neuron](Neuron.md)s from firing too rapidly, these autoreceptors make sure the [neuron](Neuron.md)s don’t wear out.
 

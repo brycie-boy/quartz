@@ -6,7 +6,7 @@ Another thing that deters us from [self-reliance](Self-reliance.md) is the mista
 
 ##### References
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 490). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 490). *Dover Publications*.
 
 ##### Metadata
 

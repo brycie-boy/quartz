@@ -1,6 +1,6 @@
 ## Monad
 
-![125](6D18504D-57A7-423B-A256-A3E0D0C9B0A6.png)
+![125](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/6D18504D-57A7-423B-A256-A3E0D0C9B0A6.png)
 
  > 
  > *The circled dot was used by the Pythagoreans and later Greeks to represent the Monad.*
@@ -35,7 +35,7 @@ The penetration of the Monad brings the destruction of [the three unwholesome ro
 
 * Bodhi, Bhikkhu. (2005). [In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter IX. SHINING THE LIGHT OF WISDOM](In%20the%20Buddha%E2%80%99s%20Words%20An%20Anthology%20of%20Discourses%20From%20the%20Pali%20Canon%20Chapter%20IX.%20SHINING%20THE%20LIGHT%20OF%20WISDOM.md) (Location 5496). Somerville, MA: *Wisdom Publications*.
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 553). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 553). *Dover Publications*.
 
 * https://en.wikipedia.org//wiki/Tao
 

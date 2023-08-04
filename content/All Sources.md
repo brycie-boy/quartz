@@ -2,7 +2,7 @@
 
 # All Sources
 
-All of the sources that have fed [🔮 The Cosmos](The%20Cosmos.md) sorted chronologically. For my top recommendations and other reading lists return to [📚 The Library](🔮%20The%20Cosmos/The%20Library.md).
+All of the sources that have fed [🔮 The Cosmos](🔮%20The%20Cosmos/The%20Cosmos.md) sorted chronologically. For my top recommendations and other reading lists return to [📚 The Library](🔮%20The%20Cosmos/The%20Library.md).
 
 ## Books
 

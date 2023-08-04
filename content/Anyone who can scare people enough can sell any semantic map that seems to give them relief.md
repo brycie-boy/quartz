@@ -10,7 +10,7 @@ And any domesticated primate alpha male, however cruel or crooked, can rally the
 
 ##### References
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 6. The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206.%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1054). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 6 The Time-Binding Semantic Circuit](Prometheus%20Rising%20Chapter%206%20The%20Time-Binding%20Semantic%20Circuit.md) (Location 1054). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

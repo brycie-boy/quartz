@@ -14,7 +14,7 @@ Perception is the third of [the five aggregates](The%20five%20aggregates.md). It
 
 * Majjhima Nikaya 109, abridged; III 15–19
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 27 · Location 446). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 27 · Location 446). Grand Junction, Colorado: *Hilaritas Press*
 
 ##### Metadata
 

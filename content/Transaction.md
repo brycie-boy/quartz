@@ -6,7 +6,7 @@ Transaction is a concept in [Transactional Psychology]() that holds that percept
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 12 · Location 160). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 12 · Location 160). Grand Junction, Colorado: *Hilaritas Press*
 
 * https://en.wikipedia.org/wiki/Perception
 

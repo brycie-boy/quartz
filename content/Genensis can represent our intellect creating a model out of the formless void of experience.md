@@ -11,7 +11,7 @@ If we confront the world without ideas we see only a muddle, the formless void (
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 15. Different Models & Different Muddles](Prometheus%20Rising%20Chapter%2015.%20Different%20Models%20&%20Different%20Muddles.md) (Location 1417). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 15 Different Models & Different Muddles](Prometheus%20Rising%20Chapter%2015%20Different%20Models%20&%20Different%20Muddles.md) (Location 1417). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

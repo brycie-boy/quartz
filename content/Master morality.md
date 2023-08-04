@@ -6,7 +6,7 @@ Master morality is the type of ethics of the ruling class and involves [friendly
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4. The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204.%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 855). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 4 The Anal Emotional Territorial Circuit](Prometheus%20Rising%20Chapter%204%20The%20Anal%20Emotional%20Territorial%20Circuit.md) (Location 855). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

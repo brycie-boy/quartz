@@ -6,7 +6,7 @@
 
 ##### References
 
-* HIggs, John. (2021). [William Blake vs The World Chapter 4. WITHOUT CONTRARIES IS NO PROGRESSION](William%20Blake%20vs%20The%20World%20Chapter%204.%20WITHOUT%20CONTRARIES%20IS%20NO%20PROGRESSION.md) (p. 69). New York, NY: *Penguin Random House*.
+* HIggs, John. (2021). [William Blake vs The World Chapter 4 WITHOUT CONTRARIES IS NO PROGRESSION](William%20Blake%20vs%20The%20World%20Chapter%204%20WITHOUT%20CONTRARIES%20IS%20NO%20PROGRESSION.md) (p. 69). New York, NY: *Penguin Random House*.
 
 ##### Metadata
 

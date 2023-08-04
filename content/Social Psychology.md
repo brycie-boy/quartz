@@ -33,7 +33,7 @@ Social psychology is the scientific study of how thoughts, feelings, and behavio
 * [To be self-reliant and innovative requires not conforming to social norms](To%20be%20self-reliant%20and%20innovative%20requires%20not%20conforming%20to%20social%20norms.md)
 * [You should follow your own morality even if it means the disapproval of society](You%20should%20follow%20your%20own%20morality%20even%20if%20it%20means%20the%20disapproval%20of%20society.md)
 * [In-group and out-group](In-group%20and%20out-group.md)
-* [Identifying with a group obscures your true character and makes you predictible](Identifying%20with%20a%20group%20obscures%20your%20true%20character%20and%20makes%20you%20predictible.md)
+* [Identifying with a group obscures your true character and makes you predictable](Identifying%20with%20a%20group%20obscures%20your%20true%20character%20and%20makes%20you%20predictable.md)
 * [A self-reliant person should not be afraid to contradict themselves](A%20self-reliant%20person%20should%20not%20be%20afraid%20to%20contradict%20themselves.md)
 * [Our seemingly contradictory actions justify themselves when viewed from a distance](Our%20seemingly%20contradictory%20actions%20justify%20themselves%20when%20viewed%20from%20a%20distance.md)
 * [People commonly revered by society were those with complete trust in themselves](People%20commonly%20revered%20by%20society%20were%20those%20with%20complete%20trust%20in%20themselves.md)

@@ -14,7 +14,7 @@ It is safe to regard Holocaust Revisionism as another Strange Loop. By assuming 
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 2. Skepticism and Blind Faith](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%202.%20Skepticism%20and%20Blind%20Faith.md) (Page 75 · Location 1483). Grand Junction, Colorado: \_Hilaritas Press
+* Wilson, A., Robert (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 2 Skepticism and Blind Faith](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%202%20Skepticism%20and%20Blind%20Faith.md) (Page 75 · Location 1483). Grand Junction, Colorado: \_Hilaritas Press
 
 ##### Metadata
 

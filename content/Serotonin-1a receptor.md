@@ -1,6 +1,6 @@
-## Serotonin-1a receptor
+## Serotonin-1a receptor  #🧠
 
-The [serotonin](Serotonin.md)-1a receptor seems to be uniquely involved in decreasing anxiety and mitigating depression. It’s the binding of [serotonin](Serotonin.md) to this [receptor](Receptor.md) that is equated to well-being and contentment. Rats who have had their [Serotonin](Serotonin.md)-1a [Receptor](Receptor.md)s genetically removes were extremely anxious.
+The [serotonin](Serotonin.md)-1a receptor seems to be uniquely involved in decreasing anxiety and mitigating [depression](Depression.md). It’s the binding of [serotonin](Serotonin.md) to this [receptor](Receptor.md) that is translated into well-being and contentment. Rats who have had their [Serotonin](Serotonin.md)-1a [receptor](Receptor.md)s genetically removed were extremely anxious.
 
 ---
 

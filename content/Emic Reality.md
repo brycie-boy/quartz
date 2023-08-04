@@ -6,7 +6,7 @@ Emic reality is a term which refers to the unified field made up thoughts, feeli
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (Page 11 · Location 139). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (Page 11 · Location 139). Grand Junction, Colorado: *Hilaritas Press*
 
 ##### Metadata
 

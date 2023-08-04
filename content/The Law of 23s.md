@@ -12,7 +12,7 @@
 
 ##### References
 
-* Wilson, A., Robert. (1986). [The New Inquisition Chapter 6. “Mind”, “Matter”, and Monism](The%20New%20Inquisition%20Chapter%206.%20%E2%80%9CMind%E2%80%9D,%20%E2%80%9CMatter%E2%80%9D,%20and%20Monism.md) (p. 187). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1986). [The New Inquisition Chapter 6 Mind Matter and Monism](The%20New%20Inquisition%20Chapter%206%20Mind%20Matter%20and%20Monism.md) (p. 187). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

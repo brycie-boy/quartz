@@ -8,7 +8,7 @@ Author: [Robert Anton Wilson]()
 Publisher: Grand Junction, Colorado: *Hilaritas Press*.
 Publish Date: 1983
 Review Date:
-Status: #☁️/📚 
+Status: #💥/⌛️ 
 
 ---
 

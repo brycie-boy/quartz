@@ -1,6 +1,6 @@
 ## Relative truth  #⏳
 
-Since [when a system of thought becomes less than totally trivial, an infinite regress of challanges manifest and it becomes increasingly uncertain](When%20a%20system%20of%20thought%20becomes%20less%20than%20totally%20trivial,%20an%20infinite%20regress%20of%20challanges%20manifest%20and%20it%20becomes%20increasingly%20uncertain.md), we can never establish absolute truth. However, absolute falsity *can* be established since a statement in its absolute form is falsified once an single exception to it is found. If we except this view, then "true" and "false" becomes relative to our knowledge at a particular time in history and should be modified to at least "relatively true" or "absolutely false."
+Since [When a system of thought becomes less than totally trivial, an infinite regress of challenges manifest and it becomes increasingly uncertain](When%20a%20system%20of%20thought%20becomes%20less%20than%20totally%20trivial,%20an%20infinite%20regress%20of%20challenges%20manifest%20and%20it%20becomes%20increasingly%20uncertain.md), we can never establish absolute truth. However, absolute falsity *can* be established since a statement in its absolute form is falsified once an single exception to it is found. If we except this view, then "true" and "false" becomes relative to our knowledge at a particular time in history and should be modified to at least "relatively true" or "absolutely false."
 
 For instance, unless we are excessively pedantic, the proposition "Ronald Reagan wrote Hamlet" should be considered absolutely false. If we *are* being excessively pedantic, then we can rewrite this proposition to "Ronald Reagan wrote the version of Hamlet attributed to Shakespeare," and *then* it is absolutely false, since we know of many copies of Shakespeare's Hamlet that were in print before Reagan was born. Thus, we avoid the tricky situation that Mr. Reagan wrote his own version of Hamlet in his youth and then went stark staring sane and destroyed it.
 
@@ -12,7 +12,7 @@ The proposition "The infamous Dr. Crippen poisoned his wife," seems relatively t
 
 ##### References
 
-* Wilson, A., Robert (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 2. Skepticism and Blind Faith](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%202.%20Skepticism%20and%20Blind%20Faith.md) (Page 57 · Location 1073). Grand Junction, Colorado: *Hilaritas Press*
+* Wilson, A., Robert (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 2 Skepticism and Blind Faith](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%202%20Skepticism%20and%20Blind%20Faith.md) (Page 57 · Location 1073). Grand Junction, Colorado: *Hilaritas Press*
 
 ##### Metadata
 

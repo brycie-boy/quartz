@@ -6,7 +6,7 @@ Some rough idea of causality has probably been around since the dawn of human in
 
 ##### References
 
-* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7. the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207.%20the%20Open%20Universe.md) (Page 242 · Location 5100). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1986). [The New Inquisition Irrational Rationalism and the Citadel of Science Chapter 7 the Open Universe](The%20New%20Inquisition%20Irrational%20Rationalism%20and%20the%20Citadel%20of%20Science%20Chapter%207%20the%20Open%20Universe.md) (Page 242 · Location 5100). Grand Junction, Colorado: *Hilaritas Press*.
 
 * https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da
 

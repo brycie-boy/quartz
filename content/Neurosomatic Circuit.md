@@ -16,7 +16,7 @@ The neurosomatic circuit of the [brain](Brain.md) is much more recent than the o
 
 ##### References
 
-* wilson, A., Robert. (1983). [Prometheus Rising Chapter 11. The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011.%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2197). Grand Junction, Colorado: *Hilaritas Press*.
+* wilson, A., Robert. (1983). [Prometheus Rising Chapter 11 The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2197). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

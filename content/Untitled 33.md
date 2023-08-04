@@ -6,7 +6,7 @@ The dominant system of classification varies from society to society; hence, cul
 
 ##### References
 
-* Wilson, A., Robert. [Prometheus Rising Chapter 15. Different Models & Different Muddles](Prometheus%20Rising%20Chapter%2015.%20Different%20Models%20&%20Different%20Muddles.md) (Location 2799). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. [Prometheus Rising Chapter 15 Different Models & Different Muddles](Prometheus%20Rising%20Chapter%2015%20Different%20Models%20&%20Different%20Muddles.md) (Location 2799). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

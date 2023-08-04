@@ -18,7 +18,7 @@ It must be stressed that none of this means that we should reject all external a
 
 * Bodhi, Bhikkhu. (2005). [In the Buddha’s Words An Anthology of Discourses From the Pali Canon Chapter 3. Approaching the Dhamma](In%20the%20Buddha%E2%80%99s%20Words%20An%20Anthology%20of%20Discourses%20From%20the%20Pali%20Canon%20Chapter%203.%20Approaching%20the%20Dhamma.md) (Location 1626). Somerville, MA: *Wisdom Publications*.
 
-* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2. Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202.%20Self-Reliance.md) (Location 560-572). *Dover Publications*.
+* Emerson, W,. Ralph. (1844). [Self-Reliance and Other Essays Chapter 2 Self-Reliance](Self-Reliance%20and%20Other%20Essays%20Chapter%202%20Self-Reliance.md) (Location 560-572). *Dover Publications*.
 
 * Wilson, A., Robert. (1983). [Prometheus Rising Chapter 15. Different Models & Different Muddles](app://obsidian.md/Prometheus%20Rising%20Chapter%2015.%20Different%20Models%20&%20Different%20Muddles) (Location 1417). Grand Junction, Colorado: *Hilaritas Press*.
 

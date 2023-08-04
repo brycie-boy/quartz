@@ -6,7 +6,7 @@ There are various masks and guises under which the [existential vacuum](Existent
 
 ##### References
 
-* Frankl, Victor. (1946). [Man's Search for Meaning Chapter 2. Logotherapy In A Nutshell](Man's%20Search%20for%20Meaning%20Chapter%202.%20Logotherapy%20In%20A%20Nutshell.md) (p. 121). Boston, MA: *Beacon Books*. 
+* Frankl, Victor. (1946). [Man's Search for Meaning Chapter 2 Logotherapy In A Nutshell](Man's%20Search%20for%20Meaning%20Chapter%202%20Logotherapy%20In%20A%20Nutshell.md) (p. 121). Boston, MA: *Beacon Books*. 
 
 ##### Metadata
 

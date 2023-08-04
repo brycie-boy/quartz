@@ -6,7 +6,7 @@ Negative [Neurosomatic Circuit](Neurosomatic%20Circuit.md) effects are experienc
 
 ##### References
 
-* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11. The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011.%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2132). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert. (1983). [Prometheus Rising Chapter 11 The Holistic Neurosomatic Circuit](Prometheus%20Rising%20Chapter%2011%20The%20Holistic%20Neurosomatic%20Circuit.md) (Location 2132). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

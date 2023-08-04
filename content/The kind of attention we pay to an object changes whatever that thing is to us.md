@@ -16,7 +16,7 @@ Attention is inescapably bound up with value—unlike what we conceive as ‘cog
 
 * Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 1. Asymmetry and the Brain](The%20Master%20and%20His%20Emissary%20Chapter%201.%20Asymmetry%20and%20the%20Brain.md) (p. 61). London, UK: *Yale University Press.*
 
-* Wilson, A., Robert (1986). [The New Inquisition Chapter 1. Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201.%20Models,%20Metaphors,%20and%20Idols.md) (p. 28). Grand Junction, Colorado: *Hilaritas Press*.
+* Wilson, A., Robert (1986). [The New Inquisition Chapter 1 Models, Metaphors, and Idols](The%20New%20Inquisition%20Chapter%201%20Models,%20Metaphors,%20and%20Idols.md) (p. 28). Grand Junction, Colorado: *Hilaritas Press*.
 
 ##### Metadata
 

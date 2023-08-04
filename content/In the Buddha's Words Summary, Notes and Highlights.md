@@ -2,7 +2,7 @@
 
 ## In the Buddha's Words Book Summary, Notes and Highlights
 
-[ ![150](5BE2ABEC-635B-41AD-B177-3892CE30F8AB.jpeg) ](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1650578812&sr=8-1)
+[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/5BE2ABEC-635B-41AD-B177-3892CE30F8AB.jpeg) ](https://www.amazon.com/gp/aw/d/B003XF1LIO/ref=tmm_kin_swatch_0?ie=UTF8&qid=1650578812&sr=8-1)
 
 Author: [Bhikku Bodhi]()
 Publisher: Somerville, MA: *Wisdom Publications*.
