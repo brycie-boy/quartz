@@ -32,6 +32,7 @@ Amount: 13
 
 * [Low-entropy state](Low-entropy%20state.md)
 * [Young children and adults under psychedelics are more likely to come up with unconventional solutions to problems](Young%20children%20and%20adults%20under%20psychedelics%20are%20more%20likely%20to%20come%20up%20with%20unconventional%20solutions%20to%20problems.md)
+* [Urizen](Urizen.md)
 * [If a single set of views were to dominate society, the world would be static and dull](If%20a%20single%20set%20of%20views%20were%20to%20dominate%20society,%20the%20world%20would%20be%20static%20and%20dull.md)
 * [Nothing can be fully understood without its opposite](Nothing%20can%20be%20fully%20understood%20without%20its%20opposite.md)
 * [We generally struggle with the idea that two contradictory positions can be true](We%20generally%20struggle%20with%20the%20idea%20that%20two%20contradictory%20positions%20can%20be%20true.md)
