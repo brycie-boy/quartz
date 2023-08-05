@@ -24,8 +24,12 @@ The Monad is both the all and the creator of the all, and being both the substan
 The Monad is not a name for a particular thing, but the underlying natural order of the Universe whose ultimate essence is difficult to circumscribe because it is non-conceptual yet evident in one's experience. It is the reality of life before its descriptions of it, or in other words, it is the muddle we encounter when we confront the world without ideas; the formless void that existed before “God” (intellect) started to create a universe (a system) in Genesis, or before the first [imprint](Imprint.md).
 
 * Infinite potential from which an infinite variety of divisions may be imposed upon
+* Creative void
 
 The Monad is not a concept to be grasped intellectually, as [speculative philosophical questions lead the practitioner away from liberation](Speculative%20philosophical%20questions%20lead%20the%20practitioner%20away%20from%20liberation.md). In all its uses, the Monad is considered to have ineffable qualities that prevent it from being fully understood through [conceptual understanding](Conceptual%20understanding.md). Rather, it may be penetrated by [experiential understanding](Experiential%20understanding.md), and its and principles can be followed and emulated.
+
+* only the right hemisphere can apprehend the monad
+  * [The right hemisphere sees the whole before the left hemisphere separates it into parts](The%20right%20hemisphere%20sees%20the%20whole%20before%20the%20left%20hemisphere%20separates%20it%20into%20parts.md)
 
 The penetration of the Monad brings the destruction of [the three unwholesome roots](The%20three%20unwholesome%20roots.md), culminating in complete purification of mind. Such purification includes the experience of perfect [happiness](Happiness.md). The Monad appears in [the four nobel truths](The%20four%20nobel%20truths.md) as the cessation of dissatisfaction. Being unborn, realization of the Monad also brings irreversible release from [Samsara](Samsara.md) upon physical death, thus it is often referred to as the "deathless" or "immortality."
 

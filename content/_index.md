@@ -25,6 +25,9 @@ Here are some places where you can take a deeper look into The Cosmos:
 
 ##### Contact me:
 
+* email: brycemcalister03@protonmail.com
+* discord: cyb3rc1ty
+
 ##### Buy me a coffee ![20](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/701AD438-A7F8-4381-B700-8A9AFA86FE04.gif)
 
 (later)

@@ -2,6 +2,8 @@
 
 Conceptual understanding is the correct understanding of a concept arrived by study and examination of that concept in depth. Such understanding is by no means dry and sterile. When rooted in a faith in the worth of the concept and a strong determination to understand it, it serves the germ from which [experiential understanding](Experiential%20understanding.md) evolves. 
 
+* [The left hemisphere tends to understand things as logical, abstract, and stripped of context](The%20left%20hemisphere%20tends%20to%20understand%20things%20as%20logical,%20abstract,%20and%20stripped%20of%20context.md)
+
 ---
 
 ##### References
@@ -12,4 +14,4 @@ Conceptual understanding is the correct understanding of a concept arrived by st
 
 Type: #🔵/🔵 
 Tags: [Philosophy](Philosophy.md) / [Psychology](Psychology.md) 
-Status: #☀️ 
+Status: # 

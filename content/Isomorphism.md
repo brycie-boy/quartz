@@ -6,7 +6,7 @@ The term isomorphism applies when two complex structures can be mapped onto each
 
 ##### References
 
-* Hofstader, Douglas. (1979). [Godel, Escher Bach Chapter 2. Meaning and Form in Mathematics](Godel,%20Escher%20Bach%20Chapter%202.%20Meaning%20and%20Form%20in%20Mathematics.md) (p. 67). New York, NY: *Basic Books*.
+* Hofstader, Douglas. (1979). [Godel Escher Bach Chapter 2 Meaning and Form in Mathematics](Godel%20Escher%20Bach%20Chapter%202%20Meaning%20and%20Form%20in%20Mathematics.md) (p. 67). New York, NY: *Basic Books*.
 
 ##### Metadata
 

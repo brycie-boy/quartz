@@ -2,7 +2,7 @@
 
 ![400](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/D41EFC27-FA9B-4C1D-B39A-1F351719D552.jpeg)
 
-The serotonergic pathway is a part of the [limbic system](Limbic%20system.md) and involves an area in the [midbrain]() called the [dorsal raphe nucleus]() which contains [neuron](Neuron.md)s that produce the [neurotransmitter](Neurotransmitter.md) [serotonin](Serotonin.md) which fans out to distant sites all over the [cerebral cortex](). [Serotonin](Serotonin.md) acts in different ways on different [neuron](Neuron.md)s, depending on each [neuron](Neuron.md)’s function and the type of [receptor](Receptor.md) that sits on its surface.
+The serotonergic pathway is a part of the [limbic system](Limbic%20system.md) and involves an area in the [midbrain]() called the [dorsal raphe nucleus]() which contains [neuron](Neuron.md)s that produce the [neurotransmitter](Neurotransmitter.md) [serotonin](Serotonin.md), which then fans out to distant sites all over the [cerebral cortex](). [Serotonin](Serotonin.md) acts in different ways on different [neuron](Neuron.md)s, depending on each [neuron](Neuron.md)’s function and the type of [receptor](Receptor.md) that sits on its surface.
 
 ---
 

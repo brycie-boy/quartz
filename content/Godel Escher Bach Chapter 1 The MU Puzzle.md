@@ -1,10 +1,10 @@
-\<- [Godel, Escher, Bach An Eternal Golden Braid](Godel,%20Escher,%20Bach%20An%20Eternal%20Golden%20Braid.md)
+\<- [Godel Escher Bach An Eternal Golden Braid](Godel%20Escher%20Bach%20An%20Eternal%20Golden%20Braid.md)
 
 ## Godel, Escher Bach Chapter 1. The MU Puzzle
 
-[ ![150](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/37A58F5A-D57C-4C07-BCD2-2CE08B161B6F.jpeg) ](https://www.amazon.com/gp/aw/d/B0BGQD53RT/ref=tmm_kin_swatch_0?ie=UTF8&qid=1674179508&sr=8-2)
+[ ![150](481A7327-038F-40A0-A0D2-62E7A9A71A67.jpeg) ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?keywords=godel+escher+bach&qid=1691277402&sr=8-1)
 
-Author: [Douglas R. Hofstader]()
+Author: [Douglas R. Hofstadter]()
 Publisher: New York, NY: *Basic Books*.
 Publish Date: 1979
 Review Date:
@@ -224,3 +224,11 @@ FIGURE 11. A systematically constructed "tree" of all the theorems of the MIU-sy
 ---
 
 ### Notes
+
+Amount: 5
+
+* [Humans differ from machines in that they are able to make observations about their own behavior](Humans%20differ%20from%20machines%20in%20that%20they%20are%20able%20to%20make%20observations%20about%20their%20own%20behavior.md)
+* [Intelligent mode](Intelligent%20mode.md)
+* [Mechanic mode](Mechanic%20mode.md)
+* [Jump out of the system](Jump%20out%20of%20the%20system.md)
+* [Theorem](Theorem.md)

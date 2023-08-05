@@ -6,7 +6,7 @@ In mechanic mode, we are unobservant and unable to [jump out of the system](Jump
 
 ##### References
 
-* Hofstader, Douglas. (1979). [Godel, Escher, Bach Chapter 1. The MU Puzzle](Godel,%20Escher,%20Bach%20Chapter%201.%20The%20MU%20Puzzle.md) (p. 38). New York, NY: *Basic Books*.
+* Hofstader, Douglas. (1979). [Godel Escher Bach Chapter 1 The MU Puzzle](Godel%20Escher%20Bach%20Chapter%201%20The%20MU%20Puzzle.md) (p. 38). New York, NY: *Basic Books*.
 
 ##### Metadata
 

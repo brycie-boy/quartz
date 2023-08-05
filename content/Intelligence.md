@@ -12,7 +12,7 @@ Characteristics of intelligence include the ability: to respond to situations fl
 
 * https://en.wikipedia.org/wiki/Intelligence
 
-* Hostader, Douglas. (1979). [Godel, Escher, Bach Introduction A Musico-Logical Offering](Godel,%20Escher,%20Bach%20Introduction%20A%20Musico-Logical%20Offering.md) (p. 26). New York, NY: *Basic Books*.
+* Hostader, Douglas. (1979). [Godel Escher Bach Introduction A Musico-Logical Offering](Godel%20Escher%20Bach%20Introduction%20A%20Musico-Logical%20Offering.md) (p. 26). New York, NY: *Basic Books*.
 
 ##### Metadata
 
