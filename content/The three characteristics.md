@@ -24,4 +24,4 @@ The different expositions on the three chatacteristics all thus converge on the 
 
 Type: #🔵/🔵 
 Tags: [Philosophy](Philosophy.md) / [Psychology](Psychology.md) 
-Status: #☀️ 
+Status: #⛅️/⛅️ 

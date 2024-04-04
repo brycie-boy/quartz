@@ -20,6 +20,8 @@ The secondary offshoots include:
 * presumption
 * laziness
 
+I believe the wholesome roots to involve the [left hemisphere](Left%20hemisphere.md) because [a right hemisphere stroke is more disabling than a left in that one loses the ability to socialize and empathize](A%20right%20hemisphere%20stroke%20is%20more%20disabling%20than%20a%20left%20in%20that%20one%20loses%20the%20ability%20to%20socialize%20and%20empathize.md). And also because the [left hemisphere](Left%20hemisphere.md) is more reliant on the [neurotransmitter](Neurotransmitter.md) [dopamine](Dopamine.md), making the [mesolimbic pathway](Mesolimbic%20pathway.md) more dominant in the [left hemisphere](Left%20hemisphere.md).
+
 ---
 
 ##### References

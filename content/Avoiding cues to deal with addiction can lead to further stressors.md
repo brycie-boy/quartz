@@ -1,6 +1,6 @@
 ## Avoiding cues to deal with addiction can lead to further stressors
 
-Avoiding cues might help prevent people from being triggered, but didn’t directly target the core habit loop. For example, staying away from friends who smoke can be helpful. Yet if getting yelled at by the boss triggered someone to smoke, avoiding the boss might lead to other stressors, such as unemployment. This is one reason why traditional methods of behavior change usually fail.
+Avoiding [operant conditioning](Operant%20conditioning.md) cues might help prevent people from being triggered, but does not directly target the core [habit](Habit.md) loop. For example, staying away from friends who smoke can be helpful. Yet if getting yelled at by the boss triggered someone to smoke, avoiding the boss might lead to other [stressor](Stressor.md)s, such as unemployment. This is one reason why traditional methods of behavior change usually fail.
 
 ---
 

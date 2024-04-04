@@ -1,251 +1,223 @@
-7
+45
 
-The Problem of Socrates
+hope in these days we have heard the last of conformity and consistency. Let the words be gazetted and ridiculous henceforward. Instead of the gong for dinner, let us hear a whistle from the Spartan fife. Let us never bow and apologize more. A great man is coming to eat at my house. I do not wish to please him; I wish that he should wish to please me. I will stand here for humanity, and though I would make it kind, I would make it true. Let us affront and reprimand the smooth mediocrity and squalid contentment of the times, and hurl in the face of custom, and trade, and office, the fact which is the upshot of all history, that there is a great responsible Thinker and Actor working wherever a man works; that a true man belongs to no other time or place, but is the center of things. Where he is, there is nature. He measures you, and all men, and all events.
 
-7
+6
 
-About life, the wisest men of all ages have come to the same conclusion: it is no good. Always and everywhere one has heard the same sound from their mouths — a sound full of doubt, full of melancholy, full of weariness of life, full of resistance to life. Even Socrates said, as he died: “To live — that means to be sick a long time: I owe Asclepius the Savior a rooster.” Even Socrates was tired of life. What does that prove? What does it demonstrate?
+History
 
-7
+6
 
-At one time, one would have said (and it has been said loud enough by our pessimists): “At least something must be true here! The consensus of the sages must show us the truth.” Shall we still talk like that today? May we? “At least something must be sick here,” we retort. These wisest men of all ages — they should first be scrutinized closely. Were they all perhaps shaky on their legs? tottery? decadent? late? Could it be that wisdom appears on earth as a raven, attracted by a little whiff of carrion?
+There is no great and no small 
 
-8
+To the Soul that maketh all: 
 
-The irreverent idea that the great sages are types of decline first occurred to me precisely in a case where it is most strongly opposed by both scholarly and unscholarly prejudice: I realized that Socrates and Plato were symptoms of degeneration, tools of the Greek dissolution, pseudo-Greek, anti-Greek (Birth of Tragedy, 1872). The consensus of the sages — I recognized this ever more clearly — proves least of all that they were right in what they agreed on: it shows rather that they themselves, these wisest men, shared some physiological attribute, and because of this adopted the same negative attitude to life — had to adopt it.
+And where it cometh, all things are: 
 
-8
+And it cometh everywhere.
 
-Judgments, judgments of value about life, for it or against it, can in the end never be true: they have value only as symptoms, they are worthy of consideration only as symptoms; in themselves such judgments are meaningless. One must stretch out one’s hands and attempt to grasp this amazing subtlety, that the value of life cannot be estimated. Not by the living, for they are an interested party, even a bone of contention, and not impartial judges; not by the dead, for a different reason. For a philosopher to object to putting a value on life is an objection others make against him, a question mark concerning his wisdom, an un-wisdom. Indeed? All these great wise men — they were not only decadents but not wise at all. But let us return to the problem of Socrates.
+127
 
-9
+The poets made all the words, and therefore language is the archives of history, and, if we must say it, a sort of tomb of the muses. For, though the origin of most of our words is forgotten, each word was at first a stroke of genius, and obtained currency, because for the moment it symbolized the world to the first speaker and to the hearer. The etymologist finds the deadest word to have been once a brilliant picture. Language is fossil poetry. As the limestone of the continent consists of infinite masses of the shells of animalcules, so language is made up of images, or tropes, which now, in their secondary use, have long ceased to remind us of their poetic origin.
 
-Everything about Socrates is exaggerated, buffo, a caricature; everything is at the same time concealed, ulterior, underground. I want to understand what idiosyncrasy begot that Socratic idea that reason and virtue equal happiness — that most bizarre of all equations which is, moreover, opposed to every instinct of the earlier Greeks.
+127
 
-10
+What we call nature, is a certain self-regulated motion, or change; and nature does all things by her own hands, and does not leave another to baptize her, but baptizes herself; and this through the metamorphosis again.
 
-With Socrates, Greek taste changes in favor of logical argument. What really happened there? Above all, a noble taste is vanquished; with dialectics the plebs come to the top. Before Socrates, argumentative conversation was repudiated in good society: it was considered bad manners, compromising. The young were warned against it. Furthermore, any presentation of one’s motives was distrusted. Honest things, like honest men, do not have to explain themselves so openly. What must first be proved is worth little. Wherever authority still forms part of good bearing, where one does not give reasons but commands, the logician is a kind of buffoon: one laughs at him, one does not take him seriously. Socrates was the buffoon who got himself taken seriously: what really happened there?
+130
 
-10
+It is a secret which every intellectual man quickly learns, that, beyond the energy of his possessed and conscious intellect, he is capable of a new energy (as of an intellect doubled on itself), by abandonment to the nature of things; that, beside his privacy of power as an individual man, there is a great public power, on which he can draw, by unlocking, at all risks, his human doors, and suffering the ethereal tides to roll and circulate through him: then he is caught up into the life of the Universe, his speech is thunder, his thought is law, and his words are universally intelligible as the plants and animals. The poet knows that he speaks adequately, then, only when he speaks somewhat wildly, or, “with the flower of the mind;” not with the intellect, used as an organ, but with the intellect released from all service, and suffered to take its direction from its celestial life; or, as the ancients were wont to express themselves, not with intellect alone, but with the intellect inebriated by nectar. As the traveler who has lost his way, throws his reins on his horse’s neck, and trusts to the instinct of the animal to find his road, so must we do with the divine animal who carries us through this world. For if in any manner we can stimulate this instinct, new passages are opened for us into nature, the mind flows into and through things hardest and highest, and the metamorphosis is possible.
 
-One chooses logical argument only when one has no other means. One knows that one arouses mistrust with it, that it is not very persuasive. Nothing is easier to nullify than a logical argument: the tedium of long speeches proves this. It is a kind of self-defense for those who no longer have other weapons. Unless one has to insist on what is already one’s right, there is no use for it. The Jews were argumentative for that reason; Reynard the Fox also — and Socrates too?
+112
 
-10
+The Poet
 
-Is the irony of Socrates an expression of revolt? Of plebeian ressentiment? Does he, as one oppressed, enjoy his own ferocity in the knife thrusts of his argument? Does he avenge himself on the noble audience he fascinates? As a dialectician, he holds a merciless tool in his hand; he can become a tyrant by means of it; he compromises those he conquers. The dialectician leaves it to his opponent to prove that he is not an idiot: he enrages and neutralizes his opponent at the same time. The dialectician renders the intellect of his opponent powerless. Indeed, in Socrates, is dialectic only a form of revenge?
+143
 
-11
+So much of our time is preparation, so much is routine, and so much retrospect, that the pith of each man’s genius contracts itself to a very few hours. The history of literature—take the net result of Tiraboschi, Warton, or Schlegel,—is a sum of very few ideas, and of very few original tales,—all the rest being variation of these. So in this great society wide lying around us, a critical analysis would find very few spontaneous actions. It is almost all custom and gross sense. There are even few opinions, and these seem organic in the speakers, and do not disturb the universal necessity.
 
-I have explained how it was that Socrates could repel: it is therefore all the more necessary to explain how he could fascinate. That he discovered a new kind of contest, that he became its first fencing master for the noble circles of Athens, is one point. He fascinated by appealing to the competitive impulse of the Greeks — he introduced a variation into the wrestling match between young men and youths. Socrates was a great erotic.
+147
 
-11
+Life is a train of moods like a string of beads, and, as we pass through them, they prove to be many-colored lenses which paint the world their own hue, and each shows only what lies in its focus. From the mountain you see the mountain. We animate what we can, and we see only what we animate. Nature and books belong to the eyes that see them. It depends on the mood of the man, whether he shall see the sunset or the fine poem. There are always sunsets, and there is always genius; but only a few hours so serene that we can relish nature or criticism. The more or less depends on structure or temperament. Temperament is the iron wire on which the beads are strung.
 
-But Socrates guessed even more. He saw through the noble Athenians; he saw that his own case, his idiosyncrasy, was no longer exceptional. The same kind of degeneration was quietly developing everywhere: old Athens was coming to an end. And Socrates understood that the world needed him — his method, his cure, his personal artifice of self-preservation. Everywhere the instincts were in anarchy, everywhere one was within sight of excess: monstrum in animo was the common danger. “The impulses want to play the tyrant; one must invent a counter-tyrant who is stronger.”
+170
 
-11
+The Divinity School Address
 
-After the physiognomist had revealed to Socrates who he was — a cave of bad appetites — the great master of irony let slip another clue to his character. “This is true,” he said, “but I mastered them all.” How did Socrates become master over himself? His case was, at bottom, merely the extreme case, only the most striking instance of what was then beginning to be a epidemic: no one was any longer master over himself, the instincts turned against themselves. He fascinated, being an extreme case; his awe inspiring ugliness proclaimed him as such to all who could see: he fascinated, of course, even more as an answer, a solution, an apparent cure for this disease.
+171
 
-12
+Behold these outrunning laws, which our imperfect apprehension can see tend this way and that, but not come full circle.
 
-When one finds it necessary to turn reason into a tyrant, as Socrates did, the danger cannot be slight that something else threatens to play the tyrant. Rationality was hit upon as a savior; neither Socrates nor his “patients” had any choice about being rational: it was necessary, it was the last resort. The fanaticism with which all Greek reflection throws itself upon rationality betrays a desperate situation; there was danger, there was but one choice: either to perish or — to be absurdly rational.
+171
 
-12
+He knows the sense of that grand word, though his analysis fails entirely to render account of it.
 
-The moralism of the Greek philosophers from Plato on is pathologically conditioned; so is their reverence for logical argument. Reason equals virtue and happiness, that means merely that one must imitate Socrates and counter the dark appetites with a permanent daylight — the daylight of reason. One must be clever, clear, bright at any price: any concession to the instincts, to the unconscious, leads downward.
+172
 
-12
+These laws refuse to be adequately stated. They will not by us or for us be written out on paper, or spoken by the tongue. They elude, evade our persevering thought, and yet we read them hourly in each other’s faces, in each others actions, in our own remorse.
 
-I have explained how Socrates fascinated his audience: he seemed to be a physician, a savior. Is it necessary to go on to demonstrate the error in his faith in “rationality at any price”? It is a self-deception on the part of philosophers and moralists if they believe that they are extricating themselves from decadence by waging war against it. Extrication lies beyond their strength: what they choose as a means, as salvation, is itself but another expression of decadence; they change the form of decadence, but they do not get rid of decadence itself.
+172
 
-12
+The intuition of the moral sentiment is an insight of the perfection of the laws of the soul. These laws execute themselves. They are out of time, out of space, and not subject to circumstance. Thus; in the soul of man there is a justice whose retributions are instant and entire. He who does a good deed, is instantly ennobled himself. He who does a mean deed, is by the action itself contracted. He who puts off impurity, thereby puts on purity. If a man is at heart just, then in so far is he God; the safety of God, the immortality of God, the majesty of God do enter into that man with justice.
 
-Socrates was a misunderstanding; any improvement morality, including Christianity, is a misunderstanding. The most blinding daylight; rationality at any price; life, bright, cold, cautious, conscious, without instinct, in opposition to the instincts — all this was a kind of disease, merely a disease, and by no means a return to “virtue,” to “health,” to happiness. To have to fight the instincts — that is the definition of decadence: as long as life is ascending, happiness equals instinct.
+173
 
-13
+See how this rapid intrinsic energy worketh everywhere, righting wrongs, correcting appearances, and bringing up facts to a harmony with thoughts. Its operation in life, though slow to the senses, is, at last, as sure as in the soul. By it, a man is made the Providence to himself, dispensing good to his goodness, and evil to his sin.
 
-Did he himself understand this, this most brilliant of all self-deceivers? Was this what he said to himself in the end, in the wisdom of his courage to die? Socrates wanted to die: not Athens, but he himself chose the hemlock; he forced Athens to sentence him. “Socrates is no physician,” he said softly to himself, “here death alone is the physician. Socrates himself has only been sick a long time.”
+174
 
-14
+These facts have always suggested to man the sublime creed, that the world is not the product of manifold power, but of one will, of one mind; and that one mind is everywhere, in each ray of the star, in each wavelet of the pool, active; and whatever opposes that will, is everywhere baulked and baffled, because things are made so, and not otherwise.
 
-“Reason” in Philosophy
+176
 
-14
+It is an intuition. It cannot be received at second hand. Truly speaking, it is not instruction, but provocation, that I can receive from another soul. What he announces, I must find true in me, or wholly reject; and on his word, or as his second, be he who he may, I can accept nothing.
 
-You ask me which of the philosophers’ traits are most characteristic? For example, their lack of historical sense, their hatred of the very idea of becoming, their Egypticism. They think that they show their respect for a subject when they dehistoricize it sub specie aeternitas — when they turn it into a mummy. Everything that philosophers handled over the past thousands of years turned into concept mummies; nothing real
+176
 
-14
+Once man was all; now he is an appendage, a nuisance. And because the indwelling Supreme Spirit cannot wholly be got rid of, the doctrine of it suffers this perversion, that the divine nature is attributed to one or two persons, and denied to all the rest, and denied with fury. The doctrine of inspiration is lost; the base doctrine of the majority of voices, usurps the place of the doctrine of the soul.
 
-these venerable concept idolators revere something, they kill it and stuff it; they suck the life out of everything they worship. Death, change, old age, as well as procreation and growth, are to their minds objections — even refutations. Whatever has being does not become; whatever becomes does not have being. Now they all believe, desperately even, in what has being. But since they never grasp it, they seek for reasons why it is kept from them. “There must be mere appearance, there must be some deception which prevents us from perceiving that which has being: where is the deceiver?”
+178
 
-14
+Jesus Christ belonged to the true race of prophets.
 
-“We have found him,” they cry jubilantly; “it is the senses! These senses, so immoral in other ways too, deceive us concerning the true world. Moral: let us free ourselves from the deception of the senses, from becoming, from history, from lies; history is nothing but faith in the senses, faith in lies. Moral: let us say No to all who have faith in the senses, to all the rest of mankind; they are all ‘mob.’ Let us be philosophers! Let us be mummies! Let us represent monotono-theism by adopting the manner of a gravedigger! And above all, away with the body, this wretched idée fixe of the senses, disfigured by all the fallacies of logic, refuted, even impossible, although it is impudent enough to behave as if it were real!”
+178
 
-15
+man was true to what is in you and me. He saw that God incarnates himself in man, and evermore goes forth anew to take possession of his world. He said, in this jubilee of sublime emotion, ‘I am divine. Through me, God acts; through me, speaks. Would you see God, see me; or, see thee, when thou also thinkest as I now think.’
 
-With the highest respect, I exclude the name of Heraclitus. When the rest of the philosophic crowd rejected the testimony of the senses because it showed multiplicity and change, he rejected their testimony because it represented things as if they had permanence and unity. Heraclitus too did the senses an injustice. They lie neither in the way the Eleatics believed, nor as he believed — they do not lie at all. What we make of their testimony, that alone introduces lies; for example, the lie of unity, the lie of thinghood, of substance, of permanence. “Reason” is the reason we falsify the testimony of the senses. Insofar as the senses show becoming, passing away, and change, they do not lie. But Heraclitus will remain eternally right with his assertion that being is an empty fiction. The “apparent” world is the only one: the “true” world is merely added by a lie.
+178
 
-15
+But what a distortion did his doctrine and memory suffer in the same, in the next, and the following ages! There is no doctrine of the Reason which will bear to be taught by the Understanding. The understanding caught this high chant from the poet’s lips, and said, in the next age, ‘This was Jehovah come down out of heaven. I will kill you, if you say he was a man.’
 
-And what magnificent instruments of observation we possess in our senses! This nose, for example, of which no philosopher has yet spoken with reverence and gratitude, is actually the most delicate instrument so far at our disposal: it is able to detect tiny chemical concentrations that even elude a spectroscope. Today we possess science precisely to the extent to which we have decided to accept the testimony of the senses — to the extent to which we sharpen them further, arm them, and have learned to think them through. The rest is miscarriage and not-yet-science — in other words, metaphysics, theology, psychology, epistemology — or formal science, a doctrine of signs, such as logic and that applied logic which is called mathematics. In them reality is not encountered at all, not even as a problem — no more than the question of the value of such a sign-convention as logic.
+178
 
-16
+He felt respect for Moses and the prophets; but no unfit tenderness at postponing their initial revelations, to the hour and the man that now is; to the eternal revelation in the heart. Thus was he a true man. Having seen that the law in us is commanding, he would not suffer it to be commanded. Boldly, with hand, and heart, and life, he declared it was God. Thus was he a true man. Thus is he, as I think, the only soul in history who has appreciated the worth of a man.
 
-The other characteristic of philosophers is no less dangerous; it consists in confusing the last and the first. They place that which comes at the end — unfortunately! for it ought not to come at all! namely, the “highest concepts,” which means the most general, the emptiest concepts, the last smoke of evaporating reality — in the beginning, as the beginning. This again is nothing but their way of showing reverence: the higher may not grow out of the lower, may not have grown at all. Moral: whatever is of the first rank must be causa sui. Origin out of something else is considered an objection, a questioning of value. All the highest values are of the first rank; all the highest concepts, that which has being, the unconditional, the good, the true, the perfect — all these cannot have become and must therefore be causes.
+179
 
-16
+1. In thus contemplating Jesus, we become very sensible of the first defect of historical Christianity. Historical Christianity has fallen into the error that corrupts all attempts to communicate religion. As it appears to us, and as it has appeared for ages, it is not the doctrine of the soul, but an exaggeration of the personal, the positive, the ritual. It has dwelt, it dwells, with noxious exaggeration about the person of Jesus. The soul knows no persons. It invites every man to expand to the full circle of the universe, and will have no preferences but those of spontaneous love. But by this eastern monarchy of a Christianity, which indolence and fear have built, the friend of man is made the injurer of man. The manner in which his name is surrounded with expressions, which were once sallies of admiration and love, but are now petrified into official titles, kills all generous sympathy and liking. All who hear me, feel, that the language that describes Christ to Europe and America, is not the style of friendship and enthusiasm to a good and noble heart, but is appropriated and formal,—paints a demigod, as the Orientals or the Greeks would describe Osiris or Apollo. Accept the injurious impositions of our early catachetical instruction, and even honesty and self-denial were but splendid sins, if they did not wear the Christian name. One would rather be 
 
-All these, moreover, cannot be unlike each other or in contradiction to each other. Thus they arrive at their stupendous concept, “God.” That which is last, thinnest, and emptiest is put first, as the cause, as ens realissimum. Why did humanity have to take seriously the brain afflictions of these sick web-spinners? We have paid dearly for it!
+‘A pagan suckled in a creed outworn,’
 
-16
+than to be defrauded of his manly right in coming into nature, and finding not names and places, not land and professions, but even virtue and truth foreclosed and monopolized. You shall not be a man even. You shall not own the world; you shall not dare, and live after the infinite Law that is in you, and in company with the infinite Beauty which heaven and earth reflect to you in all lovely forms; but you must subordinate your nature to Christ’s nature; you must accept our interpretations; and take his portrait as the vulgar draw it.
 
-At long last, let us contrast the very different manner in which we conceive the problem of error and appearance. (I say “we” for politeness’ sake.) In the past, alteration, change, any becoming at all, were taken as proof of mere appearance, as an indication that there must be something which led us astray. Today, in contrast, precisely insofar as the prejudice of reason forces us to posit unity, identity, permanence, substance, cause, thinghood, being, we see ourselves somehow caught in error, compelled into error — so certain are we, on the basis of rigorous examination, that this is where the error lies.
+180
 
-17
+That is always best which gives me to myself. The sublime is excited in me by the great stoical doctrine, Obey thyself. That which shows God in me, fortifies me. That which shows God out of me, makes me a wart and a wen. There is no longer a necessary reason for my being. Already the long shadows of untimely oblivion creep over me, and I shall decease forever.
 
-It is no different in this case than with the movement of the sun: there our eye is the constant advocate of error, here it is our language. In its origin language belongs to the age of the most rudimentary psychology. We enter a realm of crude fetishism when we summon before consciousness the basic presuppositions of the metaphysics of language — in plain talk, the presuppositions of reason.
+180
 
-17
+It is true that a great and rich soul, like his, falling among the simple, does so preponderate, that, as his did, it names the world. The world seems to them to exist for him, and they have not yet drunk so deeply of his sense, as to see that only by coming again to themselves, or to God in themselves, can they grow forevermore. It is a low benefit to give me something; it is a high benefit to enable me to do somewhat of myself. The time is coming when all men will see, that the gift of God to the soul is not a vaunting, overpowering, excluding sanctity, but a sweet, natural goodness, a goodness like thine and mine, and that so invites thine and mine to be and to grow.
 
-Everywhere reason sees a doer and doing; it believes in will as the cause; it believes in the ego, in the ego as being, in the ego as substance, and it projects this faith in the ego-substance upon all things — only thereby does it first create the concept of “thing.” Everywhere “being” is projected by thought, pushed underneath, as the cause; the concept of being follows, and is a derivative of, the concept of ego. In the beginning there is that great calamity of an error that the will is something which is effective, that will is a capacity. Today we know that it is only a word.
+182
 
-17
+The man enamored of this excellency, becomes its priest or poet. The office is coeval with the world. But observe the condition, the spiritual limitation of the office. The spirit only can teach. Not any profane man, not any sensual, not any liar, not any slave can teach, but only he can give, who has; he only can create, who is. The man on whom the soul descends, through whom the soul speaks, alone can teach. Courage, piety, love, wisdom, can teach; and every man can open his doors to these angels, and they shall bring him the gift of tongues. But the man who aims to speak as books enable, as synods use, as the fashion guides, and as interest commands, babbles. Let him hush.
 
-Very much later, in a world which was in a thousand ways more enlightened, philosophers, to their great surprise, became aware of the sureness, the subjective certainty, in our handling of the categories of reason: they concluded that these categories could not be derived from anything empirical — for everything empirical plainly contradicted them. Whence, then, were they derived?
+182
 
-18
+To this holy office, you propose to devote yourselves. I wish you may feel your call in throbs of desire and hope. The office is the first in the world. It is of that reality, that it cannot suffer the deduction of any falsehood. And it is my duty to say to you, that the need was never greater of new revelation than now. From the views I have already expressed, you will infer the sad conviction which I share, I believe, with numbers, of the universal decay and now almost death of faith in society. The soul is not preached. The Church seems to totter to its fall, almost all life extinct. On this occasion, any complaisance, would be criminal, which told you, whose hope and commission it is to preach the faith of Christ, that the faith of Christ is preached.
 
-And in India, as in Greece, the same mistake was made: “We must once have been at home in a higher world (instead of a very much lower one, which would have been the truth); we must have been divine, because we have reason!” Indeed, nothing has yet possessed a more naive power of persuasion than the error concerning being, as it has been formulated by the Eleatics, for example. After all, every word and every sentence we say speak in its favor. Even the opponents of the Eleatics still succumbed to the seduction of their concept of being: Democritus, among others, when he invented his atom. “Reason” in language — oh, what an old deceptive female she is! I am afraid we are not rid of God because we still have faith in grammar.
+142
 
-18
+Experience
 
-It will be appreciated if I condense so essential and so new an insight into four theses. In that way I facilitate comprehension; in that way I provoke contradiction.
+152
 
-18
+But what help from these fineries or pedantries? What help from thought? Life is not dialectics. We, I think, in these times, have had lessons enough of the futility of criticism. Our young people have thought and written much on labor and reform, and for all that they have written, neither the world nor themselves have got on a step. Intellectual tasting of life will not supersede muscular activity. If a man should consider the nicety of the passage of a piece of bread down his throat, he would starve.
 
-First proposition. The reasons for which “this” world has been characterized as “apparent” are the very reasons which indicate its reality; any other kind of reality is absolutely indemonstrable.
+152
 
-18
+Do not craze yourself with thinking, but go about your business anywhere. Life is not intellectual or critical, but sturdy. Its chief good is for well-mixed people who can enjoy what they find, without question. Nature hates peeping, and our mothers speak her very sense when they say, “Children, eat your victuals, and say no more of it.”
 
-Second proposition. The criteria which have been bestowed on the “true being” of things are the criteria of not-being, of naught, the “true world” has been constructed out of contradiction to the actual world: indeed an apparent world, insofar as it is merely a moral-optical illusion.
+152
 
-18
+Life itself is a mixture of power and form, and will not bear the least excess of either. To finish the moment, to find the journeys end in every step of the road, to live the greatest number of good hours, is wisdom. It is not the part of men, but of fanatics, or of mathematicians, if you will, to say, that, the shortness of life considered, it is not worth caring whether for so short a duration we were sprawling in want, or sitting high. Since our office is with moments, let us husband them.
 
-Third proposition. To invent fables about a world “other” than this one has no meaning at all, unless an instinct of slander, detraction, and suspicion against life has gained the upper hand in us: in that case, we avenge ourselves against life with a phantasmagoria of “another,” a “better” life.
+153
 
-19
+I compared notes with one of my friends who expects everything of the universe, and is disappointed when anything is less than the best, and I found that I begin at the other extreme, expecting nothing, and am always full of thanks for moderate goods. I accept the clangor and jangle of contrary tendencies.
 
-Fourth proposition. Any distinction between a “true” and an “apparent” world — whether in the Christian manner or in the manner of Kant (in the end, an underhanded Christian) — is only a suggestion of decadence, a symptom of the decline of life. That the artist esteems appearance higher than reality is no objection to this proposition. For “appearance” in this case means reality once more, only by way of selection, reinforcement, and correction. The tragic artist is no pessimist: he is precisely the one who says Yes to everything questionable, even to the terrible — he is Dionysian.
+153
 
-20
+If we will take the good we find, asking no questions, we shall have heaping measures. The great gifts are not got by analysis. Everything good is on the highway.
 
-How the “True World” Finally Became a Fable. The History of an Error
+153
 
-20
+The middle region of our being is the temperate zone. We may climb into the thin and cold realm of pure geometry and lifeless science, or sink into that of sensation. Between these extremes is the equator of life, of thought, of spirit, of poetry,—a narrow belt.
 
-The true world — attainable for the sage, the pious, the virtuous man; he lives in it, he is it.
+Note: marriage of Heaven and hell
 
-(The oldest form of the idea, relatively sensible, simple, and persuasive. A circumlocution for the sentence, “I, Plato, am the truth.”)
+156
 
-20
+Life is a series of surprises, and would not be worth taking or keeping, if it were not. God delights to isolate us every day, and hide from us the past and the future. We would look about us, but with grand politeness he draws down before us an impenetrable screen of purest sky, and another behind us of purest sky. “You will not remember,” he seems to say, “and you will not expect.” All good conversation, manners, and action, come from a spontaneity which forgets usages, and makes the moment great. Nature hates calculators; her methods are saltatory and impulsive.
 
-The true world — unattainable for now, but promised for the sage, the pious, the virtuous man (“for the sinner who repents”).
+156
 
-(Progress of the idea: it becomes more subtle, insidious, incomprehensible — it becomes female, it becomes Christian. )
+The most attractive class of people are those who are powerful obliquely, and not by the direct stroke: men of genius, but not yet accredited: one gets the cheer of their light, without paying too great a tax. Theirs is the beauty of the bird, or the morning light, and not of art. In the thought of genius there is always a surprise; and the moral sentiment is well called “the newness,” for it is never other; as new to the oldest intelligence as to the young child,—“the kingdom that cometh without observation.” In like manner, for practical success, there must not be too much design. A man will not be observed in doing that which he can do best. There is a certain magic about his properest action, which stupefies your powers of observation, so that though it is done before you, you wist not of it.
 
-20
+159
 
-The true world — unattainable, indemonstrable, unpromisable; but the very thought of it — a consolation, an obligation, an imperative.
+If I have described life as a flux of moods, I must now add, that there is that in us which changes not, and which ranks all sensations and states of mind. The consciousness in each man is a sliding scale, which identifies him now with the First Cause, and now with the flesh of his body; life above life, in infinite degrees. The sentiment from which it sprung determines the dignity of any deed, and the question ever is, not, what you have done or forborne, but, at whose command you have done or forborne it.
 
-(At bottom, the old sun, but seen through mist and skepticism. The idea has become elusive, pale, Nordic, Königsbergian.)
+160
 
-20
+Fortune, Minerva, Muse, Holy Ghost,—these are quaint names, too narrow to cover this unbounded substance. The baffled intellect must still kneel before this cause, which refuses to be named,—ineffable cause, which every fine genius has essayed to represent by some emphatic symbol,
 
-The true world — unattainable? At any rate, unattained. And being unattained, also unknown. Consequently, not consoling, redeeming, or obligating: how could something unknown obligate us?
+160
 
-(Gray morning. The first yawn of reason. The cockcrow of positivism.)
+”—In our more correct writing, we give to this generalization the name of Being, and thereby confess that we have arrived as far as we can go.
 
-20
+160
 
-The “true” world — an idea which is no longer good for anything, not even obligating — an idea which has become useless and superfluous — consequently, a refuted idea: let us abolish it!
+So in accepting the leading of the sentiments, it is not what we believe concerning the immortality of the soul, or the like, but the universal impulse to believe, that is the material circumstance, and is the principal fact in the history of the globe. Shall we describe this cause as that which works directly? The spirit is not helpless or needful of mediate organs. It has plentiful powers and direct effects. I am explained without explaining, I am felt without acting, and where I am not. Therefore all just persons are satisfied with their own praise. They refuse to explain themselves, and are content that new actions should do them that office.
 
-(Bright day; breakfast; return of bon sens and cheerfulness; Plato’s embarrassed blush; pandemonium of all free spirits.)
+162
 
-20
+It is very unhappy, but too late to be helped, the discovery we have made, that we exist. That discovery is called the Fall of Man.
 
-The true world — we have abolished. What world has remained? The apparent one perhaps? But no! With the true world we have also abolished the apparent one.
+162
 
-(Noon; moment of the briefest shadow; end of the longest error; high point of humanity; INCIPIT ZARATHUSTRA.)
+We have learned that we do not see directly, but mediately, and that we have no means of correcting these colored and distorting lenses which we are, or of computing the amount of their errors.
 
-21
+162
 
-Morality as Anti-Nature
+Nature and literature are subjective phenomena; every evil and every good thing is a shadow which we cast.
 
-21
+162
 
-All passions have a phase when they are merely disastrous, when they drag down their victim with the weight of stupidity — and a later, very much later phase when they wed the spirit, when they “spiritualize” themselves. Formerly, in view of the element of stupidity in passion, war was declared on passion itself, its destruction was plotted; all the old moral monsters are agreed on this: il faut tuer les passions. The most famous formula for this is to be found in the New Testament, in that Sermon on the Mount, where, incidentally, things are by no means looked at from a height. There it is said, for example, with particular reference to sexuality: “If thy eye offend thee, pluck it out.”
+‘Tis the same with our idolatries. People forget that it is the eye which makes the horizon, and the rounding mind’s eye which makes this or that man a type or representative of humanity with the name of hero or saint. Jesus the “providential man,” is a good man on whom many people are agreed that these optical laws shall take effect. By love on one part, and by forbearance to press objection on the other part, it is for a time settled, that we will look at him in the center of the horizon, and ascribe to him the properties that will attach to any man so seen. But the longest love or aversion has a speedy term. The great and crescive self, rooted in absolute nature, supplants all relative existence, and ruins the kingdom of mortal friendship and love. Marriage (in what is called the spiritual world) is impossible, because of the inequality between every subject and every object.
 
-21
+164
 
-Fortunately, no Christian acts in accordance with this precept. Destroying the passions and cravings, merely as a preventive measure against their stupidity and the unpleasant consequences of this stupidity — today this itself strikes us as merely another acute form of stupidity. We no longer admire dentists who “pluck out” teeth so that they will not hurt any more.
+inevitably does the universe wear our color, and every object fall successively into the subject itself. The subject exists, the subject enlarges; all things sooner or later fall into place. As I am, so I see; use what language we will, we can never say anything but what we are;
 
-21
+165
 
-To be fair, it should be admitted, however, that on the ground out of which Christianity grew, the concept of the “spiritualization of passion” could never have been formed. After all, the first church, as is well known, fought against the “intelligent” in favor of the “poor in spirit.” How could one expect from it an intelligent war against passion? The church fights passion with excision in every sense: its practice, its “cure,” is castratism. It never asks: “How can one spiritualize, beautify, deify a craving?” It has at all times laid the stress of discipline on extirpation (of sensuality, of pride, of the lust to rule, of avarice, of vengefulness). But an attack on the roots of passion means an attack on the roots of life: the practice of the church is hostile to life.
+It is true that all the muses and love and religion hate these developments, and will find a way to punish the chemist, who publishes in the parlor the secrets of the laboratory. And we cannot say too little of our constitutional necessity of seeing things under private aspects, or saturated with our humors. And yet is the God the native of these bleak rocks. That need makes in morals the capital virtue of self-trust. We must hold hard to this poverty, however scandalous, and by more vigorous self-recoveries, after the sallies of action, possess our axis more firmly. The life of truth is cold, and so far mournful; but it is not the slave of tears, contritions, and perturbations. It does not attempt another’s work, nor adopt another’s facts.
 
-22
+167
 
-The same means in the fight against a craving — castration, extirpation — is instinctively chosen by those who are too weak-willed, too degenerate, to be able to impose moderation on themselves; by those who are so constituted that they require La Trappe, to use a figure of speech, or (without any figure of speech) some kind of definitive declaration of hostility, a cleft between themselves and the passion.
+Illusion, Temperament, Succession, Surface, Surprise, Reality, Subjectiveness,—these are threads on the loom of time, these are the lords of life.
 
-22
+147
 
-Radical means are indispensable only for the degenerate; the weakness of the will — or, to speak more definitely, the inability not to respond to a stimulus — is itself merely another form of degeneration. The radical hostility, the deadly hostility against sensuality, is always a symptom to reflect on: it entitles us to suppositions concerning the total state of one who is excessive in this manner.
+Very mortifying is the reluctant experience that some unfriendly excess or imbecility neutralizes the promise of genius. We see young men who owe us a new world, so readily and lavishly they promise, but they never acquit the debt; they die young and dodge the account: or if they live, they lose themselves in the crowd.
 
-22
+148
 
-This hostility, this hatred, by the way, reaches its climax only when such types lack even the firmness for this radical cure, for this renunciation of their “devil.” One should survey the whole history of the priests and philosophers, including the artists: the most poisonous things against the senses have been said not by the impotent, nor by ascetics, but by the impossible ascetics, by those who really were in dire need of being ascetics.
+Temperament also enters fully into the system of illusions, and shuts us in a prison of glass which we cannot see.
 
-23
+149
 
-The spiritualization of sensuality is called love: it represents a great triumph over Christianity. Another triumph is our spiritualization of hostility. It consists in a profound appreciation of the value of having enemies: in short, it means acting and thinking in the opposite way from that which has been the rule. The church always wanted the destruction of its enemies; we, we immoralists and Antichristians, find our advantage in this, that the church exists. In the political realm too, hostility has now become more spiritual — much more sensible, much more thoughtful, much more considerate. Almost every party understands how it is in the interest of its own self-preservation that the opposition should not lose all strength; the same is true of power politics. A new creation in particular — the new Reich, for example — needs enemies more than friends: in opposition alone does it feel itself necessary, in opposition alone does it become necessary.
+I see not, if one be once caught in this trap of so-called sciences, any escape for the man from the links of the chain of physical necessity. Given such an embryo, such a history must follow. On this platform, one lives in a sty of sensualism, and would soon come to suicide. But it is impossible that the creative power should exclude itself. Into every intelligence there is a door which is never closed, through which the creator passes. The intellect, seeker of absolute truth, or the heart, lover of absolute good, intervenes for our succor, and at one whisper of these high powers, we awake from ineffectual struggles with this nightmare. We hurl it into its own hell, and cannot again contract ourselves to so base a state.
 
-23
+150
 
-Our attitude to the “internal enemy” is no different: here too we have spiritualized hostility; here too we have come to appreciate its value. The price of fruitfulness is to be rich in internal opposition; one remains young only as long as the soul does not stretch itself and desire peace. Nothing has become more alien to us than that desideratum of former times, “peace of soul,” the Christian desideratum; there is nothing we envy less than the moralistic cow and the fat happiness of the good conscience. One has renounced the great life when one renounces war.
+The secret of the illusoriness is in the necessity of a succession of moods or objects. Gladly we would anchor, but the anchorage is quicksand. This onward trick of nature is too strong for us: Pero si muove.6 When, at night, I look at the moon and stars, I seem stationary, and they to hurry. Our love of the real draws us to permanence, but health of body consists in circulation, and sanity of mind in variety or facility of association. We need change of objects. Dedication to one thought is quickly odious.
 
-24
+151
 
-In many cases, to be sure, “peace of soul” is merely a misunderstanding — something else, which lacks only a more honest name. Without further ado or prejudice, a few examples. “Peace of soul” can be, for one, the gentle radiation of a rich animality into the moral (or religious) sphere. Or the beginning of weariness, the first shadow of evening, of any kind of evening. Or a sign that the air is humid, that south winds are approaching. Or unrecognized gratitude for a good digestion (sometimes called “love of man”). Or the attainment of calm by a convalescent who feels a new relish in all things and waits. Or the state which follows a thorough satisfaction of our dominant passion, the well-being of a rare repletion. Or the senile weakness of our will, our cravings, our vices. Or laziness, persuaded by vanity to give itself moral airs. Or the emergence of certainty, even a dreadful certainty, after long tension and torture by uncertainty. Or the expression of maturity and mastery in the midst of doing, creating, working, and willing — calm breathing, attained “freedom of the will.” Twilight of the Idols — who knows? perhaps also only a kind of “peace of soul.”
+Our friends early appear to us as representatives of certain ideas, which they never pass or exceed. They stand on the brink of the ocean of thought and power, but they never take the single step that would bring them there.
 
-24
+151
 
-I reduce a principle to a formula. Every naturalism in morality — that is, every healthy morality — is dominated by an instinct of life, some commandment of life is fulfilled by a determinate canon of “shalt” and “shalt not”; some inhibition and hostile element on the path of life is thus removed. Anti-natural morality — that is, almost every morality which has so far been taught, revered, and preached — turns, conversely, against the instincts of life: it is condemnation of these instincts, now secret, now outspoken and impudent. When it says, “God looks at the heart,” it says No to both the lowest and the highest desires of life, and posits God as the enemy of life. The saint in whom God delights is the ideal eunuch. Life has come to an end where the “kingdom of God” begins.
-
-25
-
-Once one has comprehended the outrage of such a revolt against life as has become almost sacrosanct in Christian morality, one has, fortunately, also comprehended something else: the futility, apparentness, absurdity, and mendaciousness of such a revolt. A condemnation of life by the living remains in the end a mere symptom of a certain kind of life: the question whether it is justified or unjustified is not even raised thereby. One would require a position outside of life, and yet have to know it as well as one, as many, as all who have lived it, in order to be permitted even to touch the problem of the value of life: reasons enough to comprehend that this problem is for us an unapproachable problem.
-
-25
-
-When we speak of values, we speak with the inspiration, with the way of looking at things, which is part of life: life itself forces us to posit values; life itself values through us when we posit values. From this it follows that even that anti-natural morality which conceives of God as the counter-concept and condemnation of life is only a value judgment of life — but of what life? of what kind of life? I have already given the answer: of declining, weakened, weary, condemned life.
-
-25
-
-Morality, as it has so far been understood — as it has in the end been formulated once more by Schopenhauer, as “negation of the will to life” — is the very instinct of decadence, which makes an imperative of itself. It says: “Perish!” It is a condemnation pronounced by the condemned.
-
-26
-
-Let us finally consider how naive it is altogether to say: “Man ought to be such and such!” Reality shows us an enchanting wealth of types, the abundance of a lavish play and change of forms — and some wretched loafer of a moralist comments: “No! Man ought to be different.” He even knows what man should be like, this wretched bigot and prig: he paints himself on the wall and comments, “Ecce homo!”
-
-26
-
-But even when the moralist addresses himself only to the single human being and says to him, “You ought to be such and such!” he does not cease to make himself ridiculous. The single human being is a piece of fatum from the front and from the rear, one law more, one necessity more for all that is yet to come and to be. To say to him, “Change yourself!” is to demand that everything be changed, even retroactively. And indeed there have been consistent moralists who wanted man to be different, that is, virtuous — they wanted him remade in their own image, as a prig: to that end, they negated the world! No small madness! No modest kind of immodesty!
-
-26
-
-Morality, insofar as it condemns for its own sake, and not out of regard for the concerns, considerations, and contrivances of life, is a specific error with which one ought to have no pity — an idiosyncrasy of degenerates which has caused immeasurable harm.
-
-26
-
-We others, we immoralists, have, conversely, made room in our hearts for every kind of understanding, comprehending, and approving. We do not easily negate; we make it a point of honor to be affirmers. More and more, our eyes have opened to that economy which needs and knows how to utilize everything that the holy witlessness of the priest, the diseased reason in the priest, rejects — that economy in the law of life which finds an advantage even in the disgusting species of the prigs, the priests, the virtuous. What advantage? But we ourselves, we immoralists, are the answer.
+There is no adaptation or universal applicability in men, but each has his special talent, and the mastery of successful men consists in adroitly keeping themselves where and when that turn shall be oftenest to be practiced.

@@ -1,11 +1,10 @@
 ## ☀️ Main-Sequence Note
 
-![300](CCF73B29-21E8-4DFC-9019-3B31DE7C5967.jpeg)
+![300](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/CCF73B29-21E8-4DFC-9019-3B31DE7C5967.jpeg)
 
- > 
- > “*And ... [god](Urizen.md) ended his work which he had made; and [he rested](Novel%20experience%20and%20information%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20handled%20by%20the%20left%20hemisphere%20once%20it%20becomes%20familiar.md) ...*”
+“*And ... [god](Urizen.md) ended his work which he had made; and [he rested](Novelty%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20transferred%20to%20the%20left%20hemisphere%20as%20it%20becomes%20familiar.md) ...*”
 
-The main-sequence stage is the third stage of the [digestion](Digestion.md) in [☯️ The Flow](🔮%20The%20Cosmos/The%20Flow.md). A note enters the main-sequence when the [⛅️ Proto Note](Proto%20Note) begins to stabilize and consolidate into a clear and distinct idea. Being in a useful state, main-sequence notes are worthy of being submitted into my [spaced repetition](Spaced%20repetition.md) memory system to ensure that i consolidate these ideas into memory and stay engaged them over time. This is a continuation of the [Digestion](Digestion.md) process.
+The main-sequence stage is the third stage of the [digestion](Digestion.md) in [☯️ The Flow](🔮%20The%20Cosmos/The%20Flow.md). A note enters the main-sequence when the [⛅️ Proto Note](Proto%20Note) begins to stabilize and consolidate into a clear and distinct idea. Being in a useful state, main-sequence notes are worthy of being submitted into my [spaced repetition](Spaced%20repetition.md) memory system. 
 
 In order for a [⛅️ Proto Note](Proto%20Note) to receive main-sequence status, it must meet the following criteria:
 

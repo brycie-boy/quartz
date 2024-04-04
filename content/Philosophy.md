@@ -1,8 +1,8 @@
 ## Philosophy
 
-Philosophy is the systematized study of general and fundemental questions, such as those about, existence, knowledge, reason, values, mind and language. Such questions are often posed as problems to be studied or resolved. Philosophical methods include questioning, critical discussion, rational argument, and systematic presentation.
+Philosophy is the systematized study of general and fundamental questions, such as those about, existence, knowledge, reason, values, mind and language. Such questions are often posed as problems to be studied or resolved. Philosophical methods include questioning, critical discussion, rational argument, and systematic presentation.
 
-### Philosphy Branches I've Written About
+### Philosophy Branches I've Written About
 
 * [Epistemology](Epistemology.md)
 * [Ontology](Ontology.md)
@@ -17,7 +17,7 @@ Philosophy is the systematized study of general and fundemental questions, such 
 * [Compassion](Compassion.md) 
 * [Altruistic joy](Altruistic%20joy.md)
 * [Equanimity](Equanimity.md)
-* [Model lIberal](Model%20lIberal.md)
+* [Liberal Humean](Liberal%20Humean.md)
 * [The idea that consciousness emerges from matter is a product of consciousness itself](The%20idea%20that%20consciousness%20emerges%20from%20matter%20is%20a%20product%20of%20consciousness%20itself.md)
 * [Reducing mind to matter only explains away one part of the mind-body duality](Reducing%20mind%20to%20matter%20only%20explains%20away%20one%20part%20of%20the%20mind-body%20duality.md)
 * [Meditators have been shown to be able to uncouple negative emotional reactions from their behavior](Meditators%20have%20been%20shown%20to%20be%20able%20to%20uncouple%20negative%20emotional%20reactions%20from%20their%20behavior.md)
@@ -37,6 +37,14 @@ Philosophy is the systematized study of general and fundemental questions, such 
 * [Human wealth comes from reliable ideas](Human%20wealth%20comes%20from%20reliable%20ideas.md)
 * [Being self-reliant means living in the present and not relying on previous authority's](Being%20self-reliant%20means%20living%20in%20the%20present%20and%20not%20relying%20on%20previous%20authority's.md)
 * [Empiricism](Empiricism.md)
+* [Antifragility](Antifragility.md)
+* [You should embrace the unique role you have in the order of the universe](You%20should%20embrace%20the%20unique%20role%20you%20have%20in%20the%20order%20of%20the%20universe.md)
+* [Those who are not following their own unique course experience friction from being in conflict with the order of the Universe](Those%20who%20are%20not%20following%20their%20own%20unique%20course%20experience%20friction%20from%20being%20in%20conflict%20with%20the%20order%20of%20the%20Universe.md)
+* [Each thing is interlinked to the rest of the Universe in various ways we do not yet know](Each%20thing%20is%20interlinked%20to%20the%20rest%20of%20the%20Universe%20in%20various%20ways%20we%20do%20not%20yet%20know.md)
+* [Since any force can be transformed into any other, we have an inexhaustible supply of any force we may need](Since%20any%20force%20can%20be%20transformed%20into%20any%20other,%20we%20have%20an%20inexhaustible%20supply%20of%20any%20force%20we%20may%20need.md)
+* [The application of a force onto any object effects all orders of it](The%20application%20of%20a%20force%20onto%20any%20object%20effects%20all%20orders%20of%20it.md)
+* [Our sense of ourselves as separate from the Universe prevents us from conducting its currents](Our%20sense%20of%20ourselves%20as%20separate%20from%20the%20Universe%20prevents%20us%20from%20conducting%20its%20currents.md)
+* [All denotation and abstraction has its metaphorical roots in the lived world](All%20denotation%20and%20abstraction%20has%20its%20metaphorical%20roots%20in%20the%20lived%20world.md)
 
 ---
 

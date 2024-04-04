@@ -1,6 +1,8 @@
 ## Enabling
 
-Enabling refers to dysfunctional behavior approaches that are intended to help resolve a specific problem but in fact may perpetuate or exacerbate the problem. Enabling occurs when one does what appears to be the nicest or kindest thing, instead of doing what would actually be the most beneficial. This stems from the general tendency to give people what they want because we cannot bear to see them suffering. 
+* enabling encourages negative qualities for the sake of immediate comfort.
+
+Enabling refers to dysfunctional behavior approaches that are intended to help resolve a specific problem but in fact may perpetuate or exacerbate the problem. Enabling occurs when one does what appears to be the nicest or kindest thing, instead of doing what would actually be the most beneficial. This stems from the general tendency to give people what they want because we cannot bear to see them suffering at all. 
 
 A common theme of enabling is that third parties take responsibility or blame, or makes accommodations for a person's harmful conduct (often with the best of intentions, or from fear or insecurity which inhibits action). The practical effect is that the person themselves does not have to do so, and is shielded from awareness of the harm it may do, and the need or pressure to change.
 
@@ -20,4 +22,4 @@ A common theme of enabling is that third parties take responsibility or blame
 
 Type: #🔵/🔵 
 Tags: [Psychology](Psychology.md)
-Status: #☀️ 
+Status: #⛅️/⛅️ 

@@ -1,8 +1,6 @@
-## Indeterminate statement  #⏳
+## Indeterminate statement  #🧠
 
-The proposition "There is a tenth planet in our solar system beyond Pluto" can neither be verified or refuted as of now. Logical positivists once wanted to call these [meaningless statement](Meaningless%20statement.md)s, but that position has since been abandoned. Such statements should be refer to as indeterminate. An indeterminate proposition is one which cannot be verified or refuted when it is confronted, but there are clear scientific processes which by it can be verified at a future date.
-
-The tenth planet beyond pluto, for instance, will be discovered, or wont be discovered, by some future space telescope. The existence of advanced lifeforms beyond our planet may not be verified for a thousand years—or it may be verified tommorow. 
+An indeterminate proposition is one which cannot be verified or refuted when it is confronted, but there are clear scientific processes by which it can be verified at a future date. To call such statements “false” would be to say that the case is already closed, and no investigation is necessary, thus giving way to potential dogma and [idolatry](Idolatry.md). [Logical positivists](Logical%20positivism.md) once wanted to call these [meaningless statement](Meaningless%20statement.md)s, but that position has since been abandoned. 
 
 ---
 

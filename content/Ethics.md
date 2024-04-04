@@ -33,6 +33,7 @@
 * [Generosity without expectation for reward is intrensically rewarding](Generosity%20without%20expectation%20for%20reward%20is%20intrensically%20rewarding.md)
 * [Consequentialism](Consequentialism.md)
 * [Deontology](Deontology.md)
+* [Generosity without expectation for reward is intrensically rewarding](Generosity%20without%20expectation%20for%20reward%20is%20intrensically%20rewarding.md)
 
 ---
 

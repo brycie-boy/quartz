@@ -7,7 +7,7 @@
 * [Data mining can lead us into trouble in the present for something that wasn't considered wrong previously](Data%20mining%20can%20lead%20us%20into%20trouble%20in%20the%20present%20for%20something%20that%20wasn't%20considered%20wrong%20previously.md)
 * [Censorship is more about preventing effective organization than for banishing harmful ideas](Censorship%20is%20more%20about%20preventing%20effective%20organization%20than%20for%20banishing%20harmful%20ideas.md)
 * [Surveillence leads people to refrain from speaking and acting freely](Surveillence%20leads%20people%20to%20refrain%20from%20speaking%20and%20acting%20freely.md)
-* [Society will have no chance of progress if surveillance prevents us from deviating from the societies current beliefs and values](Society%20will%20have%20no%20chance%20of%20progress%20if%20surveillance%20prevents%20us%20from%20deviating%20from%20the%20societies%20current%20beliefs%20and%20values.md)
+* [Society will have no chance of progress if surveillance prevents it from deviating our current beliefs and values](Society%20will%20have%20no%20chance%20of%20progress%20if%20surveillance%20prevents%20it%20from%20deviating%20our%20current%20beliefs%20and%20values.md)
 * [Privacy allows us to selectively reveal aspects of ourselves depending on the situation](Privacy%20allows%20us%20to%20selectively%20reveal%20aspects%20of%20ourselves%20depending%20on%20the%20situation.md)
 * [Violations of privacy may vary depending on the context](Violations%20of%20privacy%20may%20vary%20depending%20on%20the%20context.md)
 * [There are many things that we choose to keep private that are not necessarily wrong](There%20are%20many%20things%20that%20we%20choose%20to%20keep%20private%20that%20are%20not%20necessarily%20wrong.md)

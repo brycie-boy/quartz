@@ -1,6 +1,6 @@
 ## Habit
 
-A habit is a routine of behavior that is repeated regularly and tends to occur unconsciously. It is described as a more or less fixed way of thinking, willing, or feeling acquired through previous repetition of a mental experience. Habitual behavior often goes unnoticed in persons exhibiting it, because a person does not need to engage in self-analysis when undertaking routine tasks. New behaviors can become automatic through the process of habit formation. Old habits are hard to break and new habits are hard to form because the behavioral patterns which humans repeat become imprinted in [neural](Neuron.md) pathways.
+A habit is a routine of behavior that is repeated regularly and tends to occur unconsciously. It is described as a more or less fixed way of thinking, willing, or feeling acquired through previous repetition of a mental experience. Habitual behavior often goes unnoticed in persons exhibiting it, because a person does not need to engage in self-analysis when undertaking routine tasks. The [basal ganglia](Basal%20ganglia.md) is highly involved in the formation and carrying out of habits. 
 
 ---
 
@@ -12,4 +12,4 @@ A habit is a routine of behavior that is repeated regularly and tends to occur u
 
 Type: #🔵/🔵 
 Tags: [Psychology](Psychology.md)
-Status: #☀️ 
+Status: #⛅️/⛅ 

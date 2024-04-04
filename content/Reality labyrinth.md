@@ -1,6 +1,6 @@
 ## Reality labyrinth  #⏳
 
-The reality labyrinth refers to existence as a multiple-choice intelligence test; the sum total of [reality tunnel](Reality%20tunnel.md)s available to an open-minded and non-fundamentalistic person in a given time and place.
+The reality labyrinth refers to existence as a multiple-choice intelligence test; the sum total of [reality tunnel](Reality%20tunnel.md)s available to an open-minded and non-[fundamentalistic](Fundamentalism.md) person in a given time and place.
 
 ---
 

@@ -1,10 +1,11 @@
+\<- [Self-Reliance and Other Essays](Self-Reliance%20and%20Other%20Essays.md)
 \<- [📚 The Library](🔮%20The%20Cosmos/The%20Library.md)
 
 ## Self-Reliance and Other Essays Chapter 2. Self-Reliance
 
-[ ![150](C12121C9-152C-47A4-B3BF-3DE2A991F795.jpeg) ](https://www.amazon.com/Self-Reliance-Other-Essays-Thrift-Editions/dp/0486277909/ref=mp_s_a_1_1?crid=70ZLO33HK50H&keywords=self+reliance+ralph+waldo+emerson&qid=1663289686&sprefix=self+reliance+%2Caps%2C187&sr=8-1)
+[ ![150](C12121C9-152C-47A4-B3BF-3DE2A991F795.jpeg) ](https://www.goodreads.com/book/show/123845.Self_Reliance_and_Other_Essays)
 
-Author: [Ralph Waldo Emerson]()
+Author: [Ralph Waldo Emerson](Ralph%20Waldo%20Emerson.md)
 Publisher: Dover Publications
 Publish Date: 1844
 Review Date: 
@@ -55,6 +56,8 @@ Status: #☁️/📚
   It may be safely trusted as proportionate and of good issues, so it be faithfully imparted, but God will not have his work made manifest by cowards. A man is relieved and gay when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace. It is a deliverance which does not deliver. In the attempt his genius deserts him; no muse befriends; no invention, no hope.
 
 * Emerson believes that every individual has a moment in their life when they recognize that envy is poisonous, a lack of originality is destructive, and that it is important to accept oneself. He argues that each person has to do their own work to discover themselves and the goodness that is in the world. Every person is unique by the design of the universe, and God will never reward insight to the person who is not brave enough to embrace what makes him unique.
+
+---
 
 * Highlight(pink) - Location 411
   Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not minors and invalids in a protected corner, not cowards fleeing before a revolution, but guides, redeemers, and benefactors, obeying the Almighty effort, and advancing on Chaos and the Dark.
@@ -535,13 +538,13 @@ Amount: 12
 
 * [A self-reliant person should not be afraid to contradict themselves](A%20self-reliant%20person%20should%20not%20be%20afraid%20to%20contradict%20themselves.md)
 * [Being self-reliant means living in the present and not relying on previous authority's](Being%20self-reliant%20means%20living%20in%20the%20present%20and%20not%20relying%20on%20previous%20authority's.md)
-* [Children, babies, and animals act independently without caring what others will think](Children,%20babies,%20and%20animals%20act%20independently%20without%20caring%20what%20others%20will%20think.md)
-* [Humanities greatest innovators are ones who defied social norms and followed their own intuitions](Humanities%20greatest%20innovators%20are%20ones%20who%20defied%20social%20norms%20and%20followed%20their%20own%20intuitions.md)
+* [Children and babies act independently without caring what others will think](Children%20and%20babies%20act%20independently%20without%20caring%20what%20others%20will%20think.md)
+* [Humanities greatest thinkers are those who defied groupthink and authority bias and followed their own judgement](Humanities%20greatest%20thinkers%20are%20those%20who%20defied%20groupthink%20and%20authority%20bias%20and%20followed%20their%20own%20judgement.md)
 * [Insight](Insight.md)
 * [No doctrine can be considered true until it has been validated through ones own personal experience](No%20doctrine%20can%20be%20considered%20true%20until%20it%20has%20been%20validated%20through%20ones%20own%20personal%20experience.md)
 * [Our seemingly contradictory actions justify themselves when viewed from a distance](Our%20seemingly%20contradictory%20actions%20justify%20themselves%20when%20viewed%20from%20a%20distance.md)
 * [People commonly revered by society were those with complete trust in themselves](People%20commonly%20revered%20by%20society%20were%20those%20with%20complete%20trust%20in%20themselves.md)
 * [To be self-reliant and innovative requires not conforming to social norms](To%20be%20self-reliant%20and%20innovative%20requires%20not%20conforming%20to%20social%20norms.md)
-* [We must embrace what makes us unique in order to be able to acquire novel insights](We%20must%20embrace%20what%20makes%20us%20unique%20in%20order%20to%20be%20able%20to%20acquire%20novel%20insights.md)
+* [To be innovative, we must embrace our uniqueness](To%20be%20innovative,%20we%20must%20embrace%20our%20uniqueness.md)
 * [You should follow your own morality even if it means the disapproval of society](You%20should%20follow%20your%20own%20morality%20even%20if%20it%20means%20the%20disapproval%20of%20society.md)
 * [Identifying with a group obscures your true character and makes you predictable](Identifying%20with%20a%20group%20obscures%20your%20true%20character%20and%20makes%20you%20predictable.md)

@@ -4,7 +4,7 @@ Social psychology is the scientific study of how thoughts, feelings, and behavio
 
 ### Social Psychology Notes
 
-* [Every social reality tunnel perpetuates itself by repetition and group reinforcement](Every%20social%20reality%20tunnel%20perpetuates%20itself%20by%20repetition%20and%20group%20reinforcement.md)
+* [Every fundamentalism perpetuates itself by repetition and group reinforcement](Every%20fundamentalism%20perpetuates%20itself%20by%20repetition%20and%20group%20reinforcement.md)
 * [Primates have been shown to copy an action if they see others doing it](Primates%20have%20been%20shown%20to%20copy%20an%20action%20if%20they%20see%20others%20doing%20it.md)
 * [Chimps have been shown to copy the methods of alpha group members for opening a puzzle box even after discovering a better method](Chimps%20have%20been%20shown%20to%20copy%20the%20methods%20of%20alpha%20group%20members%20for%20opening%20a%20puzzle%20box%20even%20after%20discovering%20a%20better%20method.md)
 * [Humans and other primates have been shown to conform to a norm even if it is detrimental](Humans%20and%20other%20primates%20have%20been%20shown%20to%20conform%20to%20a%20norm%20even%20if%20it%20is%20detrimental.md)
@@ -14,7 +14,7 @@ Social psychology is the scientific study of how thoughts, feelings, and behavio
 * [People have been shown to change their answer to a question if the group disagrees](People%20have%20been%20shown%20to%20change%20their%20answer%20to%20a%20question%20if%20the%20group%20disagrees.md)
 * [Brain scans show that those who defy the groups opinion will try to revise their memories while the brain tries to convince them otherwise](Brain%20scans%20show%20that%20those%20who%20defy%20the%20groups%20opinion%20will%20try%20to%20revise%20their%20memories%20while%20the%20brain%20tries%20to%20convince%20them%20otherwise.md)
 * [Brain scans show that those who defy authority opinion struggle to change opinion](Brain%20scans%20show%20that%20those%20who%20defy%20authority%20opinion%20struggle%20to%20change%20opinion.md)
-* [Solomon Asch showed that many people would choose the wrong answer to a question if the rest of the group pick that answer](Solomon%20Asch%20showed%20that%20many%20people%20would%20choose%20the%20wrong%20answer%20to%20a%20question%20if%20the%20rest%20of%20the%20group%20pick%20that%20answer.md)
+* [Dr Solomon Asch has shown that many people will choose the wrong answer to a question if the rest of the group picked that answer](Dr%20Solomon%20Asch%20has%20shown%20that%20many%20people%20will%20choose%20the%20wrong%20answer%20to%20a%20question%20if%20the%20rest%20of%20the%20group%20picked%20that%20answer.md)
 * [Stanley Milgram had shown that people would continue to shock someone who missed an answer to a question to deadly levels if ordered to by authority](Stanley%20Milgram%20had%20shown%20that%20people%20would%20continue%20to%20shock%20someone%20who%20missed%20an%20answer%20to%20a%20question%20to%20deadly%20levels%20if%20ordered%20to%20by%20authority.md)
 * [Philip Zimbardo showed in Stanford Prison Experiment that those designated position as guard would comply to commands to commit cruelties toward prisoners](Philip%20Zimbardo%20showed%20in%20Stanford%20Prison%20Experiment%20that%20those%20designated%20position%20as%20guard%20would%20comply%20to%20commands%20to%20commit%20cruelties%20toward%20prisoners.md)
 * [Zimbardo and Milgram concluded from their studies on obedience that most people would comply to commit atrocities if given the right environment](Zimbardo%20and%20Milgram%20concluded%20from%20their%20studies%20on%20obedience%20that%20most%20people%20would%20comply%20to%20commit%20atrocities%20if%20given%20the%20right%20environment.md)
@@ -24,12 +24,12 @@ Social psychology is the scientific study of how thoughts, feelings, and behavio
 * [A replication study of the Stanford Prison experiment by the BBC, prisoners revolted and established power-sharing commune, for it to be later turned into a draconian regime](A%20replication%20study%20of%20the%20Stanford%20Prison%20experiment%20by%20the%20BBC,%20prisoners%20revolted%20and%20established%20power-sharing%20commune,%20for%20it%20to%20be%20later%20turned%20into%20a%20draconian%20regime.md)
 * [Zimbardo criticized the BBC replication study of the SPE for its structure, random selection of guards and prisoners, and for filming it](Zimbardo%20criticized%20the%20BBC%20replication%20study%20of%20the%20SPE%20for%20its%20structure,%20random%20selection%20of%20guards%20and%20prisoners,%20and%20for%20filming%20it.md)
 * [Despite the controversies surrounding the Milgram and SPE experiments, it is indisputable that a high percentage of normal people will conform to committing atrocities under pressure](Despite%20the%20controversies%20surrounding%20the%20Milgram%20and%20SPE%20experiments,%20it%20is%20indisputable%20that%20a%20high%20percentage%20of%20normal%20people%20will%20conform%20to%20committing%20atrocities%20under%20pressure.md)
-* [Humanities greatest innovators are ones who defied social norms and followed their own intuitions](Humanities%20greatest%20innovators%20are%20ones%20who%20defied%20social%20norms%20and%20followed%20their%20own%20intuitions.md)
+* [Humanities greatest thinkers are those who defied groupthink and authority bias and followed their own judgement](Humanities%20greatest%20thinkers%20are%20those%20who%20defied%20groupthink%20and%20authority%20bias%20and%20followed%20their%20own%20judgement.md)
 * [Self-reliance](Self-reliance.md)
 * [Authority bias](Authority%20bias.md)
 * [Conformity](Conformity.md)
-* [We must embrace what makes us unique in order to be able to acquire novel insights](We%20must%20embrace%20what%20makes%20us%20unique%20in%20order%20to%20be%20able%20to%20acquire%20novel%20insights.md)
-* [Children, babies, and animals act independently without caring what others will think](Children,%20babies,%20and%20animals%20act%20independently%20without%20caring%20what%20others%20will%20think.md)
+* [To be innovative, we must embrace our uniqueness](To%20be%20innovative,%20we%20must%20embrace%20our%20uniqueness.md)
+* [Children and babies act independently without caring what others will think](Children%20and%20babies%20act%20independently%20without%20caring%20what%20others%20will%20think.md)
 * [To be self-reliant and innovative requires not conforming to social norms](To%20be%20self-reliant%20and%20innovative%20requires%20not%20conforming%20to%20social%20norms.md)
 * [You should follow your own morality even if it means the disapproval of society](You%20should%20follow%20your%20own%20morality%20even%20if%20it%20means%20the%20disapproval%20of%20society.md)
 * [In-group and out-group](In-group%20and%20out-group.md)
@@ -75,6 +75,10 @@ Social psychology is the scientific study of how thoughts, feelings, and behavio
 * [Psychiatric categories provide in-groups with behavioral scripts from which behavioral uniformity may be imposed](Psychiatric%20categories%20provide%20in-groups%20with%20behavioral%20scripts%20from%20which%20behavioral%20uniformity%20may%20be%20imposed.md)
 * [Normative influence](Normative%20influence.md)
 * [Informational influence](Informational%20influence.md)
+
+### Relationships
+
+* [Interpersonal relationships should arise and pass spontaneously in accordance with mutual interest](Interpersonal%20relationships%20should%20arise%20and%20pass%20spontaneously%20in%20accordance%20with%20mutual%20interest.md)
 
 ---
 

@@ -1,6 +1,6 @@
 ## Ruminative response style
 
-A ruminative response style is when someone thinks repetitively and passively about their negative emotions. For example, if we responded ruminatively to our colleague telling us that an idea was stupid, we might get caught up in worrying that it really was a dumb idea, and that might lead to us think that all our ideas were dumb, when normally we might have shrugged off the comment. Neurologically, it has been linked to an overactive [default mode network](Default%20mode%20network.md). It may also be characterized as a kind of [low-entropy state](Low-entropy%20state.md). 
+A ruminative response style is when someone thinks repetitively and passively about their negative emotions. For example, if we responded ruminatively to our colleague telling us that an idea was stupid, we might get caught up in worrying that it really was a dumb idea, and that might lead to us think that all our ideas were dumb, when normally we might have shrugged off the comment. Neurologically, it has been linked to an overactive [default mode network](Default%20mode%20network.md).
 
 ---
 

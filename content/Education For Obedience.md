@@ -1,7 +1,7 @@
 ## [Education For Obedience](https://inv.riverside.rocks/watch?v=50ZebmQq51Q)
 
-Author: LIbertarian Communist Platform
-Publisher: Youtube
+Author: Libertarian Communist Platform
+Publisher: YouTube
 Publish Date: 2014-4-28
 Review Date: 2022-11-11
 Status: #☁️/🌐 
@@ -9,6 +9,11 @@ Status: #☁️/🌐
 ---
 
 ### Annotations
+
+8:20
+Hierarchical systems require the subordination of the masses to power in their everyday lives. However, naked power generates resistance. The maintenance of hierarchy therefor requires that individuals be socialized into the acceptance of their own subordination.
+
+---
 
 8:19 
 number one, confusion. throughout the school day rather than tailoring to the needs of individuals children will not have any control over the periods of time they spend on a given subject this ensures that numbers of people will not be given adequate time to digest the information being transmitted to them at their own pace helping to foster the creation of a bewildered herd with little to no idea of what the fuck is going

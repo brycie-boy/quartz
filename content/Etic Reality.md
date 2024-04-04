@@ -1,6 +1,6 @@
 ## Etic Reality  #🧠
 
-Etic reality is the hypothetical non-verbal actuality that has not been filtered through the [Emic Reality](Emic%20Reality.md) of the [nervous system]() or linguistic grid.
+Etic reality is the hypothetical non-verbal actuality that has not been filtered through the [Emic Reality](Emic%20Reality.md) of the [brain](Brain.md)s linguistic grid.
 
 ---
 

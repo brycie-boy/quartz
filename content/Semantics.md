@@ -10,7 +10,7 @@ Semantics is the philosophical and scientific study of meaning or truth in natur
 * [Reality tunnel](Reality%20tunnel.md)
 * [Reality labyrinth](Reality%20labyrinth.md)
 * [The brain's perceptual systems actively and pre-consciously interpret and edit their input](The%20brain's%20perceptual%20systems%20actively%20and%20pre-consciously%20interpret%20and%20edit%20their%20input.md)
-* [Because perception is not absolute, our models of reality are all somewhat conjectural and inferential](Because%20perception%20is%20not%20absolute,%20our%20models%20of%20reality%20are%20all%20somewhat%20conjectural%20and%20inferential.md)
+* [Because perception is not absolute, all of our ideas are somewhat conjectural and inferential](Because%20perception%20is%20not%20absolute,%20all%20of%20our%20ideas%20are%20somewhat%20conjectural%20and%20inferential.md)
 * [Language can be seen as a kind of metaphor](Language%20can%20be%20seen%20as%20a%20kind%20of%20metaphor.md)
 * [The word "matter" can be seen as metaphorical](The%20word%20"matter"%20can%20be%20seen%20as%20metaphorical.md)
 * [The word "is" can be seen as a metaphor](The%20word%20"is"%20can%20be%20seen%20as%20a%20metaphor.md)

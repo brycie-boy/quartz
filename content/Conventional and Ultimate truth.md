@@ -29,4 +29,4 @@
 
 Type: 
 Tags:
-Status: # ⛅️/⛅️
+Status: #⛅️/⛅️

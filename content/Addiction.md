@@ -2,11 +2,10 @@
 
 Addiction is any repeated behavior, substance-related or not, in which a person feels compelled to persist, regardless of its negative impact on their life and the lives of others. Addiction involves:
 
-* compulsive engagement with the behavior, a preoccupation with it
+* compulsive engagement and a preoccupation with the behavior
 * impaired control over the behavior
 * persistence or relapse despite evidence of harm
-* dissatisfaction, irritability, or intense [craving](Craving.md) when the object—be it a drug, activity, or other goal—is not immediately available.
-* Compulsion, impaired control, persistence, irritability, relapse, and [craving](Craving.md)
+* dissatisfaction, irritability, or intense [craving](Craving.md) when the object—be it a drug, activity, or other goal—is not immediately available
 
 ---
 

@@ -12,4 +12,4 @@ Considering that [every invention or idea first began in the imagination](Every%
 
 Type: #🔴 
 Tags: [Psychology](Psychology.md) / [Philosophy](Philosophy.md) 
-Status: #☀️ 
+Status: #⛅️/⛅️ 

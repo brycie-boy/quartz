@@ -9,7 +9,7 @@
 
 ##### References
 
-* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 1. Asymmetry and the Brain](The%20Master%20and%20His%20Emissary%20Chapter%201.%20Asymmetry%20and%20the%20Brain.md) (p. 46). London, UK: *Yale University Press.*
+* Mcgilchrist, Iain. (2010). [The Master and His Emissary Chapter 1 Asymmetry and the Brain](The%20Master%20and%20His%20Emissary%20Chapter%201%20Asymmetry%20and%20the%20Brain.md) (p. 46). London, UK: *Yale University Press.*
 
 ##### Metadata
 

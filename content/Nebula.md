@@ -2,7 +2,7 @@
 
 ![300](%E2%9A%99%EF%B8%8F%20Tools/%F0%9F%93%B8%20Images/967CE5B9-7A18-4BAF-B85F-888A129B8699.png)
 
-“And the earth was without form and void”
+*“And the earth was without form and void”*
 
 Nebulas are what i call my inbox notes. Nebulas consist of 2 stages:
 

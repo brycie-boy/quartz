@@ -1,6 +1,6 @@
-## Fundamentalism
+## Fundamentalism #🧠
 
-Fundamentalism is when [Idolatry](Idolatry.md) appears as an active social ideology. Fundamentalism involves a strong sense of the importance of maintaining [in-group and out-group](In-group%20and%20out-group.md) distinctions, leading to an emphasis on purity and the desire to return to a previous ideal from which advocates believe members have strayed. Rejection of diversity of opinion as applied to these established "fundamentals" and their accepted interpretation within the group often results from this tendency. Fundamentalists generally lack humor, charity and some measure of self-doubt, and behaves intolerantly, fanatically and savagely to all "heretics." Eventually, like all closed ideological systems, it becomes comical and overtly ridiculous.
+Fundamentalism is when [Idolatry](Idolatry.md) appears as an active social ideology. Fundamentalism involves a strong sense of the importance of maintaining [in-group and out-group](In-group%20and%20out-group.md) distinctions, leading to an emphasis on purity and the desire to return to a previous ideal from which advocates believe members have strayed. Rejection of diversity of opinion as applied to these established "fundamentals" and their accepted interpretation within the group often results from this tendency. Fundamentalists generally lack humor, charity and some measure of self-doubt, and behave intolerantly, fanatically and savagely to all "heretics." Eventually, like all closed ideological systems, it becomes comical and overtly ridiculous.
 
 ---
 

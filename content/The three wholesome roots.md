@@ -9,6 +9,8 @@ Which are perpetuated by the third wholesome root:
 
 * wisdom (knowledge of [the four nobel truths](The%20four%20nobel%20truths.md))
 
+I believe the three wholesome roots to involve the [right hemisphere](Right%20hemisphere.md), as [the right hemisphere is responsible for our capacity for emotional understanding](The%20right%20hemisphere%20is%20responsible%20for%20our%20capacity%20for%20emotional%20understanding.md).
+
 ---
 
 ##### References

@@ -1301,3 +1301,141 @@ The Death of Belief. We will abandon all fixed ideas about what is absolute or v
 86
 
 The Death of Ideology. Ideas about what form human aspiration should take will give way to a science of the preservation of the control mechanism—government and its agencies. These may become global or semi-global, but their primary concern will become preservation of the government, for or against, the people. Primitive cybernetics will mushroom into a Political Technology. Governments will be provided with the choice of either accommodating themselves to co-ordinating proliferating human variety or seeking to reduce that variety by repressive measures.
+
+150
+
+BAPHOMET
+
+152
+
+In the Atheistic aeon, through which the leading earthly cultures are now passing, god became man, stripped of his psychic and mystic capacities but provided with physical technology instead. By a supreme act of selective inattention, atheistic cultures manage to not observe the manifestation of any order of reality beyond the physical. The life force of the cosmos and the beings within it elude their equations and become the hidden god.
+
+153
+
+In the Chaoist aeon, on whose threshold we stand, a new conception of psychic reality is forming. This new conception is growing on a number of fronts. The leading edge of quantum physics seems to be providing a theoretical basis for many of the phenomena rediscovered by the renaissance of interest in parapsychology and ancient magical practice.
+
+188
+
+MAGICAL PARADIGMS
+
+188
+
+EVERY SYSTEM OF thought and understanding stems from a number of basic postulates about the universe and man's relationship to it. These ideas and assumptions go to make up the paradigm or dominant worldview through which a culture or an individual interacts with its universe. Aeons are marked by the passage of various great metaphysical thought paradigms rather than by the passage of set periods of historical time. Within each great paradigm there will be lesser paradigms which contribute to the whole. For example, in the dominant White-Anglo-Saxon-Protestant culture of Europe and America, the main paradigms are Protestant-Atheism, with its dependent paradigms of liberal humanistic individualism and the work ethic, and science with its dependent paradigms of causality and materialism.
+
+188
+
+Other cultures have had, and still do have, completely different worldviews which it is difficult for an outsider to enter. The Universe (being the accommodating creature that she is) will tend to provide confirmation of any paradigm one chooses to live in. We are, to an extent, in an observer-created universe. Rather than just drifting into the magical worldview in a haphazard way, it is useful to consider the alternative paradigms in which we might intend to operate.
+
+189
+
+All magical paradigms partake of some form of action at a distance, be it distance in space or time or both. Although we are unable to imagine how this can occur, we should not throw it out the window. Science can readily demonstrate both action at a distance with gravity and magnetism, and the distortion of space/ time in so-called ordinary reality. In magic this is not called ordinary reality. In magic this is called synchronicity. A mental event, perception, or an act of will occurs at the same time (synchronously) as an event in the material world. Science does not deny the possibility that pure information can be transmitted from place to place; indeed the Quantum Inseparability Principle demands that it must be. Of course, this can always be excused as coincidence, but most magicians would be quite content with being able to arrange coincidences. The following six paradigms seek to explain the mechanisms at work.
+
+189
+
+The Chaoetheric Paradigm
+
+189
+
+The manifest universe is just a tiny island of comparative order, set in an infinite ocean of primal Chaos or potentia. Moreover, that limitless chaos pervades every interstice of our island of order. This island of order was randomly spewed up out of chaos and will eventually be redissolved into it. Although this universe is a highly unlikely event, it was bound to occur eventually. We ourselves are the most highly ordered structure known on that island, yet in the very center of our being is a spark of that same chaos which gives rise to the illusion of this universe. It is this spark of chaos that animates us and allows us to work magic. We cannot perceive Chaos directly, for it simultaneously contains the opposite to anything we might think it is. We can, however, occasionally glimpse and make use of partially formed matter which has only a probabilistic and indeterminate existence. This stuff we can call the aethers.
+
+190
+
+If it makes us feel any better we can call this Chaos, the Tao, or God, and imagine it to be benevolent and human-hearted. There are two schools of thought in magic. One considers the formative agent of the universe to be random and chaotic, and the other considers that it is a force of spiritual consciousness. As they have only themselves on which to base their speculations, they are basically saying that their own natures are either random and chaotic or spiritually conscious. Myself, I am inclined to the view that my spiritual consciousness is random and chaotic in an agreeable sort of way.
+
+190
+
+Probability Manipulation
+
+190
+
+This is a far more modest, far less cosmically pretentious version of the first paradigm. There is a point somewhere in the genesis of any event when its future reality is uncertain. The universe is not an automatic clockwork structure; there is a level of disorganization within which the universe itself does not know what it is about to do. The information is not predictable even in the events themselves. Bizarre as it may seem, there is even an accurate mathematical formulation of the limits of this disorganization, the Heisenberg Uncertainty Principle. Now events in the mind certainly partake of a similar quality: they are unpredictable and arise seemingly without cause. It has been suspected, even by scientists, that there is a hidden variable which causes the event to materialize in one particular form from a number of possibilities. This hidden variable is suspected of being consciousness or information. Consciousness, then, could be controlling how the indeterminate events will actually materialize. Armed with this idea and applying his magic to the critical point, the magician may engineer some impressive coincidences.
+
+190
+
+Morphic Field Theory
+
+191
+
+The novel and extraordinary hypothesis of formative causation provides an excellent magical paradigm. Briefly, it states that whenever a new event occurs in the universe, it predisposes all subsequent similar events to occur in the same way by the agency of a “morphic field” ubiquitously across space and time. The hypothesis does not concern itself with why the event occurred in the first place, but suggests that as soon as it has happened, it generates this morphic field which makes it more likely to occur again. This provides a rationale for much magic.
+
+191
+
+Clairvoyance, for example, is the tapping of a morphic field left by an event in the distant or recent past. Only prophecy, always the most doubtful of the mantic arts, cannot be fitted into this scheme. Atavisms, entities, gods, and demons would represent the morphic fields left by animals and human thoughts. Sympathetic magic becomes the deliberate representation of an event in miniature to produce a morphic field which causes the desired event to occur elsewhere. If imagining an event is enough to generate a small morphic field, then the effectiveness of visualization is explained.
+
+192
+
+Religion takes the view that consciousness preceded organic life. Supposedly there were gods, angelic forces, titans, and demons setting the scene before material life developed. Science takes the opposite view and considers that much organic evolution occurred before the phenomenon of consciousness appeared. Magic, which has given more attention to the quality of consciousness itself, takes an alternative view and concludes that organic and psychic forms evolve synchronously. As organic development occurs, a psychic field is generated which feeds back into the organic forms. Thus each species of living being has its own type of psychic form or magical essence. These egregores may occasionally be felt as a presence or even glimpsed in the form of the species they watch over. Those who have perceived the human egregore usually describe it as God. Communion with the morphic fields of beasts is of great importance to the shaman and sorcerer, as it conveys intimate knowledge about the actual creature and allows the magician a certain power over the species. It may also allow him to appropriate certain of the beast's powers, particularily on the aetheric plane. This is the reason for the worldwide occurrence of totemism among hunting peoples and the prevalence of animal headed-human bodied
+
+192
+
+Magicians consider that all life on this world contributes to, and depends on, a vast composite egregore which has variously been known as the Great Mother, the Anima Mundi, the Great Archon, the Devil, Pan, and Baphomet.
+
+192
+
+Observer Created Universe
+
+192
+
+We usually tend to regard will and perception as separate functions of our consciousness or awareness. Indeed, our will and perception seem to be the most basic properties of our being. However, try making these assumptions:
+
+Everything we perceive is real, (not unreasonable)
+
+Anything we cannot perceive does not exist, (not for us anyway)
+
+Anything we will that does not come into our perception was not will but merely a failed wish.
+
+Then Will and Perception Are The Same Thing.
+
+193
+
+Glance around you for a moment; your entire universe is exactly as you willed and perceived it. It is all a creation of your belief in it. Even other persons must be counted as figments of your belief in them. Obviously, the beliefs which uphold the universe must be pretty deep-seated and not amenable to mere wishes, although real acts of will/perception might change parts of it. This provides a magical model in which everything is permitted, though it might be damnably difficult. Austin Spare often worked within this paradigm, anticipating by half a century the development of non-objectivity, one of a number of interpretations of quantum theory. This suggests that it is the actual act of willed perception or measurement which actually creates events. Magically, it is by tapping the deepest levels of consciousness and belief that creative events are initiated.
+
+193
+
+The Holographic Universe
+
+193
+
+To specify the position of a particle with complete accuracy, we would have to also specify the relative position of each and every other particle in the universe. In the holographic universe model, this idea is taken one step further; every particle in the universe is actually connected to every other particle by some hidden form of instantaneous connection. This connection has a mathematical formulation in the Quantum Inseparability Principle. Hypotheses of this type are often called “bootstrap theories” because they suggest that everything is the cause of everything—the universe is holding itself up by its own bootstraps. Any change anywhere in such a holographic universe would, in theory, be detectable everywhere instantly. Such a hidden form of instantaneous communication is the very stuff of magic.
+
+194
+
+The web of connections between every event can be seen as a higher order reality, the hologram. The part of reality of which we are normally aware is merely a projection of this, the holograph. Synchronicity and all other magical paradigms assume that there is some form of information transfer which can proceed in rather unusual ways across space and time. Although it is difficult to imagine how matter or energy can behave in this way, there is no reason why pure information itself cannot be made to do this. Pure information has no weight or force, and so nothing could prevent its instantaneous passage to anywhere or perhaps anywhen. It is likely that somewhere within the psyche and within the quantum indeterminacy that underlies physical reality there may be something acting as transmitter and receiver of this pure information.
+
+194
+
+This would, for example, explain why psychic phenomena can be perceived but cannot easily be made to register objectively, as anyone who has tried to photograph or tape record ghosts will appreciate. It would also confirm the magical commonplace that it is easier to make a man fall under a sixteen ton weight than to make a sixteen ton weight fall upon a man. The information required is infinitely smaller in the first case, unless of course one can hex the crane driver at exactly the right moment.
+
+194
+
+Higher Dimensionality
+
+194
+
+We find ourselves in a universe that is at least four dimensional. To be sensible to us an event must have a displacement in both space and time. A piece of paper having only two or three dimensions, that is having no thickness, or existing for an imperceptibly short time, could not be part of our universe. Although we commonly think in terms of a three dimensional reality, this must be at least a four dimensional reality, even if time does appear to have a different quality to our perception. We often forget to include time in our conceptions because we take simultaneity for granted; we assume that things exist in the same time frame and that they will persist.
+
+195
+
+Suppose for a moment that there were a fifth dimension that we were unable to perceive with our senses. Suppose also that all phenomena were five dimensional. How could five dimensional phenomena appear to our four dimensional perception? A point from the fifth dimension would not be perceivable in four dimensions. This may explain why fundamental particles or quarks cannot be observed singly. Higher dimensionality might also solve other problems in physics like parity violation and certain properties of the vacuum. A line from the fifth dimension would appear to us only as a point. A five dimensional surface would appear as a line in our reality. A five dimensional “solid object” would be perceived as a surface, and the things which appear to us as solid objects in our reality would be the manifestations of true five dimensional solids for which we have no name. Now, points, lines, surfaces, and “solid objects” do not actually exist in this fifth dimension anymore than points, lines, and surfaces exist in ordinary four dimensional geometry, except as idealizations.
+
+196
+
+It therefore follows that if there were five dimensions, all the things we perceive as existing solid objects in “our reality” are merely the way that five dimensional objects appear to us. This may seem a nonsensical complication, but it was raised to demonstrate that we might be living in a five dimensional reality, yet be unable to perceive it as such. What would be the consequences if this were so? It would actually explain a great deal beyond some obscure problems in fundamental physics. Firstly, it would explain why we seem to live in a world of effect rather than a world of cause. We seem only able to measure effects. We have no idea how anything causes anything else in a final sense. All our so-called physical laws are merely catalogs of effects we have come to expect. Our power to actually cause events is illusory. We merely arrange things to make certain effects more probable, but we can't get hold of the root causes themselves. This is hardly surprising if we are unable to interact with the full dimensionality of an event. As the Kabbalists have said, the causal world exits as a hidden dimension.
+
+196
+
+A fifth dimension to which the psyche had some limited access could explain all magical and occult phenomena without exception. Information moved through a fifth dimension could manifest at any point in ordinary time or space. Telepathy, necromancy, clairvoyance, and precognition are explained at a stroke. Transformations caused in the fifth dimension would appear as effects in ordinary reality; telekinesis and all forms of spell casting and enchantment are thus possible. Trying to make things happen in the ordinary world by arranging for effects is a laborious and time consuming business. If we could gain access to the causal world, infinite power and possibility might be available at a whim, if we were still interested.
+
+197
+
+Most magical paradigms envisage a total universe made up of three realities.
+
+Primary Reality: The Void, Chaos, Ain Soph Aor, God, the Empyrean, Universe B, the Meon, The Pleroma or Plenum, Mummu, the Nagual, the Archetypal or Formative World, the 5th Dimension, Cosmic Mind, the Hologram, the Night of Pan, Hyperspace, Acausality, Quantum Realm.
+
+Second Reality: The Aethers or Astral, Probability, the Gods, Morphic Fields, the Shadow World, the Side, the Wind, the Astral Light, Potentia, Aura, Middle Nature.
+
+Tertiary Reality: The Physical or Material World, Malkuth, Universe A, the Tonal, the 4th Dimension, the Body of God, the Holograph, Causality.
+
+197
+
+And it is a further characteristic of all magical paradigms that there is an equivalence between the microcosm and macrocosm. As above, so below. Thus man contains a part of primary and secondary reality in addition to his physical being.

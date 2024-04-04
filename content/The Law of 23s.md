@@ -1,12 +1,8 @@
 ## The Law of 23s
 
-* [Confirmation bias](Confirmation%20bias.md)
-* [Selection bias]()
-* You set up the expectation, and then we notice the 23s more than ordinary numbers.
-* our emic realities are programmed by our expectations
-* Usually, we would state this to novices without the crucial (italicized) final clause; it was up to them to discover the metaprogrammer and figure that part out for themselves.
-* You have achieved Discordian enlightenment when you realize that, while the goddess Eris and the Law of Fives are not literally true, neither is anything else. [What the Thinker thinks, the Prover proves](What%20the%20Thinker%20thinks,%20the%20Prover%20proves.md).
-* The 23 enigma is regarded as a corollary of the Law of Fives because 2 + 3 = 5.
+In Discordianism, the Law of 23s is a means of bringing awareness of [confirmation bias](Confirmation%20bias.md) and how [the left hemisphere prioritizes things that it already knows and expects](The%20left%20hemisphere%20prioritizes%20things%20that%20it%20already%20knows%20and%20expects.md). You set up the expectation that 23s are ubiquitous and significant, and then we notice the 23s more than ordinary numbers.
+
+Usually, the Law of 23s would only be presented to novices without the final clause; it was up to them to discover the [metaprogrammer](Meta-programming.md) and figure that part out for themselves. You have achieved Discordian enlightenment when you realize that, while the goddess Eris and the Law of Fives are not literally true, neither is anything else.
 
 ---
 

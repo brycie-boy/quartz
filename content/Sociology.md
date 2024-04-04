@@ -14,6 +14,10 @@ Sociology is a social science that focuses on society, human social behavior, pa
 * [Those who make transgressions against their in-group sometimes make amends just by being antisocial towards out-groups](Those%20who%20make%20transgressions%20against%20their%20in-group%20sometimes%20make%20amends%20just%20by%20being%20antisocial%20towards%20out-groups.md)
 * [People have an enhanced capacity for empathy towards in-group members](People%20have%20an%20enhanced%20capacity%20for%20empathy%20towards%20in-group%20members.md)
 * [People are for forgiving to in-group members for violating a norm](People%20are%20for%20forgiving%20to%20in-group%20members%20for%20violating%20a%20norm.md)
+* [Safetyism](Safetyism.md)
+* [Safetyism causes a feedback loop in which people become ever more fragile](Safetyism%20causes%20a%20feedback%20loop%20in%20which%20people%20become%20ever%20more%20fragile.md)
+* [Gen Z](Gen%20Z.md)
+* [Seeing people as fragile leads to the notion that they must always be protected by discomfort](Seeing%20people%20as%20fragile%20leads%20to%20the%20notion%20that%20they%20must%20always%20be%20protected%20by%20discomfort.md)
 
 ---
 

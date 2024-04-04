@@ -1,6 +1,6 @@
-## Pure Reason  #⏳
+## Pure Reason #🧠
 
-Pure Reason is a philosophical view originating from the Greeks which argues that, even if sense data is fallible because [the brain's perceptual systems actively and pre-consciously interpret and edit their input](The%20brain's%20perceptual%20systems%20actively%20and%20pre-consciously%20interpret%20and%20edit%20their%20input.md), there still exists a higher faculty which is not fallible and knows truths a priori.
+Pure Reason is a philosophical view originating from the Greeks which argues that, even if sense data is fallible ([Because perception is not absolute, all of our ideas are somewhat conjectural and inferential](Because%20perception%20is%20not%20absolute,%20all%20of%20our%20ideas%20are%20somewhat%20conjectural%20and%20inferential.md)), there still exists a higher faculty which is not fallible and knows truths a priori.
 
 ---
 

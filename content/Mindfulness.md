@@ -1,6 +1,6 @@
-## Mindfulness #⏳
+## Mindfulness #🧠
 
-Mindfulness is a sustained non-judgmental recollection of the present and what is happening to us and within us throughout moment to moment experience. Mindfulness allows us to stabilize attention and dwell in a lucid space of non-reactive awareness. This helps keep the mind from slipping into [habit](Habit.md)s and mindwandering through forgetfulness and mental proliferation. Mindfulness can culminate into the experience of [flow](Flow.md). [Serenity](Serenity.md) and [Insight](Insight.md) are both elements of mindfulness.
+Mindfulness is a sustained non-judgmental recollection of the present and what is happening moment to moment. Mindfulness, in its initial stages, is concerned with keeping the contemplative mind continually on its object, which means keeping the object continually present to the mind. Mindfulness can allow us to stabilize attention and dwell in a lucid space of non-reactive awareness. This helps keep the mind from slipping into [habit](Habit.md)s and mind-wandering through forgetfulness and mental proliferation. Mindfulness is said to occur in close conjunction with [clear comprehension of activities](Clear%20comprehension%20of%20activities.md). When practiced successfully, mindfulness can culminate into the experience of [flow](Flow.md).
 
 ---
 

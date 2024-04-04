@@ -2,7 +2,7 @@
 
 [Psychiatry has not yet been able to come up with laboratory tests for psychiatric conditions](Psychiatry%20has%20not%20yet%20been%20able%20to%20come%20up%20with%20laboratory%20tests%20for%20psychiatric%20conditions.md), and the absence of biological tests is a huge disadvantage for psychiatry. It means that all of our diagnoses are now based on subjective judgments that are inherently fallible and prey to capricious change. It is like having to diagnose pneumonia without having any tests for the viruses or bacteria that cause the various types of lung infection.
 
-I believe there's potential danger here if the psychiatrist is to fall victim to [confirmation bias](Confirmation%20bias.md). They're trained to look for these disorders in people, and may unconsciously tune out the signs that you don't have the disorder. They may see nothing wrong with it because their intention is to help. If the diagnosis is particularly ambiguous then it can be very hard to get rid of.
+I believe there's potential danger here if the psychiatrist is to fall victim to [confirmation bias](Confirmation%20bias.md). They're trained to look for these disorders in people, and may unconsciously tune out the signs that you *don't* have the disorder. And they may see nothing wrong with this because their intention is to help, but such help may not be what the patient needs, and can cause not harm than good. Also, if that diagnosis is particularly ambiguous then it can be very hard for the patient to get undiagnosed.
 
 ---
 

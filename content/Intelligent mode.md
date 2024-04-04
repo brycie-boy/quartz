@@ -1,6 +1,11 @@
-## Intelligent mode
+## Intelligent mode #🧠
 
-In intelligent mode, we are observant of our behavior and are able to [jump out of the system](Jump%20out%20of%20the%20system.md). We can perform [high-temperature search](High-temperature%20search.md)es; we are allowed to do whatever our intelligence suggests, and can modify the rules of the system to see what that gives. I believe Intelligent mode is characteristic of the [right hemisphere](Right%20hemisphere.md) since [the right hemisphere allows for flexibility in thought and behavior](The%20right%20hemisphere%20allows%20for%20flexibility%20in%20thought%20and%20behavior.md), and [the right hemisphere is able to access and hold larger quantities of information](The%20right%20hemisphere%20is%20able%20to%20access%20and%20hold%20larger%20quantities%20of%20information.md).
+[We generally struggle to examine and criticize our own neural programs](We%20generally%20struggle%20to%20examine%20and%20criticize%20our%20own%20neural%20programs.md). In intelligent mode, however, we *are* conscious of our behavior and are able to [jump out of the system](Jump%20out%20of%20the%20system.md). We are allowed to do whatever our intelligence suggests, and can modify the rules of the system to see what that gives.
+
+* [The right frontal lobes allow for flexibility in thought and behavior](The%20right%20frontal%20lobes%20allow%20for%20flexibility%20in%20thought%20and%20behavior.md)
+* [Those with impairments in the right frontolimbic regions have trouble with stopping whatever they're currently doing](Those%20with%20impairments%20in%20the%20right%20frontolimbic%20regions%20have%20trouble%20with%20stopping%20whatever%20they're%20currently%20doing.md)
+* [The right hemisphere sees the whole first, and then the left hemisphere separates it into parts](The%20right%20hemisphere%20sees%20the%20whole%20first,%20and%20then%20the%20left%20hemisphere%20separates%20it%20into%20parts.md)
+  * pattern recognition
 
 ---
 
@@ -12,4 +17,4 @@ In intelligent mode, we are observant of our behavior and are able to [jump out 
 
 Type: #🔵/🔵 
 Tags: [Psychology](Psychology.md)
-Status: #☀️ 
+Status: #⛅️/⛅️ 

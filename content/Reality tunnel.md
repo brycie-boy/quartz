@@ -1,6 +1,6 @@
 ## Reality tunnel  #🧠
 
-A reality tunnel is an [Emic Reality](Emic%20Reality.md) established by a system of coding, or a structure of metaphors, and transmitted through language, art, mathematics or other symbolism. It is a “tunnel” because it only attends to a narrow subset of signals and ignores everything else.
+A reality tunnel is an [emic reality](Emic%20Reality.md) established by a system of coding, or a structure of metaphors, and transmitted through language, art, mathematics or other symbolism.
 
 ---
 

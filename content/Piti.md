@@ -1,6 +1,6 @@
 ## Piti
 
-* [Novel experience and information is handled by the right hemisphere, and is handled by the left hemisphere once it becomes familiar](Novel%20experience%20and%20information%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20handled%20by%20the%20left%20hemisphere%20once%20it%20becomes%20familiar.md)
+* [Novelty is handled by the right hemisphere, and is transferred to the left hemisphere as it becomes familiar](Novelty%20is%20handled%20by%20the%20right%20hemisphere,%20and%20is%20transferred%20to%20the%20left%20hemisphere%20as%20it%20becomes%20familiar.md)
 * [The right hemisphere handles alertness, vigilance, sustained attention, and divided attention](The%20right%20hemisphere%20handles%20alertness,%20vigilance,%20sustained%20attention,%20and%20divided%20attention.md)
 
 Piti is a [volitional formation](Volitional%20formation.md) associated with [the jhanas](The%20jhanas.md). It is described as a stimulating, exciting and energizing quality, as opposed to the calmness of [sukha](Sukha.md). The [neurotransmitter](Neurotransmitter.md) [norepinephrine](Norepinephrine.md) is said to be responsible for the sensation.
