@@ -1,4 +1,4 @@
-content/.git/
+content/.git/*
 .DS_Store
 .gitignore
 node_modules
