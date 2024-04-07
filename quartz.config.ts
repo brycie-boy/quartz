@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Pixel Operator Bold",
-        body: "Pixel Operator",
-        code: "Pixel Operator Mono",
+        header: "PixelOperator-Bold",
+        body: "PixelOperator",
+        code: "PixelOperatorMono",
       },
       colors: {
         lightMode: {
