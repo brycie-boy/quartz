@@ -8,43 +8,46 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🔮 The Cosmos",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "thecosmos.brycemcalister",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        @import url(https://db.onlinewebfonts.com/c/40ebc217b413175c58d9c6d5044f5815?family=Pixel+Operator);
+        @import url(https://db.onlinewebfonts.com/c/f779d20a1d7221b6f507caef1e471628?family=Pixel+Operator+Bold);
+        @import url(https://db.onlinewebfonts.com/c/689d07b9988e93f5344ffd6748697270?family=Pixel+Operator+Mono);
+        header: "Pixel Operator Bold",
+        body: "Pixel Operator",
+        code: "Pixel Operator Mono",
       },
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          lightgray: "#B1B1B1",
+          gray: "#CECECE",
+          darkgray: "#000000",
+          dark: "#000000",
+          secondary: "#DAA3FF",
+          tertiary: "#824EA4",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#000000",
+          lightgray: "#434343",
+          gray: "#5E5E5E",
+          darkgray: "#faf8f8",
+          dark: "#faf8f8",
+          secondary: "#DAA3FF",
+          tertiary: "#824EA4",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
