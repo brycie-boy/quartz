@@ -19,16 +19,12 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: @font-face {
-  font-family: 'Pixel Operator';
-  src: url('https://www.fontsaddict.com/fontface/pixel-operator.ttf');
-}
-	,
+      fontOrigin: 'https://fonts2u.com/pixel-operator.font',
       cdnCaching: true,
       typography: {
         header: "Pixel Operator Bold",
         body: "Pixel Operator",
-        code: "IBM Plex Mono",
+        code: "Pixel Operator Mono",
       },
       colors: {
         lightMode: {
