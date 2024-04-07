@@ -22,9 +22,6 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        @import url(https://db.onlinewebfonts.com/c/40ebc217b413175c58d9c6d5044f5815?family=Pixel+Operator);
-        @import url(https://db.onlinewebfonts.com/c/f779d20a1d7221b6f507caef1e471628?family=Pixel+Operator+Bold);
-        @import url(https://db.onlinewebfonts.com/c/689d07b9988e93f5344ffd6748697270?family=Pixel+Operator+Mono);
         header: "Pixel Operator Bold",
         body: "Pixel Operator",
         code: "Pixel Operator Mono",
