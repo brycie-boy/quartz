@@ -8,22 +8,22 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🔮 The Cosmos",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "thecosmos.brycemcalister",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "fontsaddict",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Pixel Operator Bold",
+        body: "Pixel Operator",
         code: "IBM Plex Mono",
       },
       colors: {
