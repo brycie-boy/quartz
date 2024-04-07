@@ -19,7 +19,11 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "fontsaddict",
+      fontOrigin: @font-face {
+  font-family: 'Pixel Operator';
+  src: url('https://www.fontsaddict.com/fontface/pixel-operator.ttf');
+}
+	,
       cdnCaching: true,
       typography: {
         header: "Pixel Operator Bold",
