@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "PixelOperator-Bold",
-        body: "PixelOperator",
-        code: "PixelOperatorMono",
+        body: "Pixel Operator",
+        code: "Pixel Operator Mono",
       },
       colors: {
         lightMode: {
