@@ -1,4 +1,3 @@
-
 ## The Origins and History of Consciousness
 
 Author: [[Eric Neumann]]

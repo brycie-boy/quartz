@@ -1,4 +1,4 @@
-## Slightly eccentric and non-conventional people qualified for Aspergers diagnosis # 
+## Slightly eccentric and non-conventional people have tended to recieve Asperger's diagnosis # 
 
 The diagnosis of autism has exploded in the past twenty years. Before DSM-IV, this was an extremely rare condition, diagnosed in one child per two thousand. The rate has now jumped to one in eighty in the United States and an even more amazing one in thirty-eight in Korea.14,15,16 The first reaction was parental panic—worries about autism at the slightest sign that a child was not perfectly conventional.
 
