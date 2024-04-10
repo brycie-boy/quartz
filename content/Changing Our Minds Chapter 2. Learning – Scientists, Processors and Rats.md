@@ -364,6 +364,7 @@ Amount: 21
 - [[Cognitive scientists measured learning through observation of natural learning or through tests in controlled settings]]
 - [[The cognitive science approach to learning strips it of it's context and meaning to the student]]
 - [[A cognitive model of learning which suggests that learning is only the commitment of information to long-term memory has gained precedence in schools]]
+- [[Schools have extrapolated form chess professionals that storing information into long-term memory ahead of time will prepare them for expertise later]]
 - [[People become experts in something by actively doing it rather than by preparing for it]]
 - [[Experts have purpose and context in what they learn because they have chosen to learn it]]
 - [[The cognitive approach to learning overlooks the role of environment in a students capacity to learn something]]

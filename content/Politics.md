@@ -101,7 +101,7 @@ Organize:
 - [[Public schooling fosters confusion through a fragmented and out of context material]]
 - [[Forced material and class schedules leads students to become indifferent towards self-initiaited learning]]
 - [[The numbering, grading, and ordering of students conditions them to tacitly accept their hierachical position]]
-- [[The use positive and negative reinforcement in schools condition students for emotional dependence on authority]]
+- [[The use of positive and negative reinforcement in schools condition students for emotional dependence on authority]]
 - [[Schools encourage intellectual dependency towards authority by discouraging inquiry]]
 - [[School grades teach students to believe that their self-worth depends on expert opinion]]
 - [[Constant evaluation in schools teaches students that they are under constant surveillence and that privacy is illegitamate]]

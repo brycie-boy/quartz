@@ -6,7 +6,7 @@ enableDate: false
 
 # ![[F183D3F6-F6D0-4384-BEAC-45DCCA0DE77A.gif|50]] The Library  
 
-The Library is contains the sources that have fed [🔮 The Cosmos](🔮%20The%20Cosmos/The%20Cosmos.md). Click on any source to see highlights, summaries, and/or notes for that source. Some of these are full books, others may just be certain chapters or web articles.
+In The Library, you will find the sources that have fed [🔮 The Cosmos](🔮%20The%20Cosmos/The%20Cosmos.md). Click on any source to see highlights, summaries, and/or notes for that source. Some of these are full books, others may just be certain chapters or web articles.
 
 ### Favorites / Top Recommendations
 

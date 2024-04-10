@@ -62,7 +62,7 @@ Notes on psychiatry:
 - [[Scores for MMPI and MMPI-A tests rose significantly between 1938 and 1989]]
 - [[Locus of control]]
 - [[Internal-External Locus of Control Scale]]
-- [[Free play can elevate mental health in students by giving them a sense of control, allowing them to confront risk, letting them learn social skills and allowing to find their passions]]
+- [[Free play can elevate mental health in students by giving them a sense of control and choice]]
 - [[Studies have shown children to be the least happy while in school and the most happy when out of school and with friends]]
 - [[The development of a subjective definition of harm made subjective claims to harm a valid reason for protection]]
 - [[By the 2000s, the concept of trauma in psychiatry had expanded to include subjective harm]]

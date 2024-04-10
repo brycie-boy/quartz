@@ -7,6 +7,7 @@ We should focus systems rather than goals because:
 - [[Setting goals leaves you continuously putting your satisfaction off until the next milestone]]
 - [[Completing a goal only provides temporary change, while systems maintain continuous progress]]
 - [[After we accomplish a goal, we have nothing to motivate us to continue working]]
+- [[Those who try to manipulate outcomes make things more complicated and harder to manage]]
 
 ___
 

@@ -1,8 +1,8 @@
-## The brain selects for the brain circuits that are most utilized throughout development #🧠 
+## The brain selects for the brain circuits that are most utilized throughout development # 
 
-[[Much of the growth of the human brain occurs after birth]]. This process is sometimes referred to as neural Darwinism because it invovles the selection of the [[neuron]]s, [[synapse]]s and circuits that help the [[brain]] adapt to its paticular environment, and the discarding of others. 
+[[Much of the growth of the human brain occurs after birth]]. 
 
-In the early stages of life, the infant’s [[brain]] has many more [[neuron]]s and connections than necessary—billions of [[neuron]]s in excess of what will eventually be required. This overgrown, chaotic [[synapse|synaptic]] tangle needs to be trimmed to shape the [[brain]] into an organ that can govern action, thought, learning, and relationships and carry out its myriad other tasks—and to coordinate them all in our best interests. Which connections survive depends largely on input from the environment. Connections and circuits used frequently are strengthened, while unused ones are pruned out. Scientists call this aspect of neural Darwinism [[synapse|synaptic]] pruning. Both [[neuron]]s and neural connections compete to survive and grow. Experience causes some [[neuron]]s and [[synapse]]s (and not others) to survive and grow. 
+- [[synaptic pruning]]
 
 Through this weeding out of unutilized [[cell]]s and [[synapse]]s, the selection of useful connections, and the formation of new ones, the specialized circuits of the maturing human [[brain]] emerge. This is what is refered to in ethology as [[imprint]]ing. The [[imprint]]ing process is highly specific to each individual person—so much so that not even the [[brain]]s of identical twins have the same nerve branching, connections, and circuitry. In large part, our early years define how well our [[brain]] structures will develop and how the neurological networks that control human behavior will mature.
 

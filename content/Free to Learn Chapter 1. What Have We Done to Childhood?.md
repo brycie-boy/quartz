@@ -170,7 +170,7 @@ Amount: 10
 - [[Scores for MMPI and MMPI-A tests rose significantly between 1938 and 1989]]
 - [[Internal-External Locus of Control Scale]]
 - [[A 2002 study showed an 80 percent increase in external locus of control since the 1960s]]
-- [[Free play can elevate mental health in students by giving them a sense of control, allowing them to confront risk, letting them learn social skills and allowing to find their passions]]
+- [[Free play can elevate mental health in students by giving them a sense of control and choice]]
 - [[School fosters mental illness by stripping students of control and Independence]]
 - [[Studies have shown children to be the least happy while in school and the most happy when out of school and with friends]]
 

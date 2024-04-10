@@ -1,6 +1,6 @@
 ## Self-reliance #🧠 
 
-Self-reliance refers to an attitude of mind in which one places trust in their own judgement and relies on themselves as the basis for truth and morality rather than [[groupthink]] or [[authority bias]]. 
+Self-reliance refers to the act of trusting in one’s own judgement and referring to oneself as the basis for truth and morality rather than [[groupthink]] or [[authority bias]]. 
 
 ___
 

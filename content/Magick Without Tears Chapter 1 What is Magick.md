@@ -205,7 +205,7 @@ ___
 
 ### Notes
 
-- [[Every individual has their own unique character and purpose by design of the universe]]
+- [[Every individual has their own unique character and motion by design of the universe]]
 - [[True Will]]
 - [[Those who are not following their own unique course experience friction from being in conflict with the order of the Universe]]
 - [[Magick]]

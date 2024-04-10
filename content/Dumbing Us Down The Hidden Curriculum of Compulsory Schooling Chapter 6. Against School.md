@@ -135,3 +135,14 @@ ___
 
 ### Notes
 
+Amount: 8
+
+- [[Alexander Inglis six basic functions of school]]
+- [[The US public schooling system has its roots in Prussia]]
+- [[Public schools serve to manufacture a manageable population and to put down dissent and originality]]
+- [[The propaedeutic function]]
+- [[The selective function]]
+- [[The integrating function]]
+- [[The differentiating function]]
+- [[The adaptive function]] 
+

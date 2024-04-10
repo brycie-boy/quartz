@@ -1,6 +1,6 @@
 ## Behaviorism assumes that it is external entities that control learning # 
 
-The basis of [[behaviorism]] is that the most fundamental principle is that you can change behavior through the deliberate manipulation of external events. The experimenters, rather than the animals, controlled what learning should take place. [[The use positive and negative reinforcement in schools condition students for emotional dependence on authority]].
+The basis of [[behaviorism]] is that the most fundamental principle is that you can change behavior through the deliberate manipulation of external events. The experimenters, rather than the animals, controlled what learning should take place. [[The use of positive and negative reinforcement in schools condition students for emotional dependence on authority]].
 
 ___
 

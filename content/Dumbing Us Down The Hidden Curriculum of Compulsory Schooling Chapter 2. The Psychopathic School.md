@@ -85,3 +85,9 @@ ___
 
 ### Notes
 
+Amount: 3
+
+- [[Schools maintain a continuous present by seperating children and old people from adults]]
+- [[We need to adopt a means of education which embraces independent study and encourages self-reliance]]
+- [[A school reform should reintigrate the family]]
+

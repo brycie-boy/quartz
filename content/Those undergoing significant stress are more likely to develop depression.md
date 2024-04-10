@@ -14,4 +14,4 @@ ___
 
 Type: #🔴 
 Tags: [[Psychology]] / [[Psychiatry]]
-Status: #☀️ 
+Status: #⛅️/⛅️ 

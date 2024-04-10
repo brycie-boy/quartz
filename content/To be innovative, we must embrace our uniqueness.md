@@ -1,6 +1,6 @@
 ## To be innovative, we must embrace our uniqueness #🧠 
 
-[[Humanities greatest thinkers are those who defied groupthink and authority bias and followed their own judgement]]. [[Every individual has their own unique character and purpose by design of the universe]]. 
+[[Humanities greatest thinkers are those who defied groupthink and authority bias and followed their own judgement]]. [[Every individual has their own unique character and motion by design of the universe]]. 
 
 Many people have a moment in their lives where they recognize that envy and imitation is destructive, and that we must embrace our unique selves. 
 

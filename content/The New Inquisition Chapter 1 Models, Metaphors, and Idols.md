@@ -569,7 +569,7 @@ Amount: 39
 - [[The word "is" can be seen as a metaphor]]
 - [[The word "matter" can be seen as metaphorical]]
 - [[A languages structure and grammatic rules can distort how we interpret and percieve reality]]
-- [[The kind of attention we pay to an object changes whatever that thing is to us]]
+- [[The way we attend to something changes whatever that thing is to uss]]
 - [[Anything that cannot be measured is considered meaningless or nonexistent to science]]
 - [[Idolatry]]
 - [[Fundamentalism]]

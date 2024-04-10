@@ -21,7 +21,7 @@ The more I looked at why mindfulness training helped people quit and stay quit, 
 
 We looked specifically at the relationship between craving and smoking because craving had been clearly linked as part of the habit loop. Without a craving, people were much less likely to smoke. Hani found that, indeed, before mindfulness training, craving predicted smoking. If people craved a cigarette, they were very likely to smoke one. Yet by the end of the four weeks of training, this relationship had been severed. Interestingly, people who quit reported craving cigarettes at the same level as those that didn’t quit. They just didn’t smoke when they craved. 
 
----
+___
 
 65
 

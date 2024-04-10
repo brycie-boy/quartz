@@ -18,4 +18,4 @@ These issues can apply just as readily to some less expected workplaces, ones th
 
 Type: 
 Tags:
-Status: # ⛅️/⛅️
+Status: #⛅️/⛅️

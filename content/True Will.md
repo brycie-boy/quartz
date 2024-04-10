@@ -1,6 +1,6 @@
 ## True Will # 
 
-[[Every individual has their own unique character and purpose by design of the universe]]. In Thelema, True Will refers to this unique purpose and character, or as a moment-to-moment path of action that operates in perfect harmony with the Universe. [[Those who are not following their own unique course experience friction from being in conflict with the order of the Universe]]. 
+[[Every individual has their own unique character and motion by design of the universe]]. In Thelema, True Will refers to this unique purpose and character, or as a moment-to-moment path of action that operates in perfect harmony with the Universe. [[Those who are not following their own unique course experience friction from being in conflict with the order of the Universe]]. 
 
 True Will does not spring from conscious intent, but from the interplay between the inner most self and the entire universe. Our True Will is what we truly desire deep down and is to be distinguished from social pressures. Those in touch with their True Will have eliminated or bypassed such false desires, conflicts, and [[habit]]s, and accessed their connection with the divine. At this point, they act by [[non-forcing]] and in alignment with nature, just as a stream flows downhill, with neither resistance nor "lust of result." When we are aligned with our True Will, we enter a state of [[flow]].
 

@@ -1,4 +1,4 @@
-## The use positive and negative reinforcement in schools condition students for emotional dependence on authority # 
+## The use of positive and negative reinforcement in schools condition students for emotional dependence on authority # 
 
 - prepares children for extrinsic motivation
 - Those who do feel gratification from their school performance I believe have some need for validation and support fulfilled by teacher praise, and have no real higher aspersions: [[As we self-realize we become more sure of our identity and less reliant of the validation of others]]
